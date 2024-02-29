@@ -1,0 +1,2500 @@
+j documents
+cd ZSH
+diff aliases.zsh ~/oh-my-zsh/custom/aliases.zsh
+rm aliases.zsh
+diff env.zsh ~/oh-my-zsh/custom/env.zsh
+cp ~/oh-my-zsh/custom/aliases.zsh 
+cp ~/oh-my-zsh/custom/aliases.zsh ./
+diff aliases.zsh ~/oh-my-zsh/custom/aliases.zsh
+..
+rmrf oh-my-zsh
+fd .zshrc /
+fd zshrc /
+cd .config
+wget https://github.com/sdushantha/dotfiles/tree/master/zsh
+v zsh
+rm zsh
+v .zshrc
+xdg-ninja
+qtconf
+qttest
+qttest
+qtconf
+qttest
+qttest
+clr
+clr
+cd ~
+ln --help
+mv .zshrc ~/.config/zsh/
+cd .config/zsh
+ln -s .zshrc ~/.zshrc
+ll
+cd ~
+ll
+ll -a
+clr
+add .z
+cd .config
+add alacritty
+add autostart
+add bat
+add doom
+cd emacs
+add .doomrc
+..
+add qtile
+add rofi
+add vivaldi
+add vivaldi-snapshot
+add yay
+add zsh
+add dolphin
+add dolphinrc
+add picom.conf
+add nvim
+cd emacs
+..
+cd copyq
+cd themes
+ls -a
+..
+..
+add copyq
+..
+cd bin
+add autostart.sh snapall.sh
+cd appimages
+..
+add appimages
+cd webapps
+..
+add webapps
+...
+config status
+config commit -m 'commit before making push to actually initialize the repo on github'
+git config --global user.name 'Coreyizfate'
+git config --global user.email '131212701+Coreyizfate@users.noreply.github.com'
+git config --system global user.name 'Core'
+git config --system user.name 'Coreyizfate'
+sudo git config --system user.name 'Coreyizfate'
+            sudo git                            'l                                                                                                                                                                                                                         âƒ¼ƒ¸ INT\
+\
+quote> \
+quote> quote> \
+quote> quote> quote> \
+quote> quote> quote> quote> \
+quote> quote> quote> quote> quote> \
+quote> quote> quote> quote> quote> quote> \
+quote> quote> quote> quote> quote> quote> quote> \
+quote> quote> quote> quote> quote> quote> quote> quote> \
+quote> quote> quote> quote> quote> quote> quote> quote> quote> \
+quote> quote> quote> quote> quote> quote> quote> quote> quote> quote> 
+                                                                                                                                  âƒ¼ƒ¸ INT
+                                                                                                                                                    quote> quote> quote> quote> quote> quote> quote> quote> quote> quote> quote> 
+r
+                                                                                                                                                    quote> quote> quote> quote> quote> quote> quote> quote> quote> quote> quote> 
+clr
+git config -
+sudo git config --system user.email '131212701+Coreyizfate@users.noreply.github.com'
+git config show
+git config status
+git config --help
+ggkïƒ¥¼ ï€£ /home âƒ½¯ ggk                                                                                                                                ïƒ©ƒ² 6s
+git config --help | bat
+git config --list
+config status
+cd corey
+config status
+r
+clr
+cd Documents
+mkdir Personal
+mv Projects Personal
+                                                                                                                                u
+mv Personal ~/
+..
+cd .config/zsh
+ln --help
+mv .zshrc ~/
+cd ~
+ln -s .zshrc ~/.config/zsh/
+ll
+ll -a
+cd .config/zsh
+ll
+ll -a
+l..
+..
+..
+cd Personal
+mkdir org-docs
+..
+ln -s Personal ~/Documents/
+cd Documents
+ll -a
+cd Personal
+rm Personal
+..
+cd Personal
+..
+ln --help
+ln -sn Personal ~/Documents
+cd Documents
+ll -0a
+ll -0a
+ll -a
+cd Personal
+rm Personal
+..
+ln --help
+ln Personal ~/Documents
+man ln
+ln -s ~/Personal ~/Documents/Personal
+cd Documents
+cd Personal
+cd ~/Personal
+cd ~
+doom sync
+doom sync
+cd .config
+cd emacs
+cd bin
+..
+cd docs
+..
+cd modules
+cd term
+cd vterm
+b README.org
+cd .config
+cd doom
+v init.el
+doom install
+v packages.el
+..
+cd nvim
+cd lua/user
+v keymaps.lua
+cd .../after/plugin
+.../after/plugin
+...
+cd after/pluign
+cd afteer
+cd after/plugin
+v comment.lua
+j doom
+v packages.el
+v config.el
+v init.el
+r
+v init.el
+doom doctor
+fd projectile.cache /
+cd /
+fd projectile
+doom --help
+doom
+doom upgrade
+cd ~
+cd .config
+rmrf doom emacs
+htop
+cd .config
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs\
+~/.config/emacs/bin/doom install
+doom sync
+doom upgrade
+..
+yay qmk
+yay qmk
+yay github
+yay -S hub
+clr
+cd Personal
+cd org-docs
+cd ~
+clr
+yay nuclear
+cd .cache
+cd gitstatus
+rm gitstatusd-linux-x86_64
+..
+rmrf gitstatus
+..
+cd .local
+cd state
+..
+cd share
+..
+..
+cd .mozilla
+cd extensions
+..
+cd firefox
+yay -R firefox
+qg fire
+...
+lks
+rmrf .mozilla
+cd Shared
+..
+yay -S python3 pip
+yay python3
+yay python36
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+pip install --upgrade pip
+cd bin
+git clone https://github.com/vial-kb/vial-gui.git
+cd vial-gui
+pip install -r requirements.txt
+snapall
+yay
+yay
+qttest
+man alacritty
+alacconf
+j alacritty
+rm default-arcolinux.toml
+alacritty --help
+xprop
+j /home/corey/.config/alacritty
+v alacritty.toml
+man alacritty
+man alacritty-msg
+man alacritty-bindings
+alacconf
+man alacritty-bindings
+toggle-fzf-tab
+toggle-fzf-tab --help
+man toggle-fzf-tab
+fzf
+_the_silver_searcher
+yay -
+yay -Qqe
+fd platinum /
+cd u/s/d/t_p_s
+cd /u/s/d/the_platinum_searcher
+cd /usr/share/docs
+cd /usr/share
+cd docs
+cd doc
+cd the_platinum_searcher
+b README.md
+yay -S awk sed
+pt --help
+pt --color search /
+pt --color porn /home
+pt qtile /
+ss 
+man ss
+..
+ls | grep search
+ls | g silv
+cd /
+fzf silver
+fzf
+fzf --help
+man fzf
+yay fuzy
+yay fuzzy
+yay -S python-pdftotext antiword perl-image-exiftool libreoffice csvkit
+yay -S java=runtime java-environment pstoedit libmythes beanshell libwpg python-unidecode python-pystemmer texlive-latexextra python-html5lib python-defusedxml python-pandas ipython
+yay screen cord
+yay xdotool
+hyfetch
+htop
+picom -b && disown
+hthop
+htop
+picom -b && disown
+hyfetch
+alacritty --help
+alacritty --print-events --ref-test
+xprop
+xdotool --help
+xdotool getwindowgeometry
+xdotool activewindow getwindowgeometry
+xdotool type
+wmctrl
+yay window control
+yay x win tool
+qttest
+clr
+htop
+jr
+clr
+qttest
+qtile check
+ bi
+vim ~/.config/qtile/config.py
+cd .local/share/qtile
+b qtile.log
+cd Pictures/wallpapers
+l;s
+   qtconf
+exit
+cd Pictures/wallpapers
+qttest
+shutdown now
+emacsclient -c -a 'emacs'
+htop
+qclr
+clr
+doom run
+qttestg
+qttest
+cd .local/share
+cd qtile
+b qtile.log
+yay -S dbus-next
+yay dbus
+clr
+clr
+cd ~
+wget https://zzamboni.org/images/doom-emacs-color.jpg
+xdg-open .fehbg
+clr
+nomacs .fehbg
+rm .fehbg
+nomacs doom-emacs-color.jpg
+mv doom-emacs-color.jpg ~/Pictures/
+cd Pictures
+cd personal
+cd info
+cd info
+..
+cd info
+mv hacking-skills-needed.png ~/Documents/Learning
+..
+rmdir info
+cd popup-images
+l;s
+..
+mkdir 'Apps & Thumbnails\
+'
+rm Apps\ \&\ Thumbnails$'\n'
+rmdir Apps\ \&\ Thumbnails$'\n'
+mkdir 'Apps & Thumbnails'
+mv icons Apps\ \&\ Thumbnails
+cd Apps\ \&\ Thumbnails
+..
+cd popup-images
+nomacs vim-keybindings.png
+yay image viewer simple
+yay -S xviewer-plugins webp-pixbuf-loader yelp libqpsd-git xcftools poppler-qt6 jp2a
+xviewer vim-keybindings.png
+viewsvg
+cd Personal
+cd ~/Documents
+cd QMK\ Builds\ \&\ json
+..
+mv -p QMK\ Builds\ \&\ json ~/Personal/keyboards
+mv --help
+clr
+mv QMK\ Builds\ \&\ json ~/Personal
+cd Personal
+cd ~/Personal
+mkdir keyboardz
+mv QMK\ Builds\ \&\ json keyboardz
+cd Projects
+mkdir qtile
+mv icons-img qtile
+cd qtile
+cd icons-img
+qttest
+qttest
+systemctl logout
+qtile logout
+logout
+logout --help
+qg way
+cd .config/hpr
+cd .config/hypr
+v hyprland.conf
+yay wofi
+doomclient
+emacsclient -c -a 'emacs'
+emacs
+clr
+qtile check
+sysctl
+systemctl
+systemctl --help
+systemctl reboot
+cd .config/qtile
+..
+mv qtile/qtilemvbak
+mv qtile qtilemvbak
+qg qtile
+yay -R qtile
+yay qtile
+yay -S python-bowler python-dbus-next python-iwlib python-keyring python-libcst python-mpd2 python-pywayland
+yay qtile extras
+qtile check
+mv qtilemvbak qtile
+qtile check
+qttest
+qtilemvbak qtile
+qtile check
+qttest
+qtile check
+qttest
+clr
+cd /tmp
+ls -a
+cd .X11-unix
+b X0
+..
+cd .XIM-unix
+..
+cd .font-unix
+..
+..
+fd libqtile /
+cd /usr/lib/python3.11/site-packages/libqtile
+b config.py
+cd resources
+cd __pycache__
+..
+b __init__.py
+b  sleep.py
+b default_config.py
+..
+cd scripts
+cd migrations
+..
+l
+ll
+..
+ll
+cd core
+ll
+b loop.py
+..
+b config.py
+qtconf
+cd .config/hypr
+l;s
+ls -a
+v hyprland.conf
+clr
+mv hyprland.conf use-as-example.defaultconf
+touch hyprland.conf
+quit
+exit
+xrandr
+cd /etc
+ps monitor res
+ss
+clr
+man ps
+p
+fd platinum /
+fd silver /
+yay -S ripgrep
+yay bg wayland
+yay -S swww  wallutils
+qg swww
+swww --help
+yay wallutils
+wall --help
+fd wal /bin
+man setwallpaper
+setwallpaper --help
+docutils -help
+docutils -help
+docutils -help | b
+waypaper --help
+shutdown now
+v ~/.config/hypr/hyprland.conf
+cd .config/hypr
+b hyperland.conf
+b hyprland.conf
+fd hypr /
+rm hyprland.conf
+cp use-as-example.defaultconf hyprland.conf
+emacsclient -c -a 'emacs' ~/.config/hypr/hyperland.conf
+yay hyprpaper
+hyprpaper --help
+cd .config/
+fd hyprpaper /
+hyprpaper
+man hyprpaper
+hyprpaper help
+hyfetch
+cd ..
+cd Pictures/wallpapers
+xviewer
+yay kvantum
+photoqt
+yay -R photoqt
+photorec --help
+wofi
+wofi --help
+man wofi
+systemctl
+systemctl --user
+yay kde agent
+autostart
+fd kde-autheication /
+fd polkit /
+cd /usr/lib/
+ls | grep polkit
+yay -S qt5-wayland qt6-wayland
+yay xdg-desktop-portal
+yay xdg-desktop-portal
+yay wpctl
+yay pipewire
+yay mixer audio
+yay wp control
+yay audio wp
+yay audio
+yay pipewire
+wpctl --help
+hyprctl --help
+hyprctl globalshortcuts
+man hyprctl
+cd .config/hypr
+v binds.conf
+waybar
+cd .config
+cd autostart
+cd /etc/xdg/autostart
+rm nm-applet
+sudo rm nm-applet.desktop
+waybar
+hyprctl
+hyprctl hyprpaper
+hyprpaper
+hyprpaper --help
+hyprpaper --config
+cd Pictures/wallpapers
+imgcat 186148-blue-grey-and-black-background.jpg
+imgcat --help
+imgcat help
+man imgcart
+man imgcat
+w3m --help
+yay image term
+fd waybar /
+man waybar
+cd ~/.config/
+cd /etc/xdg/waybar
+..
+sudo cp waybar ~/.config
+sudo cp -r waybar ~/.config
+cd ~/.config
+cd waybar
+b config
+man hyprctl
+wofi --help
+man wofi
+fd wofi /
+cd /usr/share/wofi
+b wik
+b wiki.example
+b wifi.example
+cd /usr/lib
+cd wofi
+..
+cd share
+cd wofi
+..
+cd /
+fd wofi /
+man wofi
+man wofi(5)
+man wofi 5
+man 5wofi
+man wofi5
+man man
+man wofi.7
+man wofi.2
+man wofi.3
+man wofi.4
+man wofi.5
+fd wofi /
+cd /usr/share/wofi
+cd ~/.config
+yay -R ulauncher
+yay -R elinks
+yay -R micro nano
+yay -R neofetch
+yay -R paru-git
+yay -R paru
+fzy --help
+fzy img viewer
+fzy
+fzy
+man fzy
+wofi --show run
+fd fuzzy /
+cd /var/lib/pacman/local
+cd fuzzy-pkg-finder-1.2-1
+b files
+fpf
+yay hyprpicker
+hyprpicker
+hyprpicker --help
+fd spotify /bin
+fd spotify /
+b /usr/share/applications/spotify-adblock.desktop
+env LD_PRELOAD=/usr/lib/spotify-adblock.so spotify --uri=%U
+./usr/share/applications/spotify-adblock.desktop
+fpf
+aliases
+cd /usr/share/applications
+ls | g spotify
+b spotify-adblock.desktop
+yay todoist
+cd ~/bin
+cd appimages
+todoist.AppImage
+appimages --help
+appimages
+sudo appimages
+appimagelauncherd
+..
+..
+cd .config
+cd autostart
+dex --help
+dex -c appimagelauncherd
+fd appimage /
+AppImageLauncher
+dex -c /usr/bin/appimagelauncherd
+b appimagelauncherd.desktop
+chmod +x appimagelauncherd.desktop
+cd bin
+cd appimages
+cd .config
+cd waybar
+emacsclient config
+shutdown now
+yay jgmenu
+ll
+ll -a
+cd venv
+ll
+b pyvenv.cfg
+..
+xdg-ninja
+cd /etc
+cd sahre
+cd share
+cd /usr
+cd share
+cd applications
+ll
+ll -a
+ll
+ll
+assistant --help
+yay documentation
+yay eww
+yay hybrid
+yay eww
+cd .config
+yay -Qse
+yay -Qe
+yay -Se
+yay -e
+yay --help
+yay -Qie
+yay -Qqe
+yay paper wayland
+yay -R swagbg-git swww waypaper-git
+yay -R swaybg-git
+yay -R swagbg
+yay wallpaper wayland
+yay -R swaybg
+yay -R swww
+yay -R waypaper-git
+yay wallpaper wayland
+rmrf BraveSoftware geany google-chrome google-chrome-beta google-chrome-unstable micro microsoft-edge-dev PhotoQt ulauncher waypaper 
+yay elinks
+rmrf elinks
+fd dconf /
+rmrf chromium
+cd alsi
+.
+..
+yay stow
+yay dotfile
+yay stow
+stow --help
+man adopt
+man stow
+yazi
+ya
+..
+cd .dotfiles
+..
+rmrf .dotfiles
+mkdir dotfiles
+rmdir dotfiles
+mkdir .dotfiles
+cd .dotfiles
+mkdir .config
+mkdir bin
+..
+rm alacritty.recording
+rm .python_history
+b .gitconfig
+b .bash_logout
+b .bash_profile
+rm .bash_logout
+b .bashrc-personal
+rm .bashrc-personal
+cd .hyprland
+..
+cd .idlerc
+..
+rmdir .idlerc
+cd .1password
+ls -a
+..
+rmdir .1password
+xdg-ninja
+cd .config
+mkdir git
+..
+mv .gitconfig ~/.config/git
+cd .config/git
+mv .gitconfig config
+..
+..
+b .rnd
+bat -A .rnd
+cd .config/zsh
+b env.zsh
+cd .local/share
+v env.zsh
+..
+..
+ya
+yay -R github-desktop-bin
+yay fetch
+paleofetch
+yay -R arcolinux-paleofetch-git arcolinux-neofetch-git
+screenfetch
+yay -R screenfetch
+pfetch
+ufetch
+cpufetch
+yay -R cpufetch
+qg cpu
+yay -R cpufetch-git
+fd trash /
+..
+..
+cd personal
+v .gitkeep
+..
+rmrf personal
+srmrf personal
+cd dev
+cd fd
+..
+..
+cd proc
+..
+cd var
+cd mail
+..
+cd run
+..
+..
+cd ~
+r
+r
+r
+ranger
+ya
+ya
+cd ~/.dotfiles
+stow .
+cd ~/.config/autostart
+ya
+cd ~/.dotfiles
+stow .
+ll
+ll
+ll -a
+..
+ll -a
+cd .config
+ll -a
+ya
+cd .config
+ya
+rmrf ranger.bak
+srmrf ranger.bak
+cd copyq
+ya
+fd .trash /
+...S
+...
+cd .local/share
+cd trash
+cd Trash
+cd files
+ya
+....
+..
+cd .config/copyq
+\
+\
+\
+
+...
+cd .dotfiles
+git --help
+git init
+git add --help
+git status
+git add --all
+git status
+cd .config
+cd zsh
+cd plugins
+rm 4ohmyzsh
+cd zsh-autosuggestions
+..
+cd zsh-syntax-highlighting
+..
+..
+rmrf plugins
+cd themes
+..
+rmrf themes
+ll -a
+..
+ya
+stow --help
+stow -D qtile
+stow -D copyq doom alacritty autostart bat htop hypr kitty nvim ranger rofi sublime-text-4 vivaldi vivaldi-snapshot yazi zsh
+stow -D copyq doom alacritty autostart bat htop hypr kitty nvim ranger rofi sublime-text-4 vivaldi vivaldi-snapshot yazi
+...
+cd .config
+ll -a
+ya
+cd .config
+..
+cd .dotfiles
+cd copyq
+cd config
+cd .config
+cd copyq
+..
+cd ranger
+cd plugins
+..
+rmrf plugins
+b scopy.sh
+b scope.sh
+..
+cd nvim
+..
+cd kitty
+rm current-theme.conf example.kitty.conf kitty.conf.bak
+..
+cd ddom
+cd doom
+..
+cd hypr
+rm use-as-example.defaultconf
+..
+cd qtile
+rmrf .mypy_cache_1 __pycache___1 original_1.py
+..
+cd ranger
+..
+cd rofi
+..
+cd sublime-text-4
+rmrf Installed\ Packages
+rmrf Lib Local
+..
+cd yay
+..
+cd yazi
+..
+cd zsh
+..
+..
+..
+cd .config
+cd copyq
+..
+cd qtile
+...
+cd .local/share
+cd Trash
+cd fiels
+cd files
+ranger
+ya
+yay -R stow
+..
+cd .dotfiles
+ln --help
+unlink --help
+unlink .config
+unlink .zshrc
+unlink .bashrc
+..
+ll -a
+man ln
+cd .dotfiles
+ls -a
+ya
+ya
+ll -a
+rm .bashrc .zshrc
+..
+cp .bashrc.bak ~/.dotfiles/.bashrc
+cp .zshrc.bak ~/.dotfiles/.zshrc
+ll
+ll -a
+..
+cd ~
+cd .dotfiles
+ll
+cd .config
+ya
+ya
+fjkls;jaf
+cd .config
+cd .config/kitty
+v kitty.conf
+cd .config
+v ~/.config/kitty/kitty.conf
+pfetch
+neofetch
+fdsak;fjksla;sdkfjsdlafkjdsfkl;jsd;vnxcmvxzm.nvxc
+v ~/.config/kitty/kitty.conf
+cd .dotfiles
+ll
+cd bin
+ll
+..
+cd config
+ll
+cd .config
+ll
+git status
+git add --all
+git status
+git commit -m "Initial commit"
+git push
+git push .dotfiles
+git push --set-upstream .dotfiles master
+..
+git push
+git push .dotfiles
+git push --set-upsteam .dotfiles master
+git push .dotfiles
+git 
+cd .git
+b index
+b config
+cd info
+ls -a
+..
+cd logs
+ll
+..
+cd hooks
+ll
+cd .config/hypr
+cd .config
+cd hypr
+..
+cd .dotfiles
+cd .config
+cd hpr
+cd hypr
+ll
+ll
+cd .config
+ll
+..
+cd .dotfiles
+git remote add origin https://github.com/Coreyizfate/Dotfiles.git
+git push
+git push -u origin master
+git status
+git remote add repo https://github.com/Coreyizfate/Dotfiles.git
+git add --all
+git status
+git commit -m "initial commit"
+yay github cli
+yay github
+yay git manager
+ya
+ls alacritty
+ls autostart
+ls bat
+ls copyq
+cd copyq
+ya
+r
+ya
+lx
+..
+cd copyq
+..
+ls autostart
+ls alacritty
+ls bat
+ls doom
+ls htop
+ls hypr
+ya
+ls hypr
+..
+cd .config
+ls hypr
+ls kitty
+ls nvim
+ls qtile
+ya
+ls qtile
+ls rofi
+ls sublime-text-4
+ls yay
+ls yazi
+ls zsh
+ls -a
+cd zsh
+ll -a
+ll -a
+ll -a
+aliases
+v aliases.zsh
+..
+..
+ya
+sleep
+sleep now
+sleep --help
+systemctl sleep
+systemctl --help
+clr
+rofi --help
+fd rofi /
+yay rofi menu
+yay -S mpc mpd 
+fd rofi /
+fzf
+cd /
+fzf
+expac --timefmt='%Y-%m-%d %T' '%l\t%n' $(yay -Qq) | sort
+fd rofi-theme-fonts /
+cd /usr/share
+cd rofi
+cd themes
+..
+ll
+..
+ll
+hyprctl
+hyprctl clients
+hyprctl activewindow
+cd .config
+cd alacirtty
+cd qtile
+..
+..
+ll
+vim
+hyprpaper
+hyprpaper --help
+man hyprpaper
+hyprctl hyprpaper
+hyprctl
+hyprctl plugin
+hyprctl
+hyprctl monitors
+cd .config
+cd hypr
+touch hyprpaper.conf
+systemctl enable hyprpaper
+hyprctl clients
+systemctl enable hyprpaper
+hyprctl hyprpaper --help
+hyprctl hyprpaper next
+htop
+cd .config
+cd htop
+..
+rmrf htop
+cd htop.bak
+..
+mv htop.bak htop
+htop
+yay eww
+eww
+eww daemon
+cd waybar
+cd .config
+ll
+sudo chown -R corey:corey waybar
+ll
+cd waybar
+ll
+chmod +x waybar
+..
+chmod +x waybar
+ll
+chmod -R +x waybar
+ll
+cd waybar
+ll
+..
+mpd
+mpd --help
+kill hyprpaper
+kill --help
+kill -l
+xkill --help
+hyprctl
+hyprctl kill hyprpaper
+hyprctl kill --help
+htop
+doom doctor
+fd hack /
+cd /usr/share/font
+cd /usr/share
+cd fonts
+cd OTF
+ls | grep hack
+..
+cd ttf
+cd TTF
+ls | grep hack
+..
+cd misc
+..
+cd cantarell
+yay resume
+ya
+ll
+b .zshrc
+cd .config
+cd zsh
+b .zshrc
+..
+..
+b .zshrc
+rm .zshrc
+cd .config/zsh
+..
+..
+ln -s ~/.config/zsh/.zshrc .zshrc
+ll
+ya
+yay language model
+ollama --help
+ollama list
+ollama pull
+yay docker
+yay qmk
+yay qmk
+yay -R python-hidapi
+yay qmk
+expac --timefmt='%Y-%m-%d %T' '%l\t%n' $(yay -Qq) | sort
+snapall
+qmk --help
+qmk setup
+qmk setup
+qmk env
+man qmk
+qmk setup
+cd qmk_firmware
+cd keyboards
+cd keychron/v1/ansi
+v rules.mk
+b info.json
+v config.h
+cd keymaps
+cd via
+..
+cd keychron
+..
+cd default
+v keymap.c
+..
+cd keychron
+v keymap.c
+v rules.mk
+..
+cd via
+v rules.mk
+v keymap.c
+hyprpaper --help
+yay wlroots
+waybar
+doom sync
+doom sync --help
+doom --help
+doom upgrade
+doom sync
+ doom sync
+doom sync
+htop
+htop
+yay
+snapall
+yay
+doom upgrade
+doom doctor
+cd .config/doom
+v init.el
+doom doctor
+cd .config/doom
+v init.el
+doom doctor
+v init.el
+b custom.el
+rm custom.el
+rm config.org
+v packages.el
+v config.el
+doom sync
+doom doctor
+doom build
+doom upgrade
+cd .config
+cd waybar
+v style.css
+v config
+doom --help
+doom env
+doom sync
+yay -R emacs
+qg emacs
+yay -R emacs-nativecomp
+cd .config
+rmrf doom emacs
+fd emacs /
+cd /usr/share
+cd emacs
+..
+srmrf emacs
+ls | g doom
+cd git
+cd emacs
+..
+srmrf emacs
+cd /runn
+cd /run
+cd mpd
+..
+cd user
+cd 1000
+cd emacs
+..
+srmrf emacs
+..
+..
+..
+fd emacs /
+cd /var/cache
+cd pacman
+cd pkg
+srm emacs-nativecomp-29.2-1-x86_64.pkg.tar.zst emacs-nativecomp-29.2-1-x86_64.pkg.tar.zst.sig
+cd ~
+yay emacs
+cd .config
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs\
+~/.config/emacs/bin/doom install
+rmrf doom emacs
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs\
+~/.config/emacs/bin/doom install
+doom sync
+doom doctor
+yay shellcheck
+yay lang server
+yay -S ctags python-pypandoc python-tomli-w
+expac --timefmt='%Y-%m-%d %T' '%l\t%n' $(yay -Qq) | sort\ 
+expac --timefmt='%Y-%m-%d %T' '%l\t%n' $(yay -Qq) | sort
+python doctor
+doom doctor
+doom sync
+emacsclient --debug-init -c -a 'emacs'
+emacs --debug-init
+doom doctor
+yay sbcl
+yay hoogle
+yay cabel
+yay cabal
+yay black
+yay isort
+yay nosetests
+yay -S shfmt
+yay -S stylelint
+yay -S js-beautify
+yay -S isort
+yay -S black
+yay -S cabal
+yay -S hoogle
+yay -S inferior-lisp-program
+doom doctor
+yay cabal
+doom doctor
+doom --help
+doom clean
+doom purge
+doom sync
+doom upgrade
+htop
+autostart
+ll
+cd .config/doom
+v init.el
+v config.el
+emacs
+eww
+eww daemon
+cd .config
+mkdir eww
+ll
+rm dolphin.bak dolphinrc.bak
+ll
+rm picom.conf.bak
+ll
+trash
+trash --help
+aliases
+tr --help
+trash-list
+trash --help
+ll
+cd eww
+fd eww /
+cd .config
+cd doom
+ll
+b config.el
+b init.el
+..
+rmrf doom emacs
+R emacs-wayland
+R emacs-wayland
+qg emacs
+yay emacs
+24
+yay emacs
+yay emacs native
+emacs
+yay -Sc
+snapall
+yay -Sc
+ll
+cd .dotfiles
+..
+yay ripgrep
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs\
+~/.config/emacs/bin/doom install
+doom sync
+doom
+emacs
+cd .emacs.d
+..
+rmrf .emacs.d
+emacs
+cd .config/doom
+v config.el
+yay -R emacs-nativecomp
+yay -S emacs-wayland
+emacs
+doom rebuild
+doom build
+doom upgrade
+doom doctor
+doom run
+cd .config/doom
+rm custom.el
+v config
+v config.el
+doom sync
+doom run
+htop
+doom sync
+cd .config/kitty
+v kitty.conf
+fd kitty.conf /
+cd /usr/share/doc/kitty
+b kitty.conf
+cp kitty.conf ~/.config/kitty/
+cd html
+cd ~/.config/kitty
+ln -s /usr/share/doc/kitty/html /docs
+sudo ln -s /usr/share/doc/kitty/html /docs
+ll
+..
+ll
+cd kitty
+sudo ln -s /usr/share/doc/kitty/html docs
+ll
+cd docs
+..
+..
+j docs/kitty
+cd /usr/share/doc/kitty
+cd html
+fd docs /
+cd /
+cd docs
+..
+srmrf docs
+v kitty.conf
+b kitty.conf.bak
+b example.kitty.conf
+rm example.kitty.conf
+v kitty.conf
+hyprpicker
+hyprpicker
+hyprpicker
+v
+v
+v
+v
+v
+v
+\:"::"q\
+\
+\
+\
+\
+\
+\
+
+v
+v
+hyprpicker
+hyprpicker
+hyprpicker
+hyprpicker
+kitten
+kitten themes
+kitten themes
+fzf
+fd clipboard /
+man wl-clipboard
+man wl-clipboard
+yay bacon
+yay bottom
+yay cava
+yay gh
+yay avizo
+yay swappy
+yay wezterm
+yay zathura
+yay zellij
+cd .config/doom
+v config.el
+v init.el
+emacs
+emacsclient -c -a 'emacs'
+v config.el
+htop
+doom sync
+emacsclient -c -a 'emacs'
+doom env
+cd .config/emacs
+cd modules/ui/ligatures
+b README.org
+doom doctor
+...
+..
+cd .local
+cd etc
+cd @
+b init.29.elc
+ll
+cd in
+cd init.29.d
+..
+..
+cd @
+chmod +rw init.29.el init.29.elc
+ll
+chmod a+rw init.29.el init.29.elc
+ll
+chmod a+r init.29.el init.29.elc
+ll
+v init.29.elc
+....
+cd modules/ui/ligatures
+v doctor.el
+v config.el
+..
+b README.org
+cd hl-todo
+b README.org
+..
+..
+v source.el
+cd config
+cd use-package
+v init.el
+v packages.el
+..
+..
+..
+cd .local
+cd straight
+cd repos
+..
+..
+cd etc
+cd transient
+..
+cdr2raw cd workspaces
+cd workspaces/k
+cd workspaces
+..
+..
+cd cache
+...
+cd lisp
+cd lib
+..
+b demos.org
+..
+cd bin
+..
+cd templates
+..
+b .doomrc
+..
+cd autostart
+cd /usr/share/applications
+ls | g todo
+fd todoist /
+cd bin
+cd appimages
+ll
+todoist.AppImage
+.todoist.AppImage
+./todoist.AppImage
+nohup --help
+yay launch tray
+yay tray
+alltray --help
+~/bin/appimages/todoist.AppImage
+alltray --hide ~/bin/appimages/todoist.AppImage
+hyprctl
+autostart
+autostart
+todoist
+_todo.sh
+yay todoist
+yay todo
+yay ticktick
+ticktick
+waybar
+cd .config
+cd rofi
+cd themes
+..
+cd script
+ya
+yay rofi menu
+ya
+yazi
+cd .config/rofi
+cd script
+..
+cd theme
+cd themes
+man rofi
+..
+cd script
+b bluetooth
+sh bluetooth
+v bluetooth
+man rofi-scripts
+man rofi
+man rofi.5
+man rofi5
+man rofi(5)
+man rofi 5
+man rofi-script
+man rofi-theme
+man rofi-config
+man rofi
+cd /etf
+cd /etc
+cd rofi
+fd rofi /
+qkk
+cd ~/.config/kitty
+v kitty.conf
+cd .config/kitty
+v new_kitty.conf
+cd .config/kitty
+cd Documents/Learning
+fdjk;sf
+fksdj;afas
+fds
+f
+;skdfjsdlkf
+cd .
+cd /usr
+cd share
+cd applications
+cd etc
+ll
+cd .config
+cd kitty
+ya
+kitty --dump-config
+cd .config/kitty
+kitty --help
+ll
+chmod a+x kitty.conf
+ll
+v
+cd .config/kitty
+v kitty.conf
+cd .config
+ll
+v
+cd kitty
+v kitty.conf
+v
+v
+v
+v
+v
+sh bluetooth
+rofi --show bluetooth
+rofi --show ~/.config/rofi/script/bluetooth
+man rofi-script
+cd .config/rofi
+rofi -show bluetooth -modes "bluetooth:~/.config/rofi/script/bluetooth"
+cd script
+ll
+..
+chmod -R a+x script
+ll
+cd script
+ll
+..
+rofi -show bluetooth -modes "bluetooth:~/.config/rofi/script/bluetooth"
+mv bluetooth bluetooth.sh
+cd script
+mv bluetooth bluetooth.sh
+ll
+rofi -show bluetooth -modes bluetooth:~/.config/rofi/script/bluetooth.sh
+man rofi
+mv bluetooth.sh bluetooth
+ll
+v bluetooth
+rofi -show bluetooth -modes bluetooth:~/.config/rofi/script/bluetooth.sh -theme /home/corey/.config/rofi/themes/bluetooth.rasi
+rofi -show bluetooth -modes bluetooth:~/.config/rofi/script/bluetooth -theme /home/corey/.config/rofi/themes/bluetooth.rasi
+cd .config/rofi
+bluetooth
+./bluetooth
+v rofi-wifi-menu.sh
+rofi -show wifi-menu -modes wifi-menu:rofi-wifi-menu.sh
+rofi -show wifi-menu -modes wifi-menu:/home/corey/.config/rofi/script/rofi-wifi-menu.sh
+rofi -show wifi-menu -modes wifi-menu:/home/corey/.config/rofi/script/rofi-wifi-menu.sh
+nm-applet
+rofi -show wifi-menu -modes wifi-menu:/home/corey/.config/rofi/script/rofi-wifi-menu.sh
+rofi -show wifi-menu -modes wifi-menu:/home/corey/.config/rofi/script/rofi-wifi-menu.sh
+nm-applet
+cd ~/.config
+cd autostart
+dex -c /usr/bin/nm-applet
+ll
+v nm-applet.desktop
+chmod a+x nm-applet.desktop
+ll
+autostart
+cd .config/autostart
+dex -c ~/bin/appimages/todoist.AppImage
+ll
+mv todoist.AppImage.desktop todoist.desktop
+v todoist.desktop
+v todoist.desktop
+v copyq.desktop
+v appimagelauncherd.desktop
+v todoist.desktop
+v todoist.desktop
+todoist.desktop
+dex todoist.desktop
+mv todoist.desktop /usr/share/applications
+sudo mv todoist.desktop /usr/share/applications
+kitten themes
+..
+cd kitty
+v kitty.conf
+ll
+..
+fd waybar /
+cd etc/xdg
+cd /etc/xdg
+cd waybar
+..
+cd eww
+cd eww-bar
+cd scripts
+ll
+icat eww-bar.png
+..
+icat eww-bar.png
+v eww.scss
+pactl --help
+wpctl --help
+man wpctl
+wpctl
+yay -S tldr
+tldr wpctl
+wpctl
+wpctl status
+cd .config/qtile
+b config.py
+pamixer
+pamixer --help
+pamixer -t
+pamixer -t
+wpctl
+wpctl inspect
+wpctl
+bluetoothctl
+systemctl
+clr
+~
+clr
+yay raindrop
+raindrop
+hyprctl
+yay wl-clip-persist
+yay cliphist
+yay udiskie
+yay udisk
+cd .config/hypr
+v hyprland.conf
+cd ../kitty
+v kitty.conf
+ds;lkkfjasd
+f
+yay at
+yay bar
+yay ba
+yay bak
+yay tar'
+yay tar
+yay tar
+yay ba
+bat --help
+man bat | bat
+man bat
+cd .config/bat
+v config
+man bat
+cd .config/bat
+v config
+man bat
+yay ba
+yay tar
+yay pak
+kdfj;sf
+fjdk;lfjwdasf
+fds
+af
+htjhtrhjhdhasd
+fdshvnb;jsdfvbn
+hyprctl
+bat .zshrc
+fk;dljf
+fd
+f
+q
+f
+f
+q
+f
+fsdkaf
+f
+h
+fghj
+gfdj
+d
+fgh
+df
+he
+edrthes
+a
+fdsafadsf
+asdfhgdfakdkgj;asdkj
+werqtgewtnm,w.en
+;sdjklfjaskldfj
+fdds;klfjadskl;fa
+wqektrj;kqjwerqwer
+dgvs;zhnxcvzxhcjn
+asdkfnawlmdfn
+sdafsd
+ds
+hg
+rtweshtbsd
+\
+R\
+
+man rofi
+cd .config/zsh
+v env.zsh
+man man
+sh --help
+sh -c help
+sh
+help
+quit
+exit
+man sh
+aliases
+yay ziocide
+yay zocide
+yay zoxide
+v .zshrc
+fd zsh-z /
+cd .local/share
+b .z
+b z
+mv .z z
+rm z
+ya
+cd .local/share
+rm z
+cd zinit
+cd plugins
+rmrf agkozak---zsh-z
+rmrf ael-code---zsh-colored-man-pages
+rmrf MichaelAquilina---zsh-auto-notify
+ll
+man bat
+man man
+man --help
+zshrc
+cd /home/corey/.local/share/zinit/completions
+ll
+cd .local/share/trash
+cd .local/share
+cd Trash
+cd files
+zshrc
+..
+..
+cd ziinit
+cd zinit
+cd completions
+v _zshz
+rm _zshz
+yay zoxide
+yay cd tool
+yay cd better
+cd ~
+b .zcompdump
+rm .zcompdump
+b sd
+b sdf
+ya
+ll
+rm sd sdf
+ll
+cd venv
+v pyvenv.cfg
+man man
+cd .config/bat
+v config
+envzsh
+env
+env
+man man
+envzsh
+man man
+cd .cache
+mkdir personal
+cd personal
+git clone https://github.com/adi1090x/rofi.git
+cd rofi
+rmrf .git
+ls .github
+rmrf .github
+rm LICENSE
+cd fiels
+cd files
+b config.rasi
+mv config.rasi ~/.config/rofi/
+..
+..
+cd ~/.config/rofi
+ln -s /home/corey/.cache/personal/rofi gitcollection
+cd gitcollection
+v setup.sh
+cd fonts
+ya
+ya
+..
+cd previews
+..
+..
+cd gitcollection
+cd files
+ya
+wmctrl
+wmctrl -l
+hyprctl
+hyprctl clients
+man hyprctl
+hyprctl dispatch --help
+cd .config/rofi
+v config.rasi
+cd .config/rofi
+cd gitcollection
+cd files
+cp ~/.config/rofi/config.rasi ./
+cd themes
+cd colors
+b Tomorrow
+j colors
+..
+b colors.rasi
+cd colors
+b one
+b One_dark
+..
+trash colors.rasi
+cd colors
+..
+cp colors/Tomorrow colors.rasi
+b colors.rasi
+..
+cd gitcollection
+b README.md
+..
+..
+cd images
+ya
+..
+cd launchers
+cd type-1
+sh launcher.sh
+..
+v config.rasi
+sh launcher.sh
+v config.rasi
+sh launcher.sh
+cd .config/rofi/launchers
+cd type-1
+sh launcher.sh
+cd shared
+..
+v launcher.sh
+v style-3.rasi
+..
+cd type-1
+v launcher.sh
+cd .config/rofi/launchers
+cd type-1
+v launcher.sh
+cd .config/rofi/scripts
+v myconfigfiles
+cd .config/rofi
+v config.rasi
+cd launchers
+cd type-1
+v launcher.sh
+v style-7.rasi
+cd ~/.config
+ls bat
+ls ranger
+ls waybar
+ls yazi
+ls zsh
+..
+cd .config/rofi
+cd scripts
+v powermenu
+cd /etc/xdgf
+cd /etc/xdg
+cd waybar
+cd .config
+cd kitty
+v kitty.conf
+fkj;asfk;sjd
+fdjasdf
+j kitty
+v kitty.conf
+fds;kjfs
+fsdafds
+dgg
+asd
+s
+ewe
+f
+qf;sdajkf;lasdkjfa;sdlkf
+sdfasdfdsafas
+cxzvbzxcbv
+rthujerwtjuh
+rt
+_etags we
+	gftodvi
+rrdfgv
+fdsfasdfasdfsdfasdf
+yay ba
+cd .config
+cd .config/rofi
+cd scripts
+sh rofi-wifi-menu.sh
+screenshot
+sh screenshot
+cd Pictures
+cd Screenshots
+ya
+cd .config/waybar
+cd scripts
+v rofi-bluetooth-menu.txt
+..
+..
+cd Personal
+mkdir not-in-use
+mv not-in-use .not-in-use
+cd ../.config/
+mv waybar ~/Personal/.not-in-use
+cd ../Personal
+cd .not-in-use
+ya
+j waybar
+ll
+ya
+f
+cd .config/hypr
+v hyprland.conf
+v config
+fd mediaplayer.py /
+cd /usr/share
+cd waybar
+cd xdg
+ll
+cd /
+fzf
+cd /etc/xdg
+cd waybar
+..
+..
+fd resources /
+yay westerm
+cd .config
+fd wezterm /
+yay gvim
+wezterm --help
+wezterm ls-fonts
+cd ~/.config
+mkdir wezterm
+cd wezterm
+touch wezterm.lua
+v wezterm.lua
+cd /usr/share
+fd wez /
+sjf
+cd .config/wezterm/
+v wezterm.lua
+fj;sdjf
+fsa;jf
+v wezterm.lua
+yay -S --needed gtkmm3 jsonccp libsigc++ fmt chrono-date
+yay -S gtkmm3
+yay jsoncpp
+yay libsignc
+yay libsigc
+yay fmt
+yay chrono-date
+yay spdlog
+yay libgtk-3-dev
+yay libgtk
+yay -S gtk-layer-shell
+yay libpulse
+yay libnl
+yay libappindicator-gtk
+yay libdbusmenu
+yay libmpd
+yay libsndio
+yay libevdev
+yay xkbregistry
+yay power
+qg emacs
+yay -S --needed octopi-notifier-qt5 octopi-notifier-frameworks pacmanlogviewer
+yay -S --needed octopi-notifier-qt5 pacmanlogviewer
+tiv ~/Pictures/wallpapers/Abstract-fire-pink-blue-purple-patterns-HD-wallpaper.jpg
+hunter
+hunter
+hunter --help
+timg
+cd Pictures
+timg doom-emacs-color.jpg
+cd wallpapers
+timg Abstract-fire-pink-blue-purple-patterns-HD-wallpaper.jpg
+joshuto
+joshuto
+snapall
+cd ~
+~
+yay
+waybar
+cd /var/log
+ya
+tgpt
+tgpt What are some good image viewers on arch linux?
+tgpt What are some good image viewers on arch linux
+tgpt --help
+tgpt -i
+aliases
+tpgpt -i --model llama2
+tgpt --model=llama2 -i
+tpgt
+tgpt
+tgpt --help
+bbai
+xargs
+xargs help
+xargs --help
+ps
+ps kill --help
+ps --help
+kill --help
+kill -l
+emacs --help
+emacsclient --help
+emacs
+emacs -t
+emacsclient -t -a 'emacs'
+emacs
+doom
+doomclient
+emacs
+em
+yay eventss
+yay events
+yay events pdf
+yay pdf viewer gnome
+yay --needed -S gvfs-google gvfs-gphoto2 gvfs-mtp gvfs-nfs gvfs-smb gvfs-goa gvfs-afc
+yay gmail
+tldr nativefier
+cd bin
+mkdir nativefier
+cd nativefier
+mkdir gmail
+cd gmail
+nativefier --name gmail-client https://mail.google.com
+cd gmail-client-linux-x64
+./gmail-client
+cd resources
+cd app
+..
+..
+mv gmail-client ~/bin/
+...
+..
+./gmail-client
+mv gmail-client nativefier/gmail/gmail-client-linux-x64
+cd nativefier/gmail/gmail-client-linux-x64
+..
+mv gmail-client-linux-x64 ../
+..
+rm gmail
+rmdir gmail
+cd gmail-client-linux-x64
+cd /usr/bin
+ln -s ~/bin/nativefier/gmail-client-linux-x64/gmail-client gmail
+sudo ln -s ~/bin/nativefier/gmail-client-linux-x64/gmail-client gmail
+fd gmail
+ll
+: 1708748915:0;cd /usr/bin
+: 1708748915:0;ll
+: 1708748956:0;gmail
+: 1708748983:0;cd /usr/share/applications
+: 1708748987:0;ll
+: 1708749013:0;qg nuclear
+: 1708749020:0;yay -R nuclear-player-bin
+: 1708749027:0;ll
+: 1708749082:0;srm emacsclient-mail.desktop
+: 1708749097:0;srm emacs-mail.desktop
+: 1708749395:0;b com.github.hluk.copyq.desktop
+: 1708749411:0;fzf
+: 1708749442:0;sudo mv com.github.hluk.copyq.desktop copyq.desktop
+: 1708749476:0;sudo mv com.github.jeromerobert.pdfarranger.desktop pdfarranger.desktop
+: 1708755731:0;cd .config/waybar
+: 1708755751:0;...
+: 1708755754:0;cd Personal
+: 1708755759:0;cd .not-in-use
+: 1708755771:0;aliases
+: 1708755922:0;cd waybar
+: 1708755926:0;cd scripts
+: 1708755928:0;..
+: 1708755938:0;cd scripts
+: 1708755970:0;..
+: 1708755974:0;b latte.css
+: 1708755999:0;b config.orig
+: 1708756014:0;rm config.orig style.css.orig
+: 1708756016:0;..
+: 1708756019:0;..
+: 1708756030:0;cd ../.config/kitty
+: 1708756035:0;v kitty.conf
+: 1708756392:0;v .config/kitty/config
+: 1708756402:0;cd .config/kitty
+: 1708756406:0;v kitty.conf
+: 1708756476:0;v kitty.conf
+: 1708757055:0;cd .config/kitty
+: 1708757058:0;v kitty.conf
+: 1708769981:0;cd ~/Personal
+: 1708770167:0;yay java
+: 1708770539:0;yay java lsp
+: 1708770565:0;yay java
+: 1708770672:0;yay keytool
+: 1708770774:0;yay json
+: 1708815939:0;R xdotool-gui
+: 1708815963:0;xdotoolhelper-1.0.4
+: 1708816027:0;xdotool --help
+: 1708816044:0;R xdotoolhelper-git
+: 1708819876:0;yay jq
+: 1708820673:0;yay dracut
+: 1708820725:0;yay plymouth
+: 1708820941:0;echo $LIBVA_DRIVER_NAME
+: 1708820999:0;yay intel gpu
+: 1708821096:0;snapall
+: 1708821187:0;yay glxinfo
+: 1708821320:0;yay glxinfo
+: 1708821329:0;glxinfo
+: 1708821347:0;glxinfo --help
+: 1708821392:0;glxinfo | g OpenGL
+: 1708821644:0;qg firmware
+: 1708821661:0;qg driver
+: 1708821671:0;qg
+: 1708821674:0;q
+: 1708821675:0;Q
+: 1708821679:0;Qq
+: 1708821701:0;Qe
+: 1708821821:0;qg vulkan
+: 1708821825:0;qg mesa
+: 1708821831:0;qg intell
+: 1708821833:0;qg intel
+: 1708821851:0;yay mesa
+: 1708822111:0;yay intel driver
+: 1708845203:0;yay media
+: 1708845225:0;mpv
+: 1708845248:0;yay libglslang
+: 1708845254:0;yay libgls
+: 1708845265:0;mpv --help
+: 1708845346:0;yay gst
+: 1708845390:0;yay media
+: 1708845422:0;yay intel media
+: 1708990067:0;yay cast
+: 1708990281:0;yay chromecast
+: 1708990540:0;vivaldi
+: 1708990567:0;vivaldi --help
+: 1708990578:0;vivaldi -V
+: 1708990608:0;]fdfsdf
+: 1708990618:0;ai
+: 1708990635:0;llama
+: 1708990736:0;yay xwayland
+: 1708993217:0;stream2chromecast --help
+: 1708993242:0;mkchromecast --help
+: 1708993274:0;yay -S youtube-dl
+: 1708993305:0;S atomicparsley python-pycryptodome
+: 1708993366:0;fj;skjdf;ak
+: 1708993367:0;fsd
+: 1708993367:0;faasdzx
+: 1708993368:0;czxv
+: 1708993368:0;cx
+: 1708993369:0;f
+: 1708993379:0;,.,iksjd;f
+: 1708993395:0;j kitty
+: 1708993409:0;em kitty.conf
+: 1708993442:0;fjds;klafjdsakf
+: 1708993442:0;fasdfs
+: 1708993443:0;aczx
+: 1708993444:0;hernaksrlg]
+: 1708993452:0;9fds
+: 1708993452:0;fsdfs
+: 1708993510:0;cd ~
+: 1708993524:0;mkchromecast --help
+: 1708993556:0;mkchromecast -y https://www.youtube.com/watch?v=3LPJfIKxwWc
+: 1708993574:0;mkchromecast -y https://www.youtube.com/watch?v=3LPJfIKxwWc
+: 1708993581:0;mkchromecast -y
+: 1708993617:0;mkchromecast --youtbe
+: 1708993621:0;mkchromecast --youtube
+: 1708993642:0;mkchromecast -y YOUTUBE
+: 1708993679:0;mkchromecast -y youtube.com/watch?v=3LPJfIKxwWc
+: 1708993695:0;mkchromecast -y "youtube.com/watch?v=3LPJfIKxwWc"
+: 1708993764:0;mkchromecast -y "https://www.youtube.com/watch?v=3LPJfIKxwWc"
+: 1708993881:0;systemctl
+: 1708993926:0;systemctl --all
+: 1708994042:0;fd desktop portal /
+: 1708994115:0;xdg-desktop-portal-hyprland
+: 1708994139:0;systemctl --user start xdg-desktop-portal-hyprland
+: 1708994150:0;systemctl --user enable xdg-desktop-portal-hyprland
+: 0:0;
+: 0:0;
+: 1708994303:0;sya
+: 1708997872:0;htop
+: 1708998029:0;top
+: 1708998270:0;mv config config.bak
+: 1708998280:0;touch config
+: 1709002537:0;ps kill
+: 1709002553:0;gpt
+: 1709002666:0;pgrep
+: 1709002675:0;grep vivaldi
+: 1709002686:0;pgrep vivaldi
+: 1709002696:0;kill 32336
+: 1709011510:0;yay pyprland
+: 1709011844:0;yay hyprpm
+: 1709011971:0;hyprpm --lit
+: 1709011974:0;hyprpm --list
+: 1709011978:0;hyprpm list
+: 1709011981:0;hyprpm
+: 1709014872:0;qmk
+: 1709014961:0;qmk list-keyboards
+: 1709014967:0;qmk flash
+: 1709015064:0;cd qmk_firmware
+: 1709015082:0;cd keyboards/keychron/v1/ansi/keymaps/vial
+: 1709015088:0;qmk flash
+: 1709021231:0;cd qmk_firmware/keyboards/keychron/v1/ansi
+: 1709021237:0;cd keymaps
+: 1709021244:0;cd keychron
+: 1709021246:0;..
+: 1709021281:0;fd custom1 /
+: 1709021326:0;cp custom1.json ~/Personal/keyboards/
+: 1709021370:0;..
+: 1709021387:0;downloads
+: 1709021408:0;.
+: 1709021412:0;aliases
+: 1709021554:0;cd Downloads
+: 1709021567:0;qmk flash keychron_v1_ansi_custom1.bin
+: 1709101013:0;qg hypr
+: 1709101032:0;yay hypr
+: 1709101073:0;yay hyprland-plugin
+: 1709101088:0;hyprpm --help
+: 1709101142:0;hyprpm add https://github.com/hyprwm/hyprland-plugins.git
+: 1709101158:0;hyprpm update
+: 1709101239:0;hyprpm list
+: 1709101249:0;hyprpm list
+: 1709101276:0;hyprpm 
+: 1709101290:0;hyprpm reload
+: 1709101297:0;hyprpm list
+: 1709101305:0;hyprpm list
+: 1709101314:0;hyprpm
+: 1709101355:0;hyprpm list
+: 1709101359:0;hyprpm update
+: 1709101504:0;hyprpm add https://github.com/hyprwm/hyprland-plugins
+: 1709101554:0;hyprpm enable hyprbars
+: 1709101581:0;hyprpm disable hyprbars
+: 1709101601:0;hyprpm enable borders-plus-plus
+: 1709101648:0;hyprpm reload
+: 1709101834:0;pip -h
+: 1709101842:0;pip install pyprland
+: 1709101858:0;yay pyprland
+: 1709106519:0;hyprpm disable borders_plus_plus
+: 1709106527:0;hyprpm disable borders-plus-plus
+: 1709106538:0;hyprpm update
+: 1709106603:0;qg hypr
+: 1709106611:0;R hyprland
+: 1709106621:0;yay hyprland
+: 1709106909:0;hyprpm list
+: 1709106985:0;cd Downloads
+: 1709107007:0;qmk flash keychron_v1_ansi_custom1\ \(1\).bin
+: 1709107139:0;F
+: 1709107141:0;dfdaf
+: 1709107144:0;yay hy
+: 1709107612:0;cd .config/hypr
+: 1709107626:0;emacs binds.conf
+: 1709115181:0;cd Personal/keyboardz
+: 1709115201:0;qmk flash keychron_v1_ansi_custom2.bin
+: 1709115899:0;hyprpm list
+: 1709115976:0;hyprpicker
+: 1709116453:0;snapall
+: 1709116468:0;yay
+: 1709144319:0;lsblk
+: 1709144333:0;lsblk
+: 1709144342:0;cd /
+: 1709144344:0;cd dev
+: 1709144353:0;cd block
+: 1709144394:0;lsblk
+: 1709144406:0;usb-devices
+: 1709179050:0;cd .dotfiles
+: 1709179054:0;git init --bare
+: 1709179221:0;git --git-dir=/home/corey/.dotfiles --work-tree=/home/corey
+: 1709179302:0;config config --local status.showUntrackedFiles no
+: 1709179533:0;ssh-keygen -t ed25519 -C "[github|coreyizfate|coreymichael913@gmail.com]"
+: 1709179930:0;yay clipboard manager wayland
+: 1709180039:0;yay wayland screenshot
+: 1709180170:0;rustup default stable
+: 1709180184:0;yay wayland screenshot
+: 1709180513:0;shotman
+: 1709180532:0;shotman --help
+: 1709180579:0;yay screenshot wayland
+: 1709180604:0;yay wl screen
+: 1709182948:0;config setup
+: 1709182950:0;config
+: 1709182955:0;git
+: 1709183012:0;..
+: 1709183030:0;cd .config
+: 1709183048:0;cd bat
+: 1709183053:0;..
+: 1709183067:0;cd copyq
+: 1709183084:0;add copyq-commands.ini
+: 1709183090:0;add copyq.conf
+: 1709183099:0;copyq-geometry.ini
+: 1709183110:0;add copyq-tabs.ini
+: 1709183120:0;add copyq_tabs.ini
+: 1709183122:0;..
+: 1709183130:0;cd doom
+: 1709183130:0;sl
+: 1709183134:0;add config.el
+: 1709183140:0;add init.el packages.el
+: 1709183142:0;..
+: 1709183165:0;cd htop
+: 1709183172:0;add htoprc
+: 1709183174:0;..
+: 1709183180:0;cd hypr
+: 1709183185:0;add binds.conf
+: 1709183195:0;add hyprland.conf hyprpaper.conf
+: 1709183198:0;..
+: 1709183202:0;cd kitty
+: 1709183222:0;add kitty.conf
+: 1709183224:0;..
+: 1709183256:0;cd nvim
+: 1709183280:0;..
+: 1709183284:0;add nvim
+: 1709183358:0;cd qtile
+: 1709183365:0;add config.py
+: 1709183366:0;..
+: 1709183372:0;cd ranger
+: 1709183398:0;add commands.py commands_full.py rc.conf rifle.conf scope.sh
+: 1709183403:0;cd plugins
+: 1709183407:0;..
+: 1709183409:0;..
+: 1709183412:0;add ranger
+: 1709183426:0;cd rofi
+: 1709183430:0;..
+: 1709183444:0;cd rofi
+: 1709183446:0;cd gitcollection
+: 1709183450:0;..
+: 1709183450:0;ll
+: 1709183458:0;..
+: 1709183460:0;add rofi
+: 1709184146:0;cd waybar
+: 1709184154:0;add config style.ss
+: 1709184157:0;add config
+: 1709184161:0;add style.css
+: 1709184162:0;..
+: 1709184170:0;add yay
+: 1709184175:0;add zsh

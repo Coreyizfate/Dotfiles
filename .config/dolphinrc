@@ -1,0 +1,53 @@
+MenuBar=Disabled
+
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
+
+[CompactMode]
+UseSystemFont=false
+ViewFont=JetBrainsMono Nerd Font,9,-1,5,50,0,0,0,0,0
+
+[ContextMenu]
+ShowCopyMoveMenu=true
+ShowOpenInNewTab=false
+
+[DetailsMode]
+PreviewSize=64
+SidePadding=0
+UseSystemFont=false
+ViewFont=JetBrainsMono Nerd Font,9,-1,5,50,0,0,0,0,0
+
+[General]
+AutoExpandFolders=true
+BrowseThroughArchives=true
+ConfirmClosingMultipleTabs=false
+EditableUrl=true
+RememberOpenedTabs=false
+ShowFullPath=true
+SortingChoice=CaseInsensitiveSorting
+UseTabForSwitchingSplitView=true
+Version=202
+ViewPropsTimestamp=2024,2,1,9,58,21.707
+
+[IconsMode]
+UseSystemFont=false
+ViewFont=JetBrainsMono Nerd Font,9,-1,5,57,0,0,0,0,0,Medium
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[KPropertiesDialog]
+2560x1440 screen: Height=543
+2560x1440 screen: Width=446
+2560x1440 screen: Window-Maximized=true
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mltpreview,opendocumentthumbnail,svgthumbnail,textthumbnail
+
+[kuick-move]
+Paths[$e]=$HOME/Documents/,$HOME/Personal/Projects/,$HOME/Documents/Projects/
