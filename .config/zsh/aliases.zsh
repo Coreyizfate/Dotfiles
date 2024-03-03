@@ -41,7 +41,7 @@ alias f='yazi'
 alias fm='yazi'
 alias ya='yazi'
 # Use fd within specified directories in search
-alias fd='fd --exclude /usr/share/icons --exclude /run/media'   # excluding folders that i dont want & always show up
+alias fd='fd --exclude /usr/share/icons --exclude /run/media --exclude /usr/lib/python3.11 --exclude /opt/anaconda'   # excluding folders that i dont want & always show up
 # Shortening emacs commands to the following aliases
 alias em='emacsclient -t -a emacs'
 alias emacs='emacsclient -t -a emacs'
