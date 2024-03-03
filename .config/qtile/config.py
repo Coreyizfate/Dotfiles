@@ -99,7 +99,7 @@ keys = [
 
 #   |----------------------   ScratchPads   ---------------------|
 scratchpad = ScratchPad("scratchpad", [
-        DropDown("term", "kitty --class 'catscratch' --title 'catscratch'",
+        DropDown("term", "kitty --class catscratch --title catscratch",
                  width=0.45, height=0.38, x=0.275, y=0.518),
         DropDown("notion", "/usr/bin/notion-app"),
         DropDown("pwdmgr", "1password"),
@@ -121,6 +121,8 @@ group_labels = ["󰈹", "", "", "", "", "", "", "󰉓", "",
 group_layouts = ["monadtall", "monadtall", "monadtall", "monadtall", "monadtall", "monadtall", "monadtall", "monadtall", "monadtall"]
 #  groups = [Group(i) for i in "123456789"] # Default method for groups
 
+groups.append(scratchpad)
+
 for i in groups:
     keys.extend(
         [
@@ -139,7 +141,6 @@ for i in groups:
             ),
         ]
     )
-groups.append(scratchpad)
 
 
 #   |=====================================  Layouts  ==================================|
@@ -224,8 +225,8 @@ DARK_ORANGE = "#371900"
 
 screens = [
     Screen(
-        wallpaper='/home/corey/Pictures/wallpapers/ ',
-        wallpaper_mode='stretch',
+        wallpaper='/home/corey/Pictures/wallpapers/',
+        wallpaper_mode='fill',
         top=bar.Bar(
             [
                 widget.Spacer(length=10, background=GREY),
@@ -299,7 +300,6 @@ floating_layout = layout.Floating(
         Match(wm_class="maketag"),                    # gitk
         Match(wm_class="ssh-askpass"),                # ssh-askpass
         Match(wm_class="Lxappearance"),               # lxappearance
-        Match(wm_class="ulauncher"),                  # ulauncher
         Match(title="branchdialog"),                  # gitk
         Match(title="pinentry"),                      # GPG key password entry
     ]

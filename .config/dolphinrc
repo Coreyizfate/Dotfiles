@@ -8,8 +8,13 @@ UseSystemFont=false
 ViewFont=JetBrainsMono Nerd Font,9,-1,5,50,0,0,0,0,0
 
 [ContextMenu]
+ShowAddToPlaces=false
+ShowCopyLocation=false
 ShowCopyMoveMenu=true
+ShowCopyToOtherSplitView=false
+ShowMoveToOtherSplitView=false
 ShowOpenInNewTab=false
+ShowOpenTerminal=false
 
 [DetailsMode]
 PreviewSize=64
@@ -21,9 +26,11 @@ ViewFont=JetBrainsMono Nerd Font,9,-1,5,50,0,0,0,0,0
 AutoExpandFolders=true
 BrowseThroughArchives=true
 ConfirmClosingMultipleTabs=false
+ConfirmClosingTerminalRunningProgram=false
 EditableUrl=true
 RememberOpenedTabs=false
 ShowFullPath=true
+ShowZoomSlider=false
 SortingChoice=CaseInsensitiveSorting
 UseTabForSwitchingSplitView=true
 Version=202
@@ -47,7 +54,13 @@ MenuBar=Disabled
 ToolBarsMovable=Disabled
 
 [PreviewSettings]
-Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mltpreview,opendocumentthumbnail,svgthumbnail,textthumbnail
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,textthumbnail
+
+[Search]
+Location=Everywhere
+
+[VersionControl]
+enabledPlugins=Git
 
 [kuick-move]
-Paths[$e]=$HOME/Documents/,$HOME/Personal/Projects/,$HOME/Documents/Projects/
+Paths[$e]=$HOME/Pictures/,$HOME/Documents/,$HOME/Personal/Projects/,$HOME/Documents/Projects/
