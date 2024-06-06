@@ -1,10 +1,10 @@
 # Beware! This file is rewritten by htop when settings are changed in the interface.
 # The parser is also very primitive, and not human-friendly.
-htop_version=3.2.2
+htop_version=3.3.0
 config_reader_min_version=3
 fields=48 5 46 47 38 2 18 110 109 111 104 53 50 20 17 1
 hide_kernel_threads=1
-hide_userland_threads=0
+hide_userland_threads=1
 hide_running_in_container=0
 shadow_other_users=0
 show_thread_names=0
@@ -48,16 +48,16 @@ all_branches_collapsed=1
 screen:Main=USER SESSION PERCENT_CPU PERCENT_MEM M_VIRT STATE NICE IO_WRITE_RATE IO_READ_RATE IO_RATE SYSCR ELAPSED NLWP STARTTIME PRIORITY Command
 .sort_key=PERCENT_CPU
 .tree_sort_key=STARTTIME
-.tree_view=1
 .tree_view_always_by_pid=0
+.tree_view=1
 .sort_direction=-1
 .tree_sort_direction=1
 .all_branches_collapsed=1
 screen:I/O=PID USER IO_PRIORITY IO_RATE IO_READ_RATE IO_WRITE_RATE PERCENT_SWAP_DELAY PERCENT_IO_DELAY Command
 .sort_key=IO_RATE
 .tree_sort_key=PID
-.tree_view=0
 .tree_view_always_by_pid=0
+.tree_view=0
 .sort_direction=-1
 .tree_sort_direction=1
 .all_branches_collapsed=0

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=/usr/bin/copyq
+Name=copyq
+Type=Application
+Hidden=false
+

@@ -1,0 +1,566 @@
+{
+	"file_history":
+	[
+		"/home/corey/.config/qtile/config.py",
+		"/var/run/log/journal/0cfcde2445c844c0bfc44728e08bade5/system.journal",
+		"/home/corey/.config/sublime-text/Packages/A File Icon/A File Icon.sublime-settings",
+		"/home/corey/.config/sublime-text/Packages/User/A File Icon.sublime-settings",
+		"/home/corey/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/corey/.config/sublime-text/Packages/User/Python.sublime-settings",
+		"/home/corey/Documents/Learning/Vuln Machine|Docker|Varnish-H2-Request-Smuggling/docker-compose.yaml",
+		"/home/corey/Documents/Learning/Vuln Machine|Docker|Varnish-H2-Request-Smuggling/ncat/Dockerfile",
+		"/home/corey/Documents/Personal/Projects/Free-Auto-GPT/README.md",
+		"/home/corey/Documents/Personal/Projects/Free-Auto-GPT/.env",
+		"/home/corey/.cache/.fr-HYLRO2/export.data",
+		"/home/corey/.config/waybar/config",
+		"/home/corey/.cache/kioexec/krun/26447_0/7D91vHx.txt",
+		"/run/user/1000/kio-fuse-CJjEQk/zip/home/corey/Downloads/Azeret-main.zip/Azeret-main/README.md",
+		"/run/user/1000/kio-fuse-CJjEQk/zip/home/corey/Downloads/programming-23-main.zip/programming-23-main/README.md",
+		"/home/corey/Documents/Learning/[MIT]Intro to Computer Science & Programming in Python/content_map.json",
+		"/home/corey/Documents/Learning/[MIT]Intro to Computer Science & Programming in Python/static_shared/css/course_offline.47ff6.css",
+		"/home/corey/Documents/Learning/[MIT]Intro to Computer Science & Programming in Python/static_resources/2a310ecfd4a153dabc1f55c0c9651357_lniF6ys2CIk.vtt",
+		"/home/corey/Downloads/bug-bounty-a-z-ethical-hacking-cyber-security-course/TutsNode.com.txt",
+		"/home/corey/.cache/kioexec/krun/21734_0/README.md",
+		"/home/corey/Downloads/nek_type_a_layout_mine.json",
+		"/home/corey/.config/waybar/style.css",
+		"/home/corey/Personal/Cloud/.directory",
+		"/home/corey/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/corey/.config/sublime-text/Packages/User/City-Lights.sublime-theme",
+		"/home/corey/.config/sublime-text/Packages/Theme - City Lights/City-Lights.sublime-theme",
+		"/home/corey/.config/dolphin",
+		"/home/corey/.config/dolphinrc",
+		"/home/corey/.local/share/Trash/files/alacritty (1)/alacritty.toml",
+		"/home/corey/.config/rofi/config.rasi",
+		"/home/corey/Personal/keyboardz/custom1.json",
+		"/home/corey/Personal/virtual/.directory",
+		"/home/corey/.ssh/id_ed25519.pub",
+		"/usr/share/wayland-sessions/sway.desktop",
+		"/home/corey/Personal/obsidian-notes/Welcome.md",
+		"/home/corey/.local/share/Trash/files/readme.md",
+		"/home/corey/Personal/gitsshkey-ed25519",
+		"/home/corey/Personal/.directory",
+		"/home/corey/.cache/kioexec/krun/79403_0/7D91vHx.txt"
+	],
+	"folder_history":
+	[
+		"/home/corey/.config"
+	],
+	"last_version": 4169,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"next_update_check": 1717557602,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 0.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			6.0,
+			73.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"font-",
+						"font-weight"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"icon",
+						"Preferences: A File Icon Settings"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"scheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"preferences",
+						"Preferences: A File Icon Settings"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/corey/.config/qtile/config.py",
+				"/var/run/log/journal/0cfcde2445c844c0bfc44728e08bade5/system.journal",
+				"/home/corey/Documents/Learning/Vuln Machine|Docker|Varnish-H2-Request-Smuggling/docker-compose.yaml",
+				"/home/corey/Documents/Learning/Vuln Machine|Docker|Varnish-H2-Request-Smuggling/ncat/Dockerfile",
+				"/home/corey/Documents/Personal/Projects/Free-Auto-GPT/README.md",
+				"/home/corey/Documents/Personal/Projects/Free-Auto-GPT/.env",
+				"/home/corey/.cache/.fr-HYLRO2/export.data",
+				"/home/corey/.config/waybar/config",
+				"/home/corey/.cache/kioexec/krun/26447_0/7D91vHx.txt",
+				"/run/user/1000/kio-fuse-CJjEQk/zip/home/corey/Downloads/Azeret-main.zip/Azeret-main/README.md",
+				"/run/user/1000/kio-fuse-CJjEQk/zip/home/corey/Downloads/programming-23-main.zip/programming-23-main/README.md",
+				"/home/corey/Documents/Learning/[MIT]Intro to Computer Science & Programming in Python/content_map.json",
+				"/home/corey/Documents/Learning/[MIT]Intro to Computer Science & Programming in Python/static_shared/css/course_offline.47ff6.css",
+				"/home/corey/Documents/Learning/[MIT]Intro to Computer Science & Programming in Python/static_resources/2a310ecfd4a153dabc1f55c0c9651357_lniF6ys2CIk.vtt",
+				"/home/corey/Downloads/bug-bounty-a-z-ethical-hacking-cyber-security-course/TutsNode.com.txt",
+				"/home/corey/.cache/kioexec/krun/21734_0/README.md",
+				"/home/corey/Downloads/nek_type_a_layout_mine.json",
+				"/home/corey/.config/waybar/style.css",
+				"/home/corey/Personal/Cloud/.directory",
+				"/home/corey/.config/dolphin",
+				"/home/corey/.config/dolphinrc",
+				"/home/corey/.local/share/Trash/files/alacritty (1)/alacritty.toml",
+				"/home/corey/.config/rofi/config.rasi",
+				"/home/corey/Personal/keyboardz/custom1.json",
+				"/home/corey/Personal/virtual/.directory",
+				"/home/corey/.ssh/id_ed25519.pub",
+				"/usr/share/wayland-sessions/sway.desktop",
+				"/home/corey/Personal/obsidian-notes/Welcome.md",
+				"/home/corey/.local/share/Trash/files/readme.md",
+				"/home/corey/Personal/gitsshkey-ed25519",
+				"/home/corey/Personal/.directory",
+				"/home/corey/.cache/kioexec/krun/79403_0/7D91vHx.txt"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 52.0
+			},
+			"menu_visible": true,
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 272.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"font-",
+						"font-weight"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"icon",
+						"Preferences: A File Icon Settings"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"scheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"preferences",
+						"Preferences: A File Icon Settings"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/corey/.config",
+				"/home/corey/.config/doom",
+				"/home/corey/.config/google-chrome-beta",
+				"/home/corey/.config/google-chrome-unstable",
+				"/home/corey/.config/gtk-3.0",
+				"/home/corey/.config/microsoft-edge-dev",
+				"/home/corey/.config/NordPass",
+				"/home/corey/.config/nvim",
+				"/home/corey/.config/pacseek",
+				"/home/corey/.config/paru",
+				"/home/corey/.config/qtile"
+			],
+			"file_history":
+			[
+				"/home/corey/.config/qtile/config.py",
+				"/var/run/log/journal/0cfcde2445c844c0bfc44728e08bade5/system.journal",
+				"/home/corey/Documents/Learning/Vuln Machine|Docker|Varnish-H2-Request-Smuggling/docker-compose.yaml",
+				"/home/corey/Documents/Learning/Vuln Machine|Docker|Varnish-H2-Request-Smuggling/ncat/Dockerfile",
+				"/home/corey/Documents/Personal/Projects/Free-Auto-GPT/README.md",
+				"/home/corey/Documents/Personal/Projects/Free-Auto-GPT/.env",
+				"/home/corey/.cache/.fr-HYLRO2/export.data",
+				"/home/corey/.config/waybar/config",
+				"/home/corey/.cache/kioexec/krun/26447_0/7D91vHx.txt",
+				"/run/user/1000/kio-fuse-CJjEQk/zip/home/corey/Downloads/Azeret-main.zip/Azeret-main/README.md",
+				"/run/user/1000/kio-fuse-CJjEQk/zip/home/corey/Downloads/programming-23-main.zip/programming-23-main/README.md",
+				"/home/corey/Documents/Learning/[MIT]Intro to Computer Science & Programming in Python/content_map.json",
+				"/home/corey/Documents/Learning/[MIT]Intro to Computer Science & Programming in Python/static_shared/css/course_offline.47ff6.css",
+				"/home/corey/Documents/Learning/[MIT]Intro to Computer Science & Programming in Python/static_resources/2a310ecfd4a153dabc1f55c0c9651357_lniF6ys2CIk.vtt",
+				"/home/corey/Downloads/bug-bounty-a-z-ethical-hacking-cyber-security-course/TutsNode.com.txt",
+				"/home/corey/.cache/kioexec/krun/21734_0/README.md",
+				"/home/corey/Downloads/nek_type_a_layout_mine.json",
+				"/home/corey/.config/waybar/style.css",
+				"/home/corey/Personal/Cloud/.directory",
+				"/home/corey/.config/dolphin",
+				"/home/corey/.config/dolphinrc",
+				"/home/corey/.local/share/Trash/files/alacritty (1)/alacritty.toml",
+				"/home/corey/.config/rofi/config.rasi",
+				"/home/corey/Personal/keyboardz/custom1.json",
+				"/home/corey/Personal/virtual/.directory",
+				"/home/corey/.ssh/id_ed25519.pub",
+				"/usr/share/wayland-sessions/sway.desktop",
+				"/home/corey/Personal/obsidian-notes/Welcome.md",
+				"/home/corey/.local/share/Trash/files/readme.md",
+				"/home/corey/Personal/gitsshkey-ed25519",
+				"/home/corey/Personal/.directory",
+				"/home/corey/.cache/kioexec/krun/79403_0/7D91vHx.txt"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/corey/.config"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 52.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,-1,41,2547,1427,2560,1440,0",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 272.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

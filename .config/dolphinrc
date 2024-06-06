@@ -7,11 +7,16 @@ update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detai
 UseSystemFont=false
 ViewFont=JetBrainsMono Nerd Font,9,-1,5,50,0,0,0,0,0
 
+[ContentDisplay]
+DirectorySizeCount=false
+RecursiveDirectorySizeLimit=6
+
 [ContextMenu]
 ShowAddToPlaces=false
 ShowCopyLocation=false
 ShowCopyMoveMenu=true
 ShowCopyToOtherSplitView=false
+ShowDuplicateHere=false
 ShowMoveToOtherSplitView=false
 ShowOpenInNewTab=false
 ShowOpenTerminal=false
@@ -30,8 +35,8 @@ ConfirmClosingTerminalRunningProgram=false
 EditableUrl=true
 RememberOpenedTabs=false
 ShowFullPath=true
+ShowToolTips=true
 ShowZoomSlider=false
-SortingChoice=CaseInsensitiveSorting
 UseTabForSwitchingSplitView=true
 Version=202
 ViewPropsTimestamp=2024,2,1,9,58,21.707

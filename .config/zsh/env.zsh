@@ -2,14 +2,17 @@ export PATH=$HOME/bin:$PATH:$HOME/.config/emacs/bin:$HOME/.local/share/gem/ruby/
 export EDITOR=nvim
 export VISUAL=nvim
 export FCEDIT=nvim
-
-# Below line was copied from DistroTube youtube video.
-# export MANPAGER="sh -c 'col -bx | bat -l man -p'" 
-
 export MANPAGER="bat -l man"
 export PAGER=bat
 export ZSH_COLORIZE_TOOL=pygmentize
 export ZSH_COLORIZE_STYLE="one-dark"
+
+export FZF_DEFAULT_COMMAND="fd --exclude /proc"
+
+# Below line was copied from DistroTube youtube video.
+# export MANPAGER="sh -c 'col -bx | bat -l man -p'" 
+# although the below option is working great.
+
 export XDG_CACHE_HOME=$HOME/.cache
 export XDG_CONFIG_HOME=$HOME/.config
 export XDG_DATA_HOME=$HOME/.local/share

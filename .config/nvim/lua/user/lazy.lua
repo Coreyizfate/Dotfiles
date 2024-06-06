@@ -42,6 +42,14 @@ require("lazy").setup({
     },
 
     -- nice to have
+    { "folke/noice.nvim",
+      event = "VeryLazy",
+      dependencies = {
+        "MunifTanjim/nui.nvim",
+        "rcarriga/nvim-notify",
+      },
+    },
+    { "norcalli/nvim-colorizer.lua" },
     { "folke/which-key.nvim" },
     { "numToStr/Comment.nvim" },
     { "windwp/nvim-autopairs" },

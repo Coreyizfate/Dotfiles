@@ -2,8 +2,11 @@
 # If you encounter any issues, please make an issue at https://github.com/yazi-rs/schemas.
 "$schema" = "https://yazi-rs.github.io/schemas/yazi.json"
 
+[headsup]
+disable_exec_warn = true
+
 [manager]
-ratio          = [ 1, 3, 4 ]
+ratio          = [ 2, 5, 8 ]
 sort_by        = "natural"
 sort_sensitive = true
 sort_reverse   = false
@@ -13,7 +16,7 @@ show_hidden    = true
 show_symlink   = true
 
 [preview]
-tab_size        = 2
+tab_size        = 4		# Edited this from 2 -> 4. change back to 2 bad.
 max_width       = 600
 max_height      = 900
 cache_dir       = ""
@@ -25,52 +28,61 @@ ueberzug_offset = [ 0, 0, 0, 0 ]
 
 [opener]
 edit = [
-	{ exec = '$EDITOR "$@"', block = true,  for = "unix" },
-	{ exec = 'code "%*"',    orphan = true, for = "windows" },
+	{ run = '$EDITOR "$@"', block = true,  for = "unix" },
+	{ run = 'xdg-open "$@"',                desc = "Open", for = "linux" },
+	{ run = 'nvim "$@"', 			desc = "nvim", for = "linux" },
+	{ run = 'gedit "$@"',			desc = "GEdit", for = "linux" },
+	{ run = 'code "$@"',			desc = "VSCode", for = "linux" },
+	{ run = 'subl "$@"',			desc = "Sublime Text", for = "linux" },
+	{ run = 'gimp "$@"',			desc = "GIMP", for = "linux" },
+	{ run = 'code "%*"',    orphan = true, for = "windows" },
 ]
 open = [
-	{ exec = 'xdg-open "$@"',                desc = "Open", for = "linux" },
-	{ exec = 'open "$@"',                    desc = "Open", for = "macos" },
-	{ exec = 'start "" "%1"', orphan = true, desc = "Open", for = "windows" }
+	{ run = 'xdg-open "$@"',                desc = "xdg-open", for = "linux" },
+	{ run = 'firefox-nightly "$@"',		desc = "firefox", for = "linux" },
+	{ run = 'chromium "$@"',		desc = "chromium", for = "linux" },
+	{ run = 'open "$@"',                    desc = "Open", for = "macos" },
+	{ run = 'start "" "%1"', orphan = true, desc = "Open", for = "windows" }
 ]
 reveal = [
-	{ exec = 'open -R "$1"',                          desc = "Reveal", for = "macos" },
-	{ exec = 'explorer /select, "%1"', orphan = true, desc = "Reveal", for = "windows" },
-	{ exec = '''exiftool "$1"; echo "Press enter to exit"; read''', block = true, desc = "Show EXIF", for = "unix" },
+	{ run = 'thunar "$@"', 				 desc = "Thunar", for = "linux" },
+	{ run = 'open -R "$1"',                          desc = "Reveal", for = "macos" },
+	{ run = 'explorer /select, "%1"', orphan = true, desc = "Reveal", for = "windows" },
+	{ run = '''exiftool "$1"; echo "Press enter to exit"; read''', block = true, desc = "Show EXIF", for = "unix" },
 ]
 extract = [
-	{ exec = 'unar "$1"', desc = "Extract here", for = "unix" },
-	{ exec = 'unar "%1"', desc = "Extract here", for = "windows" },
+	{ run = 'unar "$1"', desc = "Extract here", for = "unix" },
+	{ run = 'unar "%1"', desc = "Extract here", for = "windows" },
 ]
 play = [
-	{ exec = 'mpv "$@"', orphan = true, for = "unix" },
-	{ exec = 'mpv "%1"', orphan = true, for = "windows" },
-	{ exec = '''mediainfo "$1"; echo "Press enter to exit"; read''', block = true, desc = "Show media info", for = "unix" },
+	{ run = 'mpv "$@"', orphan = true, for = "unix" },
+	{ run = 'mpv "%1"', orphan = true, for = "windows" },
+	{ run = '''mediainfo "$1"; echo "Press enter to exit"; read''', block = true, desc = "Show media info", for = "unix" },
 ]
 
 [open]
 rules = [
 	{ name = "*/", use = [ "edit", "open", "reveal" ] },
 
-	{ mime = "text/*",  use = [ "edit", "reveal" ] },
-	{ mime = "image/*", use = [ "open", "reveal" ] },
+	{ mime = "text/*",  use = [ "edit", "open", "reveal" ] },
+	{ mime = "image/*", use = [ "edit", "open", "reveal" ] },
 	{ mime = "video/*", use = [ "play", "reveal" ] },
 	{ mime = "audio/*", use = [ "play", "reveal" ] },
-	{ mime = "inode/x-empty", use = [ "edit", "reveal" ] },
+	{ mime = "inode/x-empty", use = [ "edit", "open", "reveal" ] },
 
-	{ mime = "application/json", use = [ "edit", "reveal" ] },
-	{ mime = "*/javascript",     use = [ "edit", "reveal" ] },
+	{ mime = "application/json", use = [ "edit", "open", "reveal" ] },
+	{ mime = "*/javascript",     use = [ "edit", "open", "reveal" ] },
 
-	{ mime = "application/zip",             use = [ "extract", "reveal" ] },
-	{ mime = "application/gzip",            use = [ "extract", "reveal" ] },
-	{ mime = "application/x-tar",           use = [ "extract", "reveal" ] },
-	{ mime = "application/x-bzip",          use = [ "extract", "reveal" ] },
-	{ mime = "application/x-bzip2",         use = [ "extract", "reveal" ] },
-	{ mime = "application/x-7z-compressed", use = [ "extract", "reveal" ] },
-	{ mime = "application/x-rar",           use = [ "extract", "reveal" ] },
-	{ mime = "application/xz",              use = [ "extract", "reveal" ] },
+	{ mime = "application/zip",             use = [ "extract", "open", "reveal" ] },
+	{ mime = "application/gzip",            use = [ "extract", "open", "reveal" ] },
+	{ mime = "application/x-tar",           use = [ "extract", "open", "reveal" ] },
+	{ mime = "application/x-bzip",          use = [ "extract", "open", "reveal" ] },
+	{ mime = "application/x-bzip2",         use = [ "extract", "open", "reveal" ] },
+	{ mime = "application/x-7z-compressed", use = [ "extract", "open", "reveal" ] },
+	{ mime = "application/x-rar",           use = [ "extract", "open", "reveal" ] },
+	{ mime = "application/xz",              use = [ "extract", "open", "reveal" ] },
 
-	{ mime = "*", use = [ "open", "reveal" ] },
+	{ mime = "*", use = [ "open", "open", "reveal" ] },
 ]
 
 [tasks]
@@ -84,42 +96,44 @@ suppress_preload = false
 [plugin]
 
 preloaders = [
-	{ name = "*", cond = "!mime", exec = "mime", multi = true, prio = "high" },
+	{ name = "*", cond = "!mime", run = "mime", multi = true, prio = "high" },
 	# Image
-	{ mime = "image/vnd.djvu", exec = "noop" },
-	{ mime = "image/*",        exec = "image" },
+	{ mime = "image/vnd.djvu", run = "noop" },
+	{ mime = "image/*",        run = "image" },
 	# Video
-	{ mime = "video/*", exec = "video" },
+	{ mime = "video/*", run = "video" },
 	# PDF
-	{ mime = "application/pdf", exec = "pdf" },
+	{ mime = "application/pdf", run = "pdf" },
 ]
 previewers = [
-	{ name = "*/", exec = "folder", sync = true },
+	{ name = "*/", run = "folder", sync = true },
 	# Code
-	{ mime = "text/*",                 exec = "code" },
-	{ mime = "*/xml",                  exec = "code" },
-	{ mime = "*/javascript",           exec = "code" },
-	{ mime = "*/x-wine-extension-ini", exec = "code" },
+	{ mime = "text/*",                 run = "code" },
+	{ mime = "*/xml",                  run = "code" },
+	{ mime = "*/javascript",           run = "code" },
+	{ mime = "*/x-wine-extension-ini", run = "code" },
 	# JSON
-	{ mime = "application/json", exec = "json" },
+	{ mime = "application/json", run = "json" },
 	# Image
-	{ mime = "image/vnd.djvu", exec = "noop" },
-	{ mime = "image/*",        exec = "image" },
+	{ mime = "image/vnd.djvu", run = "noop" },
+	{ mime = "image/*",        run = "image" },
 	# Video
-	{ mime = "video/*", exec = "video" },
+	{ mime = "video/*", run = "video" },
 	# PDF
-	{ mime = "application/pdf", exec = "pdf" },
+	{ mime = "application/pdf", run = "pdf" },
 	# Archive
-	{ mime = "application/zip",             exec = "archive" },
-	{ mime = "application/gzip",            exec = "archive" },
-	{ mime = "application/x-tar",           exec = "archive" },
-	{ mime = "application/x-bzip",          exec = "archive" },
-	{ mime = "application/x-bzip2",         exec = "archive" },
-	{ mime = "application/x-7z-compressed", exec = "archive" },
-	{ mime = "application/x-rar",           exec = "archive" },
-	{ mime = "application/xz",              exec = "archive" },
+	{ mime = "application/zip",             run = "archive" },
+	{ mime = "application/gzip",            run = "archive" },
+	{ mime = "application/x-tar",           run = "archive" },
+	{ mime = "application/x-bzip",          run = "archive" },
+	{ mime = "application/x-bzip2",         run = "archive" },
+	{ mime = "application/x-7z-compressed", run = "archive" },
+	{ mime = "application/x-rar",           run = "archive" },
+	{ mime = "application/xz",              run = "archive" },
 	# Fallback
-	{ name = "*", exec = "file" },
+	{ name = "*", run = "file" },
+	# Markdown
+	{ name = "*.md", run = "glow" },
 ]
 
 [input]

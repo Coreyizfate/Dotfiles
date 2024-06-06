@@ -2218,283 +2218,3495 @@ ln -s ~/bin/nativefier/gmail-client-linux-x64/gmail-client gmail
 sudo ln -s ~/bin/nativefier/gmail-client-linux-x64/gmail-client gmail
 fd gmail
 ll
-: 1708748915:0;cd /usr/bin
-: 1708748915:0;ll
-: 1708748956:0;gmail
-: 1708748983:0;cd /usr/share/applications
-: 1708748987:0;ll
-: 1708749013:0;qg nuclear
-: 1708749020:0;yay -R nuclear-player-bin
-: 1708749027:0;ll
-: 1708749082:0;srm emacsclient-mail.desktop
-: 1708749097:0;srm emacs-mail.desktop
-: 1708749395:0;b com.github.hluk.copyq.desktop
-: 1708749411:0;fzf
-: 1708749442:0;sudo mv com.github.hluk.copyq.desktop copyq.desktop
-: 1708749476:0;sudo mv com.github.jeromerobert.pdfarranger.desktop pdfarranger.desktop
-: 1708755731:0;cd .config/waybar
-: 1708755751:0;...
-: 1708755754:0;cd Personal
-: 1708755759:0;cd .not-in-use
-: 1708755771:0;aliases
-: 1708755922:0;cd waybar
-: 1708755926:0;cd scripts
-: 1708755928:0;..
-: 1708755938:0;cd scripts
-: 1708755970:0;..
-: 1708755974:0;b latte.css
-: 1708755999:0;b config.orig
-: 1708756014:0;rm config.orig style.css.orig
-: 1708756016:0;..
-: 1708756019:0;..
-: 1708756030:0;cd ../.config/kitty
-: 1708756035:0;v kitty.conf
-: 1708756392:0;v .config/kitty/config
-: 1708756402:0;cd .config/kitty
-: 1708756406:0;v kitty.conf
-: 1708756476:0;v kitty.conf
-: 1708757055:0;cd .config/kitty
-: 1708757058:0;v kitty.conf
-: 1708769981:0;cd ~/Personal
-: 1708770167:0;yay java
-: 1708770539:0;yay java lsp
-: 1708770565:0;yay java
-: 1708770672:0;yay keytool
-: 1708770774:0;yay json
-: 1708815939:0;R xdotool-gui
-: 1708815963:0;xdotoolhelper-1.0.4
-: 1708816027:0;xdotool --help
-: 1708816044:0;R xdotoolhelper-git
-: 1708819876:0;yay jq
-: 1708820673:0;yay dracut
-: 1708820725:0;yay plymouth
-: 1708820941:0;echo $LIBVA_DRIVER_NAME
-: 1708820999:0;yay intel gpu
-: 1708821096:0;snapall
-: 1708821187:0;yay glxinfo
-: 1708821320:0;yay glxinfo
-: 1708821329:0;glxinfo
-: 1708821347:0;glxinfo --help
-: 1708821392:0;glxinfo | g OpenGL
-: 1708821644:0;qg firmware
-: 1708821661:0;qg driver
-: 1708821671:0;qg
-: 1708821674:0;q
-: 1708821675:0;Q
-: 1708821679:0;Qq
-: 1708821701:0;Qe
-: 1708821821:0;qg vulkan
-: 1708821825:0;qg mesa
-: 1708821831:0;qg intell
-: 1708821833:0;qg intel
-: 1708821851:0;yay mesa
-: 1708822111:0;yay intel driver
-: 1708845203:0;yay media
-: 1708845225:0;mpv
-: 1708845248:0;yay libglslang
-: 1708845254:0;yay libgls
-: 1708845265:0;mpv --help
-: 1708845346:0;yay gst
-: 1708845390:0;yay media
-: 1708845422:0;yay intel media
-: 1708990067:0;yay cast
-: 1708990281:0;yay chromecast
-: 1708990540:0;vivaldi
-: 1708990567:0;vivaldi --help
-: 1708990578:0;vivaldi -V
-: 1708990608:0;]fdfsdf
-: 1708990618:0;ai
-: 1708990635:0;llama
-: 1708990736:0;yay xwayland
-: 1708993217:0;stream2chromecast --help
-: 1708993242:0;mkchromecast --help
-: 1708993274:0;yay -S youtube-dl
-: 1708993305:0;S atomicparsley python-pycryptodome
-: 1708993366:0;fj;skjdf;ak
-: 1708993367:0;fsd
-: 1708993367:0;faasdzx
-: 1708993368:0;czxv
-: 1708993368:0;cx
-: 1708993369:0;f
-: 1708993379:0;,.,iksjd;f
-: 1708993395:0;j kitty
-: 1708993409:0;em kitty.conf
-: 1708993442:0;fjds;klafjdsakf
-: 1708993442:0;fasdfs
-: 1708993443:0;aczx
-: 1708993444:0;hernaksrlg]
-: 1708993452:0;9fds
-: 1708993452:0;fsdfs
-: 1708993510:0;cd ~
-: 1708993524:0;mkchromecast --help
-: 1708993556:0;mkchromecast -y https://www.youtube.com/watch?v=3LPJfIKxwWc
-: 1708993574:0;mkchromecast -y https://www.youtube.com/watch?v=3LPJfIKxwWc
-: 1708993581:0;mkchromecast -y
-: 1708993617:0;mkchromecast --youtbe
-: 1708993621:0;mkchromecast --youtube
-: 1708993642:0;mkchromecast -y YOUTUBE
-: 1708993679:0;mkchromecast -y youtube.com/watch?v=3LPJfIKxwWc
-: 1708993695:0;mkchromecast -y "youtube.com/watch?v=3LPJfIKxwWc"
-: 1708993764:0;mkchromecast -y "https://www.youtube.com/watch?v=3LPJfIKxwWc"
-: 1708993881:0;systemctl
-: 1708993926:0;systemctl --all
-: 1708994042:0;fd desktop portal /
-: 1708994115:0;xdg-desktop-portal-hyprland
-: 1708994139:0;systemctl --user start xdg-desktop-portal-hyprland
-: 1708994150:0;systemctl --user enable xdg-desktop-portal-hyprland
-: 0:0;
-: 0:0;
-: 1708994303:0;sya
-: 1708997872:0;htop
-: 1708998029:0;top
-: 1708998270:0;mv config config.bak
-: 1708998280:0;touch config
-: 1709002537:0;ps kill
-: 1709002553:0;gpt
-: 1709002666:0;pgrep
-: 1709002675:0;grep vivaldi
-: 1709002686:0;pgrep vivaldi
-: 1709002696:0;kill 32336
-: 1709011510:0;yay pyprland
-: 1709011844:0;yay hyprpm
-: 1709011971:0;hyprpm --lit
-: 1709011974:0;hyprpm --list
-: 1709011978:0;hyprpm list
-: 1709011981:0;hyprpm
-: 1709014872:0;qmk
-: 1709014961:0;qmk list-keyboards
-: 1709014967:0;qmk flash
-: 1709015064:0;cd qmk_firmware
-: 1709015082:0;cd keyboards/keychron/v1/ansi/keymaps/vial
-: 1709015088:0;qmk flash
-: 1709021231:0;cd qmk_firmware/keyboards/keychron/v1/ansi
-: 1709021237:0;cd keymaps
-: 1709021244:0;cd keychron
-: 1709021246:0;..
-: 1709021281:0;fd custom1 /
-: 1709021326:0;cp custom1.json ~/Personal/keyboards/
-: 1709021370:0;..
-: 1709021387:0;downloads
-: 1709021408:0;.
-: 1709021412:0;aliases
-: 1709021554:0;cd Downloads
-: 1709021567:0;qmk flash keychron_v1_ansi_custom1.bin
-: 1709101013:0;qg hypr
-: 1709101032:0;yay hypr
-: 1709101073:0;yay hyprland-plugin
-: 1709101088:0;hyprpm --help
-: 1709101142:0;hyprpm add https://github.com/hyprwm/hyprland-plugins.git
-: 1709101158:0;hyprpm update
-: 1709101239:0;hyprpm list
-: 1709101249:0;hyprpm list
-: 1709101276:0;hyprpm 
-: 1709101290:0;hyprpm reload
-: 1709101297:0;hyprpm list
-: 1709101305:0;hyprpm list
-: 1709101314:0;hyprpm
-: 1709101355:0;hyprpm list
-: 1709101359:0;hyprpm update
-: 1709101504:0;hyprpm add https://github.com/hyprwm/hyprland-plugins
-: 1709101554:0;hyprpm enable hyprbars
-: 1709101581:0;hyprpm disable hyprbars
-: 1709101601:0;hyprpm enable borders-plus-plus
-: 1709101648:0;hyprpm reload
-: 1709101834:0;pip -h
-: 1709101842:0;pip install pyprland
-: 1709101858:0;yay pyprland
-: 1709106519:0;hyprpm disable borders_plus_plus
-: 1709106527:0;hyprpm disable borders-plus-plus
-: 1709106538:0;hyprpm update
-: 1709106603:0;qg hypr
-: 1709106611:0;R hyprland
-: 1709106621:0;yay hyprland
-: 1709106909:0;hyprpm list
-: 1709106985:0;cd Downloads
-: 1709107007:0;qmk flash keychron_v1_ansi_custom1\ \(1\).bin
-: 1709107139:0;F
-: 1709107141:0;dfdaf
-: 1709107144:0;yay hy
-: 1709107612:0;cd .config/hypr
-: 1709107626:0;emacs binds.conf
-: 1709115181:0;cd Personal/keyboardz
-: 1709115201:0;qmk flash keychron_v1_ansi_custom2.bin
-: 1709115899:0;hyprpm list
-: 1709115976:0;hyprpicker
-: 1709116453:0;snapall
-: 1709116468:0;yay
-: 1709144319:0;lsblk
-: 1709144333:0;lsblk
-: 1709144342:0;cd /
-: 1709144344:0;cd dev
-: 1709144353:0;cd block
-: 1709144394:0;lsblk
-: 1709144406:0;usb-devices
-: 1709179050:0;cd .dotfiles
-: 1709179054:0;git init --bare
-: 1709179221:0;git --git-dir=/home/corey/.dotfiles --work-tree=/home/corey
-: 1709179302:0;config config --local status.showUntrackedFiles no
-: 1709179533:0;ssh-keygen -t ed25519 -C "[github|coreyizfate|coreymichael913@gmail.com]"
-: 1709179930:0;yay clipboard manager wayland
-: 1709180039:0;yay wayland screenshot
-: 1709180170:0;rustup default stable
-: 1709180184:0;yay wayland screenshot
-: 1709180513:0;shotman
-: 1709180532:0;shotman --help
-: 1709180579:0;yay screenshot wayland
-: 1709180604:0;yay wl screen
-: 1709182948:0;config setup
-: 1709182950:0;config
-: 1709182955:0;git
-: 1709183012:0;..
-: 1709183030:0;cd .config
-: 1709183048:0;cd bat
-: 1709183053:0;..
-: 1709183067:0;cd copyq
-: 1709183084:0;add copyq-commands.ini
-: 1709183090:0;add copyq.conf
-: 1709183099:0;copyq-geometry.ini
-: 1709183110:0;add copyq-tabs.ini
-: 1709183120:0;add copyq_tabs.ini
-: 1709183122:0;..
-: 1709183130:0;cd doom
-: 1709183130:0;sl
-: 1709183134:0;add config.el
-: 1709183140:0;add init.el packages.el
-: 1709183142:0;..
-: 1709183165:0;cd htop
-: 1709183172:0;add htoprc
-: 1709183174:0;..
-: 1709183180:0;cd hypr
-: 1709183185:0;add binds.conf
-: 1709183195:0;add hyprland.conf hyprpaper.conf
-: 1709183198:0;..
-: 1709183202:0;cd kitty
-: 1709183222:0;add kitty.conf
-: 1709183224:0;..
-: 1709183256:0;cd nvim
-: 1709183280:0;..
-: 1709183284:0;add nvim
-: 1709183358:0;cd qtile
-: 1709183365:0;add config.py
-: 1709183366:0;..
-: 1709183372:0;cd ranger
-: 1709183398:0;add commands.py commands_full.py rc.conf rifle.conf scope.sh
-: 1709183403:0;cd plugins
-: 1709183407:0;..
-: 1709183409:0;..
-: 1709183412:0;add ranger
-: 1709183426:0;cd rofi
-: 1709183430:0;..
-: 1709183444:0;cd rofi
-: 1709183446:0;cd gitcollection
-: 1709183450:0;..
-: 1709183450:0;ll
-: 1709183458:0;..
-: 1709183460:0;add rofi
-: 1709184146:0;cd waybar
-: 1709184154:0;add config style.ss
-: 1709184157:0;add config
-: 1709184161:0;add style.css
-: 1709184162:0;..
-: 1709184170:0;add yay
-: 1709184175:0;add zsh
+cd /usr/bin
+ll
+gmail
+cd /usr/share/applications
+ll
+qg nuclear
+yay -R nuclear-player-bin
+ll
+srm emacsclient-mail.desktop
+srm emacs-mail.desktop
+b com.github.hluk.copyq.desktop
+fzf
+sudo mv com.github.hluk.copyq.desktop copyq.desktop
+sudo mv com.github.jeromerobert.pdfarranger.desktop pdfarranger.desktop
+cd .config/waybar
+...
+cd Personal
+cd .not-in-use
+aliases
+cd waybar
+cd scripts
+..
+cd scripts
+..
+b latte.css
+b config.orig
+rm config.orig style.css.orig
+..
+..
+cd ../.config/kitty
+v kitty.conf
+v .config/kitty/config
+cd .config/kitty
+v kitty.conf
+v kitty.conf
+cd .config/kitty
+v kitty.conf
+cd ~/Personal
+yay java
+yay java lsp
+yay java
+yay keytool
+yay json
+R xdotool-gui
+xdotoolhelper-1.0.4
+xdotool --help
+R xdotoolhelper-git
+yay jq
+yay dracut
+yay plymouth
+echo $LIBVA_DRIVER_NAME
+yay intel gpu
+snapall
+yay glxinfo
+yay glxinfo
+glxinfo
+glxinfo --help
+glxinfo | g OpenGL
+qg firmware
+qg driver
+qg
+q
+Q
+Qq
+Qe
+qg vulkan
+qg mesa
+qg intell
+qg intel
+yay mesa
+yay intel driver
+yay media
+mpv
+yay libglslang
+yay libgls
+mpv --help
+yay gst
+yay media
+yay intel media
+yay cast
+yay chromecast
+vivaldi
+vivaldi --help
+vivaldi -V
+]fdfsdf
+ai
+llama
+yay xwayland
+stream2chromecast --help
+mkchromecast --help
+yay -S youtube-dl
+S atomicparsley python-pycryptodome
+fj;skjdf;ak
+fsd
+faasdzx
+czxv
+cx
+f
+,.,iksjd;f
+j kitty
+em kitty.conf
+fjds;klafjdsakf
+fasdfs
+aczx
+hernaksrlg]
+9fds
+fsdfs
+cd ~
+mkchromecast --help
+mkchromecast -y https://www.youtube.com/watch?v=3LPJfIKxwWc
+mkchromecast -y https://www.youtube.com/watch?v=3LPJfIKxwWc
+mkchromecast -y
+mkchromecast --youtbe
+mkchromecast --youtube
+mkchromecast -y YOUTUBE
+mkchromecast -y youtube.com/watch?v=3LPJfIKxwWc
+mkchromecast -y "youtube.com/watch?v=3LPJfIKxwWc"
+mkchromecast -y "https://www.youtube.com/watch?v=3LPJfIKxwWc"
+systemctl
+systemctl --all
+fd desktop portal /
+xdg-desktop-portal-hyprland
+systemctl --user start xdg-desktop-portal-hyprland
+systemctl --user enable xdg-desktop-portal-hyprland
+
+
+sya
+htop
+top
+mv config config.bak
+touch config
+ps kill
+gpt
+pgrep
+grep vivaldi
+pgrep vivaldi
+kill 32336
+yay pyprland
+yay hyprpm
+hyprpm --lit
+hyprpm --list
+hyprpm list
+hyprpm
+qmk
+qmk list-keyboards
+qmk flash
+cd qmk_firmware
+cd keyboards/keychron/v1/ansi/keymaps/vial
+qmk flash
+cd qmk_firmware/keyboards/keychron/v1/ansi
+cd keymaps
+cd keychron
+..
+fd custom1 /
+cp custom1.json ~/Personal/keyboards/
+..
+downloads
+.
+aliases
+cd Downloads
+qmk flash keychron_v1_ansi_custom1.bin
+qg hypr
+yay hypr
+yay hyprland-plugin
+hyprpm --help
+hyprpm add https://github.com/hyprwm/hyprland-plugins.git
+hyprpm update
+hyprpm list
+hyprpm list
+hyprpm 
+hyprpm reload
+hyprpm list
+hyprpm list
+hyprpm
+hyprpm list
+hyprpm update
+hyprpm add https://github.com/hyprwm/hyprland-plugins
+hyprpm enable hyprbars
+hyprpm disable hyprbars
+hyprpm enable borders-plus-plus
+hyprpm reload
+pip -h
+pip install pyprland
+yay pyprland
+hyprpm disable borders_plus_plus
+hyprpm disable borders-plus-plus
+hyprpm update
+qg hypr
+R hyprland
+yay hyprland
+hyprpm list
+cd Downloads
+qmk flash keychron_v1_ansi_custom1\ \(1\).bin
+F
+dfdaf
+yay hy
+cd .config/hypr
+emacs binds.conf
+cd Personal/keyboardz
+qmk flash keychron_v1_ansi_custom2.bin
+hyprpm list
+hyprpicker
+snapall
+yay
+lsblk
+lsblk
+cd /
+cd dev
+cd block
+lsblk
+usb-devices
+cd .dotfiles
+git init --bare
+git --git-dir=/home/corey/.dotfiles --work-tree=/home/corey
+config config --local status.showUntrackedFiles no
+ssh-keygen -t ed25519 -C "[github|coreyizfate|coreymichael913@gmail.com]"
+yay clipboard manager wayland
+yay wayland screenshot
+rustup default stable
+yay wayland screenshot
+shotman
+shotman --help
+yay screenshot wayland
+yay wl screen
+config setup
+config
+git
+..
+cd .config
+cd bat
+..
+cd copyq
+add copyq-commands.ini
+add copyq.conf
+copyq-geometry.ini
+add copyq-tabs.ini
+add copyq_tabs.ini
+..
+cd doom
+sl
+add config.el
+add init.el packages.el
+..
+cd htop
+add htoprc
+..
+cd hypr
+add binds.conf
+add hyprland.conf hyprpaper.conf
+..
+cd kitty
+add kitty.conf
+..
+cd nvim
+..
+add nvim
+cd qtile
+add config.py
+..
+cd ranger
+add commands.py commands_full.py rc.conf rifle.conf scope.sh
+cd plugins
+..
+..
+add ranger
+cd rofi
+..
+cd rofi
+cd gitcollection
+..
+ll
+..
+add rofi
+cd waybar
+add config style.ss
+add config
+add style.css
+..
+add yay
+add zsh
+cd yazi
+..
+add yazi
+add dolphin dolphinrc picom.conf
+config commit -m 'committing initial files'
+config push
+git remote add repo https://github.com/Coreyizfate/Dotfiles.git
+ssh -T git@github.com
+ssh -T git@github.com
+ssh-add /home/corey/Personal/gitsshkey-ed25519
+eval "$(ssh-agent -s)"
+ssh
+ssh-add /home/corey/Personal/gitsshkey-ed25519
+ssh -T git@github.com
+git remote add dotfiles git@github.com:Coreyizfate/Dotfiles.git
+git remote add dotfiles git@github.com:Coreyizfate/Dotfiles.git
+config remote add dotfiles git@github.com:Coreyizfate/Dotfiles.git
+config push
+config push --set-upstream dotfiles master
+git branch -M main
+config branch -M main
+config push -u dotfiles main
+ssh -T git@github.com
+ssh -T git@github.com
+ssh -T git@github.com
+nm-applet
+nm
+nm --help
+NetworkManager --help
+cd .config
+cd eww
+fd eww /
+cd /etc/xdg/eww/eww-bar
+mv scripts ~/.config/eww/
+sudo mv scripts ~/.config/eww/
+sudo cp -R scripts ~/.config/eww/
+sudo cp eww-bar.png ~/.config/eww/
+sudo cp eww.scss ~/.config/eww/
+sudo cp eww.yuck ~/.config/eww/
+cd ~/.config/eww
+ll
+..
+chown --help
+sudo chown -R corey:corey eww
+cd eww
+ll
+..
+sudo chmod -R +x eww
+cd eww
+ll
+cd scripts
+ll
+..
+yay network manager
+fd networkmanager /
+cd etc
+sya
+qqqq
+qqq
+NetworkManager
+NetworkManager scan
+man NetworkManager
+nm-applet
+qttest
+cd .config/qtile
+cd __pycache__
+..
+b original.py
+v config.py
+eww
+eww daemon
+ eww logs
+eww windows
+eww open bar
+ps
+kill 1571
+eww kill
+waybar
+waybar
+waybar
+htop
+waybar
+waybar
+ waybar & disown
+htop
+waybar
+kiil 1571
+ps
+ps | b
+kill 42543
+waybar
+cd .config
+cd waybar.temp
+mv config config.jsonc
+mv config.jsonc config
+shotman
+shotman --help
+shotman --capture region
+shotman --help
+shotman -i
+shotman -i gimp
+yay wayland
+[3~
+expac --timefmt='%Y-%m-%d %T' '%l\t%n' $(yay -Qq) | sort
+clipman --help
+R clipman shotman
+yay wayland shot
+swappy
+swappy --help
+R swappy
+yay wayland shot
+grim
+grim --help
+man grim
+flameshot --help
+flameshot gui
+yay wayland cliphist
+cliphist
+copyq --help
+yay cloud storage gui
+yay cloud gui
+ya
+date
+yay rclone
+cd Personal
+cd Cloud-Drives
+ll
+cd Google-Drive
+mv Google-Drive google
+..
+mv Google-Drive google
+..
+mv Cloud-Drives Cloudfiles
+mv Cloudfiles Cloud
+mv keyboardz Projects
+ls Projects
+cd Projects
+cd qmk_firmware
+ls .build
+cd keyboardz
+..
+rmdir keyboardz
+..
+cd Documents
+cd Personal
+...
+mkdir Secure
+cd Secure
+mkdir git-ssh
+ya
+cd ~/screenshots
+nomacs
+..
+rmrf screenshots
+cd .ssh
+b known_hosts
+b known_hosts.old
+..
+config status
+cd .config
+add copyq/copyq-commands.ini
+add copyq/copyq.conf copyq/copyq_tabs.ini dolphinrc
+add hypr/binds.conf qtile/config.py waybar/config
+add waybar/style.css zsh/history
+config status
+config restore --staged zsh/history
+config status
+commit -m "trying to get pushing to repo configured on system\
+"
+add waybar.temp
+commit -m "adding waybar(working on config)"
+config push --help
+ssh -T git@github.com
+..
+cd corey
+.ssh
+rm known_hosts known_hosts.old
+..
+cd Personal
+cd Secure
+..
+mv Secure info
+cd info
+rm git-ssh
+rmrf git-ssh
+mkdir git[ssh]
+mkdir git-ssh
+..
+..
+..
+ssh-keygen -t ed25519 -C "github/coreyizfate"
+v /home/corey/.ssh/id_ed25519.pub
+subl ~/.ssh/id_ed25519.pub
+ssh -T git@github.com
+ssh --help
+ssh -i
+cd .ssh
+b id_ed25519
+b id_ed25519.pub
+fd ssh /
+aliases
+fd ssh /
+clr
+fkdf
+ff
+aa
+ssh -T git@github.com
+fd ssh /
+systemctl restart ssh-agent
+systemctl -all
+fd ssh /
+cd /etc/ssh
+b sshd_config
+b ssh_config
+b moduli
+cd ssh_config.d
+..
+cd sshd_config.d
+b 10-archiso.conf
+b 99-archlinux.conf
+..
+..
+ssh -T git@github.com
+ssh-agent --help
+ssh-agent -O
+ssh-keyscan
+history
+j zsh
+j config
+cd zsh
+b history
+..
+..
+c .ssh
+cd .ssh
+b id_ed25519
+b id_ed25519.pub
+ssh -T git@github.com
+ssh -T git@github.com
+config status
+add .config/zsh/aliases.zsh
+config remote add dots git@github.com:Coreyizfate/Dotfiles.git
+git branch -M main
+config branch -M main
+config push -u dots main
+cd .dotfiles
+v config
+cd bin
+add autostart.sh snapall.sh 
+rm xdoscript.sh
+ls webapps
+ls appimages
+ll
+..
+cd qmk_firmware/keyboards/keychron/v1/ansi
+add builds
+add configurator-jsons
+....
+...
+add .bashrc
+add .zshrc
+cd Personal
+..
+cd Documents
+..
+cd Pictures
+ya
+add wallpapers
+..
+config status
+commit -m "adding wallpapers and more home dir files"
+config push
+yay google docs
+yay thorium
+snapall
+yay
+yay
+yay -Sc
+yay qutebrowser
+htop
+systemctl --user
+systemctl --system
+systemctl
+systemctl --all
+rclone --help
+yay rsync
+rclone config
+rclone config
+cd .local/share/trash
+cd .locla
+cd .local
+cd share
+cd Trash
+cd files/i
+cd files
+cd Personal
+cd Cloud-Drives
+ll
+..
+ll
+cd Cloud
+ll
+cd Google
+ll
+cd .Trash-1000
+cd files
+..
+ll
+cd info
+ll
+ll
+..
+..
+..
+..
+ll
+cd Cloud-Drives
+cd Google-Drive
+ya
+fd celeste /
+R celeste
+fd celeste /
+cd /var/lib/systemd/coredump
+srm core.celeste.1000.44678ca999d54f6bb7bb74c5dcaf3a3b.68200.1709444989000000.zst
+srm core.celeste.1000.7e1dbf1d0b3c45058234dd80f0924abb.169761.1709619224000000.zst
+srm core.celeste.1000.7e1dbf1d0b3c45058234dd80f0924abb.169944.1709619262000000.zst
+..
+..
+..
+cd cache
+cd pacman
+cd pkg
+rm celeste-0.8.1-2-x86_64.pkg.tar.zst celeste-0.8.1-2-x86_64.pkg.tar.zst.sig
+sudo rm celeste-0.8.1-2-x86_64.pkg.tar.zst celeste-0.8.1-2-x86_64.pkg.tar.zst.sig
+fd celeste
+cd ~
+R qutebrowser
+yay browser web
+rclone config
+yay sync icloud
+yay apple
+yay drive sync
+rclone config
+htop
+cd Personal/Cloud
+ls ObsidianNotes
+mv ObsidianNotes ~/Personal/obsidian-notes
+..
+cd obsidian-notes
+..
+cd Cloud
+cd Google
+ll
+ll
+mv Resume.docx Resume[fromoffice365].docx
+mv Resume.docx Resume[fromoffice365].docx
+mv Resume.docs ./resume[fromoffice365].docx
+ya
+..
+cd Personal
+cd Cloud
+ll
+snapall
+yay
+fd dunst /
+dunstify --help
+dunstctl --help
+yay nwg-look
+yay nwg-look
+yay wayland compositor
+R wlroots
+R wlroots hyprpaper xdg-desktop-portal-hyprland
+S sway-git river waycheck
+S xdg-desktop-portal-hyprland
+swaybg
+swaybg --help
+swaybg -i /home/corey/Pictures/wallpapers/gMYrTvc-abstract-wallpaper-hd.jpg
+swaybg -i /home/corey/Pictures/wallpapers/gMYrTvc-abstract-wallpaper-hd.jpg -m fill
+rm hyprpaper.conf
+yay sway
+ya
+pamixer --help
+pkill --help
+pkill waybar
+ya
+waybar
+waybar
+fd sway /
+cd /etc/sway
+b config
+yay foot
+help
+foot hel
+foot help
+foot --hgelp
+foot --help
+yay ocr text
+qg vala
+qg val
+qg val
+yay ocr text
+yay extract text image
+cliphist
+cliphist list
+R cliphist
+pkill waybar
+flameshot --help
+copyq --help
+hyprpicker --help
+hyprpicker
+hyprpicker | wl-copy
+wl-copy --help
+man wl-clipboard
+clipboard
+fd clipboard /
+wl-clip-persist --help
+wl-clip-persist --clipboard both
+yay wayland xclip
+wayinfo
+wayinfo --help
+sway --help
+qg wlroots
+qg libwl
+yay libwlroots
+R wlroots
+R wlroots0.16
+R wlroots-git
+yay -R --no-deps wlroot0.16
+yay --help
+yay --save --bottomup
+ollama --help
+ollama list
+ollama serve
+ollama list
+ollama --help
+ollama pull
+ollama pull --help
+yay
+qg kvantum
+S kvantum-qt6-git kvantum-qt5-git
+R kvantum-qt5-git
+man yay
+ya
+R ollama
+qg
+qg 
+Q
+Qi
+Qq
+qg kvantum
+yay --help
+yay --nodeps -R kvantum-qt5-git
+sudo /usr/lib/octopi/octphelper -ts
+sudo /usr/lib/octopi/octphelper -ts
+R kvantum-theme-qogir-git
+sudo /usr/lib/octopi/octphelper -ts
+yay sway
+yay --top-down sway
+yay --topdown sway
+yay sway
+sway
+yay
+R feh
+yay viewer image
+R swayimg
+yay viewer image
+man 5 sway
+cd /etc/sway
+cd config.d
+b 50-systemd-user.conf
+..
+b config
+rofi -show drun 
+htop
+htop
+fsfsafsfsf
+unar --help
+help unar
+help exiftool
+man unar
+man exiftool
+S wl-color-picker swhkd wayshot
+ya
+config status
+ya
+rmrf .1password_1 .1password_2
+ya
+iya
+ya
+ya
+ranger
+fd swaylaunch /
+cd etc
+cd sway
+cd /etc
+cd sway
+cd config.d
+b 50-systemd-user.conf
+[ "$(tty)" = "/dev/tty1" && exec sway
+[ "$(tty)" = "/dev/tty1" ] && exec sway
+[ "$(tty)" = "/dev/tty5" ] && exec sway
+fd sway /
+syslog
+systemctl
+journalctl
+yay bluez
+systemctl enable bluez
+sudo systemctl enable bluez
+fd bluez /
+sudo systemctl enable org.bluez.service
+yay ly
+systemctl disable sddm
+sudo systemctl enable ly.service
+ya
+cd .config
+cd sway
+v config
+...
+cd .local
+cd share
+sya
+swaymsg
+swaymsg --help
+R sway-git
+yay sway
+S libwlroots.so12-64
+S libwlroots
+yay libwlroots
+yay sway
+snapall
+yay
+yay sway
+R wlroots-git
+R xdg-desktop-portal-hyprland wlroots-git
+yay sway
+S xdg-desktop-portal-hyprland
+yay wlroots
+nnrtrqqwe
+kitty
+kitty && disown
+kitty
+cd .config/sway
+v config
+cd .config/sway
+v config
+v
+display
+hyprpm --help
+hypr
+hyprprop
+hyprprop --help
+yay rofi
+R rofi
+R rofi rofi-bluetooth-git rofi-power-menu rofi-theme-fonts
+yay rofi
+yay php-extras
+yay php
+yay php extra
+S php-extra
+S php-extras
+S php
+htop
+R wl-clip-persist-git
+wl-color-picker
+S slurp
+yay grimshot
+grimshot
+grim
+grimshot area
+grimshot check
+grimshot anything
+slurp
+yay clip
+ll
+S swappy
+grim -g "$(slurp)" - | swappy -f -
+swappy --help
+grim -g "$(slurp)" - | swappy -f
+grim -g "$(slurp)" - | swappy
+grim --help
+grim --help
+grim -h
+tgpt
+gpt
+grimshot
+S ksnip
+ksnip
+ksnip --help
+ksnip -t
+grim -g "$(slurp)" - | swappy -f /home/corey/Pictures/screenshots/scrnshot-$Y$M$D-$T.png
+htop
+yay rofi-power
+shutdown now
+sudo shutdown now
+clipit
+clipit --help
+clipman
+clipman store
+clipman show-history
+waybar --help
+htop
+fd kde polkit /
+autostart
+cd /usr/lib
+kde-open
+polkit-1
+..
+..
+fd kde-polkit-agent /
+fd kde polkit agent /
+sudo shutdown now
+shutdown
+sudo shutdown
+fd wayfire /
+waybar
+j waybar
+v style.css
+waybar
+waybar
+waybar
+pactl list sinks
+sndioctl --help
+sndioctl
+man sndioctl
+yay dwl
+yay syncthing
+syncthing --help
+man syncthing
+rclone
+rclone config
+rclone
+rclone mount --help
+rclone mount google: /home/corey/Personal/Cloud/
+rclone --allow-non-empty mount google: /home/corey/Personal/Cloud/
+rclone selfupdate
+sudo rclone selfupdate
+rclone mount google: /home/corey/Personal/Cloud/
+rclone mount google: /home/corey/Personal/Cloud/google
+man rclone
+rclone --help
+rclone sync --help
+rclone sync google: /home/corey/Personal/Cloud/google/
+cd bin
+touch rclone-gdrive.sh
+yay polkit agent
+cd /usr/lib
+ll
+ls | grep kde
+./home/corey/bin/rclone-gdrive.sh
+sh /home/corey/bin/rclone-gdrive.sh
+cd Personal/Cloud
+cd google
+lsl
+ll
+yay konsole
+yay -Qs | grep terminal
+Qq
+aliases
+qeg terminal
+qeg
+Qe
+R alltray
+Qe
+yay -Ss antiword
+antiword
+R antiword
+Qeg sddm
+R arcolinux-sddm-futuristic-git arcolinux-sddm-materia-git arcolinux-sddm-simplicity-git
+R arcolinux-meta-sddm-themes
+qeg sddm
+R arcolinux-sddm-futuristic-git
+R arcolinux-sddm-materia-git arcolinux-sddm-simplicity-git
+qeg sddm
+R arcolinux-sddm-slice-git arcolinux-sddm-sugar-candy-git arcolinux-sddm-urbanlifestyle-git
+R sddm
+R fluent-kde-theme-git orchis-kde-theme-git
+Qeg
+Qe
+yay -Ss artomicparsley
+yay -Ss atomicparsley
+R atomicparsley
+yay -Ss beanshell
+bluez
+blueberry
+systemctl
+systemctl --user
+systemctl --system
+systemctl enable bluez.service
+sudo systemctl enable bluez.service
+fd bluez.service /
+systemctl enable blueberry
+fd blueberry /
+cd /etc/xdg
+cd autostart
+sv clipit-startup.desktop
+clipit
+flipit --help
+clipkit --help
+clipit --help
+man clipit
+fd clipit /
+srm /etc/xdg/autostart/clipit-startup.desktop
+fd clipit /
+R clipit
+fd clipit /
+cliphist
+qeg cliphist
+qeg clip
+clipman
+clipman store
+tldr clipman
+R clipman
+Qsg clip
+Qsg copy
+yay clipboard
+yay copyq
+htop
+qeg xwayland
+yay -Ss xwaylandvideobridge
+R xwaylandvideobridge
+Qe
+archlinux-tweak-tool
+cd sys
+cd /
+sya
+j applications
+ls | g todo
+fd todoist /
+srm todoist.desktop
+yay paywall
+yay crawler
+yay hakrawler
+hakrawler --help
+echo https://scribd.com | hakrawler -d 3 > scribdcom
+b scribdcom
+rm scribdcom
+hakrawler -d 3 https://www.scribd.com
+echo https://www.scribd.com | hakrawler -d 3
+echo https://www.scribd.com/document/469449679/Carding-Useful-Information-pdf | hakrawler -d 5
+echo www.hackforums.net | hakrawler -d 8
+echo https://www.hackforums.net | hakrawler -d 7
+echo https://www.hackforums.net | hakrawler -d 2
+echo https://hackforums.net | hakrawler
+man hakrawler
+hakrawler --help
+echo https://hackforums.net | hakrawler -insecure -w -d 4
+shutdown now
+sudo shutdown now
+R dunst
+yay notification
+yay swaync
+swaync --help
+swaync-client --help
+touch .projectile
+..
+cd hypr
+touch .projectile
+..
+cd qtile
+touch .projectile
+..
+cd rofi
+touch .projectile
+..
+cd waybar
+touch .projectile
+..
+cd zsh
+..
+..
+ll
+cd Sync
+..
+rmdir Sync
+ll
+R photoqt
+htop
+emacs -daemon
+emacs --daemon
+emacs --help
+emacsclient --help
+man emacs
+yay burp suite
+yay burp suite
+yay torrent
+S transmission-cli
+ cd /home/corey
+ clear
+ cd /home/corey/Downloads
+ cd /home/corey/Downloads/
+ cd /home/corey/Downloads/frombluetooth
+ cd /home/corey/Downloads/
+S qt5-wayland
+S qt6-wayland
+cd /usr/lib
+ls | g xdg-desktop
+systemctl --all
+ls | g xdg-desktop
+R xdg-desktop-portal-luminous-git
+fd xdg-desktop-portal /
+sh /home/corey/bin/xdg-desktop-start.sh
+cd ..
+cd ..
+cd bin
+sh /home/corey/bin/xdg-portal-start.sh
+ cd /home/corey
+ clear
+ cd /home/corey/Downloads
+ cd /home/corey/Downloads/win-10-22-h-2-english-x-64v-1_202306
+ cd /home/corey/Downloads/
+ cd /home/corey/
+ cd /home/corey/Downloads
+ cd /home/corey/Downloads/win-10-22-h-2-english-x-64v-1_202306
+ cd /home/corey/Personal/virtual
+ cd /home/corey/Personal/virtual/ISOs
+ cd '/home/corey/Personal/virtual/ISOs/3. Full Installers'
+ cd '/home/corey/Personal/virtual/ISOs/3. Full Installers/Windows'
+swaync-client --help
+swaync-client -op
+j config
+cd sway
+..
+rmrf clipit
+playerctl --help
+playerctl --list
+playerctl -l
+yay nmap
+yay metasploit
+yay aircrack
+S netcat
+netcat --help
+yay john the ripper
+yay sqlmap
+yay setool
+yay social engineering tool
+pypr --help
+yay aiofiles
+rclone config
+yay icloud
+yay sync cloud
+expac --timefmt='%Y-%m-%d %T' '%l\t%n' $(yay -Qq) | sort
+S bspwn sxhkd polybar
+yay bspwn
+yay window manager
+qg
+Qs
+yay -Qs
+Qq
+R wayfire sway
+qg wayfire
+R wayfire-git sway
+R wayfire-git xdg-desktop-portal-hyprland
+R wayfire-git xdg-desktop-portal-hyprland sway
+S xdg-desktop-portal-hyprland
+snapall
+yay
+cd .config
+cd /etc
+c xdg
+cd xdg
+..
+fd bspwn
+yay window manager
+fd bspwn /
+bspwm --help
+bspwn help
+bspwn -h
+man bspwn
+yay
+yay
+Qq
+R electron25
+yay
+Qq
+R electron25
+R electron25 google-docs-bin
+yay
+cd /usr/share/doc/bspwm/
+b README.md
+cd examples
+cd .config
+mkdir bspwm
+mkdir sxhkd
+cp bspwmrc ~/.config/bspwm
+cp sxhkdrc ~/.config/sxhkd
+bspwm --help
+bspwm -h
+bspc --help
+man bspc
+man bspc
+cd .config
+cd sxhkd
+mv sxhkdrc ~/.config/bspwm
+..
+rmdir sxhkd
+cd bspwm
+sudo chmod +x bspwmrcnew
+ll
+yay nitrogen
+man sxhkd
+man bspc
+bspc node --help
+yay urxvtc
+cd .config
+cd qtile
+mkdir oldfiles
+mv config.py oldfiles/
+mv original.py oldfiles/
+mv __pycache__ oldfiles/
+cd oldfiles
+qg picom
+transmission
+transmission-show
+cd .config
+sudo shutdown now
+cd /etc
+fd xmonad /
+cd /usr/share/doc/xmonad
+cd .config
+mkdir xmonad
+cd xmonad
+touch xmonad.hs
+yay xmonad
+python /home/.snapshots/18/snapshot/corey/.config/qtile
+python /home/.snapshots/18/snapshot/corey/.config/qtile/config.py
+cd .config/qtile
+emacsclient config.py
+sudo shutdown now
+cd .config/qtile
+v config.py
+yay gobuster
+gobuster -u http://fakebank.com -w wordlist.txt dir
+yay python-mypy
+S python-ruff python-pylint python-pyright
+yay python-pyright
+yay pyright
+htop
+cd Downloads
+curl --help
+curl -o /home/corey/Downloads/bugbountycourse
+ll
+ya
+yay gvim
+R neovim-symlinks
+yay gvim
+yay xxd-standalone
+R xxd-standalone
+yay gvim
+xset --help
+xset q
+600/50
+cal --help
+qg calc
+Qq
+yay calculator
+calc 600/60
+calc 60*60
+calc 60x60
+calc --help
+calc 60 * 60
+calc 60*60
+calc 60^60\\
+
+calc 60(60)
+man calc
+calc '60 * 60'
+xset --help
+xset dpms timeout 3600
+xset s timeout 3600
+xset q
+man xset
+cd /etc/systemd/
+emacs sleep.conf
+sudo emacs sleep.conf
+emacsclient sleep.conf
+sudo emacsclient sleep.conf
+sv sleep.conf
+upower --help
+man upower
+systemctl sleep --help
+yay powertop
+powertop
+sudo powertop
+yay powerkit
+systemctl
+reboot
+sudo reboot
+yay tiling window manager
+cd .cache
+cd yay
+git clone git://git.suckless.org/dwm
+cd dwm
+ya
+xkill powerkit
+pkill powerkit
+powerkit --help
+sysctl
+systemctl --user
+systemctl
+upower --help
+R upower
+systemctl enable powerkit
+sudo systemctl enable powerkit
+autostart
+powerkit --help
+man powerkit
+xscreensaver-demo
+R powerkit
+man powerkit
+man powerkit
+xscreensaver --help
+xscreensaver-settings
+cd .config
+mv doom doom.new
+mv emacs emacs.new
+rmrf BraveSoftware
+rmrf google-chrome google-chrome-beta google-chrome-unstable
+rmrf microsoft-edge-dev powerkit sway ticktick xmonad\\
+
+R emacs-wayland
+yay emacs
+man yay
+cd .config
+cd yay
+v config.json
+ll
+..
+ll
+cd ksnip
+ll
+v ksnip.conf
+rmrf ksnip
+..
+rmrf ksnip
+ll
+fls
+rmrf eww
+rmrf chromium
+cd pulse
+ll
+b cookie
+cd sessiion
+cd session
+..
+cd session
+b dolphin_dolphin_dolphin
+..
+rmrf session
+ls alacritty
+add alacritty
+add autostart
+ll autostart
+ll bat
+add bat
+c copyq
+cd copyq
+cd .config/copyq
+b copyq.conf
+ll
+b copyq-commands.ini
+b copyq_tabs.ini
+b copyq_geometry.ini
+add copyq.conf
+b .copyq_s
+ll themes
+ls themes
+..
+cd flameshot
+..
+add flameshot
+add htop
+cd hypr
+add binds.conf hyprland.conf
+..
+ll kitty
+..
+j hypr
+..
+cd kitty
+add kitty.conf
+b kitty-old.conf
+..
+cd nvim
+..
+add nvim
+cd qtile
+add config.py
+cd oldfiles
+..
+add oldfiles
+..
+cd Raindrop.io
+cd Local\ Storage
+cd leveldb
+b MANIFEST-000001
+ya
+..
+..
+cd databases
+yay database viewer
+yay database
+cd .config/yay
+v  config.json
+yay --searchby keywords database
+aliases
+v config.json
+cd /etc
+v pacman.conf
+cd ~/.config/yay
+v config.json
+yay database
+yay emacs
+snapall
+yay
+xscreensaver-settings
+xscreensaver --help
+man xscreensaver
+xscreensaver
+autostart
+yay emacs
+j applications
+g emacs
+grep emacs
+sya
+j ~
+cd .config
+ya
+..
+ll
+rmrf .emacs.d
+ya
+doom sync
+j config
+ll
+rmrf xviewer
+cd pdfarranger
+b config.ini
+R xviewer
+R xviewer-plugins xviewer
+qg xvi
+..
+rmrf pdfarranger
+R gedit
+R gedit-plugins gedit
+rmrf gedit
+cd kde.org
+..
+cd menus
+cd applications-merged
+...
+cd pki
+cd nssdb
+...
+cd fontconfig
+cd conf.d
+ya
+alsi
+R discord
+yay enchant
+qg gksu
+yay gksu
+yay pki
+yay nssdb
+yay procps
+yay pule
+yay pulse
+cd venv
+qg python
+yay python-yaml
+yay python-yarl
+R python-pdftotext python-virtualenv python-virtualenv-clone
+~
+yay yarn
+R yarn
+R vlc
+R vlc phonon-qt6-vlc
+rm whats-a-good-uncensored-local-ai-i-can-run-on-my-linux-v0-qw2akp1173kb1.webp
+..
+..
+R phonon-qt6 phonon-qt6-vlc
+yay xfce app
+R xfce4-appfinder
+qg yarn
+doom --help
+doom env
+doom build
+ doom upgrade
+cd .config/qtile
+v config.py
+flameshot gui
+flameshot --help
+flameshot launcher
+doom doctor
+yay js-beautify
+R emacs-nativecomp
+cd .config
+yay emacs
+S emacs-pgtk-native-comp-git
+S emacs-wayland
+qg way
+qg clip
+R wl-clipboard
+R wl-clipboard wl-color-picker
+qg clip
+yay clip
+qg wl
+yay x clip
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs\
+~/.config/emacs/bin/doom install
+sudo shutdown now
+cd .config
+cd doom
+b config.el
+doom sync
+rmrf doom
+..
+rmrf doom
+mv doom.bkup doom
+..
+rmrf .emacs.d
+doom sync
+cd .config/nvim
+cd lua/user
+v lazy.lua
+...
+cd after
+cd plugin
+touch colorizer.lua
+v colorizer.lua
+yay codespell
+yay snyk-ls
+yay snyk
+yay basepyright
+yay pyright
+yay sourcekit
+yay biome
+yay eslint
+yay terraform
+yay terraform-ls
+yay terraform
+yay beancount
+yay css variable
+yay css
+yay css language
+j nvim
+v
+...
+cd lua
+cd user
+v lazy.lua
+v
+yay elixer
+v
+yay python ide
+yay python ide
+calc '2048 / 2'
+cd .config/qtile
+v config.py
+yay file manager
+yay pcmanfm
+yay file explorer
+yay file browser
+j yay
+v config.json
+man yay
+yay file manager
+yay thunar
+cd .config/nvim
+v stylua.toml
+cd .config/nvim
+b init.lua
+cd lua
+cd user
+v options.lua
+v
+v
+v
+yay ai cli
+S ai-cli
+j yay
+v config.json
+b config.json
+yay ai cli
+yay chatgpt
+expac --timefmt='%Y-%m-%d %T' '%l\t%n' $(yay -Qq) | sort
+mimalloc
+mmcli --help
+..
+..
+cd Documents
+cd config\ examples
+cd NycRat
+cd dot_config
+cd nvim
+cd lua
+cd nycrat
+b lazy.lua
+v lazy.lua
+cd /usr/bin
+fd gpt
+sgpt --help
+man sgpt
+man shell-gpt
+man shellgpt
+man shell
+~
+sgpt what is the weather like today?
+sgpt --help
+sgpt --chat whats the weather like tomorrow?
+sgpt "whats the weather like tomorrow?"
+curl -fsSL https://ollama.com/install.sh | sh
+ollama
+Qq olla
+Qq ollama
+yay -Q ollama
+cd Downloads
+curl --help
+curl -o https://ollama.com/install.sh
+curl -o "https://ollama.com/install.sh"
+curl -o "/home/corey/Downloads/install.sh" "https://ollama.com/install.sh"
+b install.sh
+ollama run llama2
+ollama
+ollama serve
+systemctl
+tldr ollama
+autostart
+ollama run llama2
+ipython
+ollama show
+ollama list
+ollama
+ollama run llama2-uncensored 
+yay clip x
+xclip
+xclip --help
+man xclip
+yay copy xorg
+yay copy x
+yay term clip x
+yay x terminal
+octopi
+yay octopi-sudo
+yay octopi
+R octopi-dev octopi-notifier-qt5
+R alpm_octopi_utils
+yay octopi
+snapall
+yay opendoass
+yay opendoas
+yay
+sudo shutdown now
+llama run ollama2-uncensored
+llama
+llama --help
+aliases
+ollama run wizard-vicuna-uncensored
+ollama run dolphin-phi
+ollama run llava
+ollama run wizardlm-uncensored
+yay
+yay powershell
+dotnet workload update
+yay powershell
+yay .net
+yay .net sdk
+dotnet workload update
+sudo dotnet workload update
+powershell
+yay powershell
+yay -S powershell
+fd powershell /
+ollama run wizardlm-uncensored
+chsh -l
+yay app launcher
+yay ai image
+yay docker
+systemctl enable docker
+sudo systemctl enable docker
+systemctl start docker --now
+systemctl
+docker run -ti --name local-ai -p 8080:8080 localai/localai:latest-aio-cpu
+sudo docker run -ti --name local-ai -p 8080:8080 localai/localai:latest-aio-cpu
+j kitty
+v kitty.conf
+...
+b localailog.txt
+docker --help
+sudo docker run -ti --name local-ai -p 8080:8080 localai/localai:latest-aio-cpu
+docker-compose --help
+yay shodan
+shodan --help
+shodan search
+shodan data
+shodan data list
+ollama run wizardlm-uncensored
+yay code
+j yay
+v config.json
+man yay
+man yay
+yay code
+yay vs code
+man docker
+man docker
+man docker-run
+pacsearch --help
+pacsearch code
+pacseek
+man yay
+tldr yay
+yay vs code
+yay vs code
+yay pycharm
+yay node.js
+yay nodejs
+printenv > "/tmp/tmp-70570JtuxC0mU3u2K.txt"
+systemctl
+sudo systemctl enable bluetooth
+systemctl
+systemctl start bluetooth --now
+sudo systemctl start bluetooth --now
+yay lockscreen
+autostart
+gtklock --help
+man gtklock
+gtklock
+gtklock --help
+xrandr
+gtklock --display=0
+gtklock --display= screen 0
+gtklock --display=DP-1
+ollama show
+ollama --help
+ollama list
+ollama run wizard-vicuna-uncensored
+agetty --help
+snyk --help
+gobuster --help
+j personal
+cd .stfolder
+ll
+..
+rmdir .stfolder
+cd virtual
+ll
+mv VM\ machine\ folder machines
+ll
+..
+cd Documents
+cd config\ examples
+cd NycRat
+cd private_dot_local
+cd bin
+ll
+l
+autostart
+aliases
+ollama list
+ai 
+ollama
+ollama show wizardlm-uncensored
+ollama show --help
+ollama show wizardlm-uncensored --system
+ollama show wizardlm-uncensored --parameters
+ollama show wizardlm-uncensored --modelfile
+ollama show wizardlm-uncensored --license
+ollama show wizardlm-uncensored --template
+wget
+yarn
+yarn
+Qg blue
+R gnome-bluetooth
+R gnome-bluetooth blueberry
+qg blue
+systemctl
+cd /etc/bluetooth
+v main.conf
+sv main.conf
+sudo systemctl enable bluez
+qg blue
+yay blueman
+wiz
+yay clementine
+yay bluez
+hciconfig --help
+sudo systemctl restart bluetooth
+yay gvfs
+yay gio
+cd /etc
+ll
+cd bluetooth
+sv input.conf
+sv network.conf
+sv main.conf
+..
+ll
+cd dkms
+sv framework.conf
+..
+ll
+sv dnsma
+sv dnsmasq.conf
+sya
+sr 
+chsh -l
+pwsh --help
+yay kde
+yay kde plasma
+yay -S kde-plasma6
+yay -S kde-plasma
+yay -S plasma-desktop
+yay -S plasma-workspace
+snapall
+yay
+fd kde polkit agent /\\
+
+polkit-kde-authentication-agent-1
+fd polkit-kde-authentication-agent-1 /
+cd /
+./usr/lib/polkit-kde-authentication-agent-1
+fd polkit gnome authentication /
+./usr/lib/polkit-gnome/polkit-gnome-authentication-1
+./usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+cd /etc
+sv environment
+cd ~
+cd .nuget
+cd NuGet
+v NuGet.Config
+chsh -s pwsh
+chsh -s /usr/bin/pwsh
+fish --help
+cd personal
+cd Personal
+cd Projects
+cd Local\ AI
+..
+rmrf Local AI
+rmrf dwm waybar-config-online
+cd Local\ AI
+..
+rmrf Local\ AI
+git clone https://github.com/IntelligenzaArtificiale/Free-Auto-GPT
+python3 -m pip install -r requirements.txt
+pip3 install -r requirements.txt
+pyvenv-3.6 --help
+yay node
+yay -S node
+docker pull mintplexlabs/anythingllm
+sudo docker pull mintplexlabs/anythingllm
+ls && \\
+\
+\
+\
+\
+f
+yay docker desktop
+autostart
+dockerd --help
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 & disown
+env
+j zsh
+v .zshrc
+sudo systemctl poweroff --now
+zshrc
+cd /usr
+ya
+ya
+cd /etc
+fd profile
+sv profile
+j personal
+cd Projects
+mkdir docker
+cd docker
+git clone https://github.com/docker/welcome-to-docker
+cd welcome-to-docker
+docker build -t welcome-to-docker .
+yay
+snapall
+snapall
+yay
+biome --help
+pcscd --help
+pcscspy --help
+pcsc-spy --help
+gitui
+gitui --help
+printenv > "/tmp/tmp-50816vAlMADdXUo7N.txt"
+printenv > "/tmp/tmp-67901T00N55WA3t60.txt"
+npm install
+npm audit fix --force
+npm update
+npm --help
+yay kde plasma
+yay plasma
+yay -S plasma-workspace
+yay -S plasma-workspace
+S appmenu-gtk-module discover gpsd kdepim-addons kwayland-integration networkmanager-qt plasma5-integration
+ya
+cd /
+./usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+./usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 && disown
+./usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 & disown
+sudo btrfs-assistant & disown
+eze
+sudo btrfs-assistant
+btrfs subvolume list
+btrfs subvolume list --help
+btrfs subvolume list /
+sudo btrfs subvolume list /
+sya
+ln --help
+ln -s -i /run/media/corey/ /ssd-drive/
+cd /
+ln -s -i /run/media/corey
+sudo ln -s -i /run/media/corey
+ll
+cd /corey
+cd ~
+y
+ya
+fd nuget
+fd nuget /
+ya
+j qmk
+v .gitignore
+printenv > "/tmp/tmp-3648024MXG0jBFwN6U.txt"
+curl -sSL https://raw.githubusercontent.com/lunamidori5/Midori-AI/master/other_files/model_installer/shell_files/model_installer.sh | sh
+ yay midori
+j projects
+mkdir midori
+cd midori
+git clone https://github.com/lunamidori5/midori-ai
+mv midori-ai .../Projects
+mv midori ~/Personal/Projects
+mv midori-ai ~/Personal/Projects
+..
+rmdir midori
+cd midori-ai
+..
+mv midori-ai midori
+cd midori
+cd other_files
+cd midori_ai_manager
+sh subsystem_installer.sh
+ll
+subsystem_isntaller.tar.gz
+tar -xzf subsystem_manager.tar.gz
+ll
+..
+curl -sSL https://tea-cup.midori-ai.xyz/download/subsystem_installer_linux.tar.gz -o subsystem_installer.tar.gz
+sudo chmod +x subsystem_installer.tar.gz
+./subsystem_installer.tar.gz
+tar -xzf subsystem_installer.tar.gz
+tar subsystem_installer.tar.gz
+tar --help
+tar -zf subsystem_installer.tar.gz
+tar -xf subsystem_installer.tar.gz
+sya
+ya
+r
+sudo systemctl logout --now
+logout --now
+logout
+logout --help
+gpg --generate-key
+j screenshots
+ya
+ll
+mv 2024-04-17_22-45.png docker-pgp-key.png
+j sc
+nomacs docker-pgp-key.png
+nomacs docker-pgp-key.png & disown
+pass init 1FE0459149791139F8B37D5BE9A6411EC08165C4
+cd ~
+cd gnupg
+cd .gnupg
+cd private-keys-v1.d
+ll
+..
+cd public-keys.d
+..
+cd openpgp-revocs.d
+..
+cd private-keys-v1.d
+b 2CCDCFC747BE758A641611DE1724F64A174A3C75.key
+b EC94A8547094B722B8A4747ABDD5055A34A56DEA.key
+..
+cd public-keys.d
+..
+b common.conf
+l
+b common.conf
+b trustdb.gpg
+cd crls.d
+b DIR.txt
+..
+cd openpgp-revocs.d
+b 1FE0459149791139F8B37D5BE9A6411EC08165C4.rev
+j .pgupg
+cd .gnupg
+cd public-keys.d
+b .\#lk0x0000718a60000c20.arcolinux.1143
+b .\#lk0x00007373f4000c20.arcolinux.1349
+rm .\#lk0x0000718a60000c20.arcolinux.1143 .\#lk0x00007373f4000c20.arcolinux.1349
+..
+cd private-keys-v1.d
+rm 2CCDCFC747BE758A641611DE1724F64A174A3C75.key EC94A8547094B722B8A4747ABDD5055A34A56DEA.key
+..
+cd openpgp-revocs.d
+rm 1FE0459149791139F8B37D5BE9A6411EC08165C4.rev
+..
+v common.conf
+gpg --generate-key
+..
+cd public-keys.d
+..
+cd private-keys-v1.d
+pass init 63CAEA9C4513110C2B2794A79F2B161BAD2756BD
+autostart
+qtconf
+fd jetbrains nerd font /
+printenv > "/tmp/tmp-27897LzFhl58XJvYK.txt"
+lsmod | grep kvm
+modprobe kvm_intel
+lsmod
+lsmod --help
+man lsmod
+modinfo
+modinfo kvm_intel
+modprobe --help
+man modprobe
+ls -al /dev/kvm
+sudo usermod -aG kvm $USER
+ls -al /dev/kvm
+sudo shutdown now
+info coreutils
+info iptables
+iptables list NAT
+iptables --list NAT
+sudo iptables --list NAT
+docker
+npm ci
+j downloa
+unzip programming-23-main.zip
+l
+cd programming-23-main
+npm ci
+npm run develop
+j downloads
+sya
+ya
+R shellgpt
+R shellgpt-git
+R tgpt
+qg ai
+Qq
+Qe
+cd .config
+ya
+fd ranger colorscheme /
+ya
+r
+cd .config
+cd yazi
+v yazi.toml
+cd flavors
+ll
+..
+cd plugins
+ll
+..
+S bpytop
+yay bpytop
+ya
+sya
+cd .config
+ll
+..
+ll
+cd .config
+..
+b .gtkrc-2.0
+cd .config
+cd gtk-2.0
+ll
+b gtkrc
+..
+rmrf gtk-2.0
+cd gtk-3.0
+b bookmarks
+b settings.ini
+r
+man gtk
+man gtk2
+man gtk-2.0
+gtk4-launch
+gtk4-launch --help
+info qtile
+info ranger
+info network
+info fs
+info dns
+qtconf
+qttest
+qtconf
+qttest
+qtconf
+qttest
+yay xfce-appfinder
+yay xfce
+cd Documents/Learning
+cd Vuln\ Machine\|Docker\|Varnish-H2-Request-Smuggling
+docker run
+b README.md
+docker-compose up
+sudo docker-compose up
+snapall
+yay
+yay -Syuu
+r
+yay xz-utils
+yay xz
+yay nix
+yay docs viewer
+docutils --help
+info docutils
+info docs
+info documentation
+yay docs
+cd /usr/share/docs
+cd /usr/share/doc
+fzf
+yay -Qs $(-docs$)
+pacman -Qe | grep -E '-docs$'
+yay -Qe | grep -E '-docs$'
+yay -Qe | grep '-docs$'
+yay -Qe | g -docs
+qg -docs
+qg '-docs'
+qg \'-docs'\
+
+qg docs
+Qe
+fzfpkg
+pacseek
+yay bauh
+pacseek
+pacseek
+pacseek
+paccache --help
+paccache -k 1
+paccache -k 1 -r
+wget https://raw.githubusercontent.com/micans/apparix/main/.bourne-apparix ~/Documents/apparix4bashnav
+j doc
+j docs
+j docu
+j downloads
+cd documents
+j docu
+cd ~/Documents
+wget https://raw.githubusercontent.com/micans/apparix/main/.bourne-apparix
+yay tag
+printenv > "/tmp/tmp-1072958tHstRLTNtxa.txt"
+cd qmk_firmware
+v .gitignore
+mv .git .notgit
+..
+cd bin
+add autostart.sh snapall.sh
+..
+cd .vscode
+add settings.json
+cd extensions
+b extensions.json
+add extensions.json
+..
+cd cli
+..
+b argv.json
+..
+add .bashrc
+add .zshrc
+cd .ollama
+cd models
+..
+..
+cd .docker
+..
+cd .config
+cd akonadi
+..
+cd alacritty
+add alacritty.toml
+..
+cd autostart
+..
+add autostart
+cd bat
+..
+add bat
+cd Code
+add Preferences
+..
+cd copyq
+add copyq.conf
+..
+add doom
+cd flameshot
+add flameshot.ini
+..
+add htop
+cd hypr
+add ..
+config status
+..
+config status
+add copyq/copyq-commands.ini copyq/copyq_tabs.ini dolphinrc hypr/hyprpaper.conf
+config status
+add nvim
+config status
+add qtile/config.py ranger/rc.conf rofi/launchers/type-1/launcher.sh
+add waybar.temp/config waybar.temp/config.bak waybar/style.css yay/config.json zsh/aliases.zsh zsh/history
+config status
+add zsh/history
+config status
+bpytop
+yay git TUI commit
+yay git tui
+gitui
+yay git-crecord
+fd crecord /
+git-crecord
+git-crecord --help
+man git-crecord
+cd .dotfiles
+git-crecord
+..
+git-crecord
+git crecord
+R git-crecord gitui
+R git-crecord gitui
+R git-crecord
+R git-crecord-git
+R gitui
+S lazygit pyautogit grv
+nmtui
+du --help
+du /
+du --help
+du -schx
+yay tui-shop
+yay tui shop
+yay tui
+du
+du --help
+S dust
+dust
+cd /
+dust --help
+dust --force-colors
+du -schx
+sudo du -schx
+S git-lfs
+S fml
+yay fml
+xplr
+R xplr
+gitu
+gitu ~/.dotfiles
+man gitu
+gitu --help
+gitu show 
+gitu show .dotfiles
+gitu show ~/.dotfiles
+R gitu
+gitkraken --help
+gitkraken
+btrfs-assistant
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 & disown
+autostart
+wait --help
+man wait
+yay junyper
+yay jupyter
+yay clip
+yay sqlmap
+yay xss
+yay shodan
+yay cain abel
+yay maltego
+yay appflowy
+yay polybar
+j config
+mkdir polybar
+fd polybar /
+cd /etc/polybar\\
+
+mv config.ini /home/corey/.config/polybar/
+sudo mv config.ini /home/corey/.config/polybar/
+j polybar
+j polybar
+cd ~/.config/polybar
+yay betterlockscreen
+sudo systemctl enable betterlockscreen corey
+betterlockscreen --help
+man betterlockscreen
+R xscreensaver
+calc '17 * 5.5'
+chsh -s /usr/bin/bash
+R jpdftweak
+cd /usr/share
+sudo git clone https://github.com/zdharma-continuum/zinit.git
+cd zinit
+exec zsh
+yazi
+Qe
+Qe
+yay -S --needed - < pkglist.txt
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 & disown
+cd /etc/xdg/autostart
+sudo yazi
+cd ...
+lsl
+...
+..
+Qe
+htop
+cd .config/autostart
+cd /etc/xdg/autostart
+R yad
+yazi
+yay ouch
+yay -S glow miller hexyl exiftool
+man yazi
+yazi --help
+cd .config/yazi
+v yazi.toml
+yay mpv
+v keymap.toml
+ya
+ya
+yazi --help
+git clone https://github.com/DreamMaoMao/mime.yazi.git ~/.config/yazi/plugins/mime.yazi
+git clone https://github.com/DreamMaoMao/bookmarks-persistence.yazi.git ~/.config/yazi/plugins/bookmarks-persistence.yazi
+yazi
+git clone https://github.com/DreamMaoMao/fg.yazi.git ~/.config/yazi/plugins/fg.yazi
+git clone https://github.com/Reledia/glow.yazi.git
+git clone https://github.com/Reledia/miller.yazi ~/.config/yazi/plugins/miller.yazi
+cd .config/yazi
+j config
+yay zoxide
+j
+j
+j autostart
+j autostart\ 
+j autostart
+j
+j yazi
+cd plugins
+cd miller.yazi
+..
+git clone https://github.com/Reledia/hexyl.yazi ~/.config/yazi/plugins/hexyl.yazi
+git clone https://github.com/Sonico98/exifaudio.yazi.git ~/.config/yazi/plugins/exifaudio.yazi
+yay exifaudio
+yay exif
+exif
+yay exiftool
+j plugins
+rmrf exifaudio.yazi
+yay trash
+rmrf exifaudio.yazi
+yay trash
+R trash
+yay -S trash-cli
+qg thun
+rmrf exifaudio.yazi
+yazi
+yazi
+yazi
+j yazi
+v yazi.toml
+yazi
+j yazi
+v yazi.toml
+yazi
+j yazi
+c fl
+cd flavors
+..
+v theme.toml
+ya
+ya
+ya
+ya
+ya
+yay system settings
+yay systemd
+
+
+yay note
+yay gnote gedit
+yay gedit
+yay edit
+ya
+yay -S gedit gnote gedit-plugins
+picom -b & disown
+picom --help
+cd .config/autostart
+b Picom.desktop
+chmod a+x Picom.desktop
+sudo chmod a+x Picom.desktop
+ll
+cd /etc/xdg/autostart
+ll
+cd /etc/xdg/autostart
+ll
+sudo chmod a-x Picom.desktop
+ll
+sudo mv Picom.desktop /etc/xdg/autostart/picom.desktop
+cd /etc/xdg/autostart
+ll
+zshrc
+v
+yay keeper
+j auto
+yazi
+sudo yazi
+_xscreensaver
+xscreensaver
+_xscreensaver --help
+xscreensaver -no-splash
+yay fx cast
+R fx_cast
+yay fx_cast
+htop
+yay ssh
+htop
+tmux --help
+man tmux
+picom
+picom -b
+dex
+dex -ad
+cd /etc/xdg/autostart
+b pulseaudio.desktop
+b blueman.desktop
+ll
+sv picom.desktop
+dex -ad
+sya
+j autostart
+dex -c "/usr/bin/picom -b"
+fd picom
+fd picom /
+dex -c "/usr/bin/picom"
+chmod a+x picom.desktop
+ll
+v picom.desktop
+dex -ad
+sudo mv picom.desktop /etc/xdg/autostart/
+sudo mv nm-applet.desktop /etc/xdg/autostart/
+ll
+sudo mv appimagelauncherd.desktop /etc/xdg/autostart
+ll
+dex -ad
+dex -c /usr/bin/1password
+ll
+b 1password.desktop
+chmod a+x 1password.desktop
+ll
+xfsettingsd
+xfsettingsd --help
+xfsettingsd --help-all
+xfsettingsd --help-sm-client
+j
+ll
+v .xsession
+mv .xsession .xsession.disabled
+ll
+b .xsessionrc
+sudo bat /etc/profile
+sudo v /etc/profile
+sudo nvim /etc/profile
+ya
+yay nordpass
+yay sublime
+cd .config/rofi
+fd rofi /
+j zsh
+cd ~/.config/zsh
+v aliases.zsh
+fd rofi theme /
+fzf /
+fzf
+fzf --help
+cd /
+fzf
+aliases
+fzf
+cd /
+man fzf
+fzf --preview 'bat {}' --preview-window 'right,40%,border-left'
+aliases
+fzf
+fzf --preview 'bat {}' --preview-window 'right,40%,border-left' --bind 'ctrl-/:change-preview-window(hidden|)'
+fzf
+fzf
+fzf
+fzf
+fzf
+fd rofi /usr
+yazi
+rofi -show drun -theme '~/.config/rofi/themes/nord.rasi'
+cd .config/rofi
+git clone https://github.com/Murzchnvok/rofi-collection.git
+yazi
+cd .config/rofi
+ya
+sudo yazi
+ssh -T git@github.com
+yay desktop
+man desktop-file-utils
+info desktop-file-utils
+desktop-file-install --help
+desktop-file-install --help-all
+desktop-file-install --rebuild-mime-info-cache
+desktop-file-install --help-edit
+yay send2trash
+yay sublime
+yay pip
+yay python
+yay -S python-pypy3
+S python-pipy3
+yay python 3
+yay py3
+man kitty
+kitty --help
+j kitty
+cd .config
+cd alacritty
+..
+cd autostart
+..
+cd bat
+..
+cd bauh
+..
+cd copyq
+..
+cd doom
+..
+cd kitty
+..
+cd nvim
+..
+cd qtile
+..
+cd ranger
+..
+cd sublime-text
+..
+rmrf variety
+cd pulse
+..
+ll
+cd nomacs
+..
+rmrf nomacs
+ll
+rmrf neofetch
+rmrf nano
+rmrf Mousepad
+ll
+R galculator
+ll
+rmrf galculator
+ll
+..
+ll
+cd .pkg-cache
+cd v3.3
+ya
+bat fetched-v16.14.2-linux-x64
+bat -A fetched-v16.14.2-linux-x64
+man bat
+yay dirb
+playerctl
+playerctl -l
+playerctl pause
+playerctl play
+yay ulauncher
+j autostart
+j autostart
+rm 1password.desktop
+j autostart
+j autostart
+b NordPass\ -\ Password\ Manager.desktop
+chmod a+x NordPass\ -\ Password\ Manager.desktop
+sudo chmod a+x NordPass\ -\ Password\ Manager.desktop
+ll
+..
+ll
+yay owasp
+yay bug bounty
+yay bug finder
+yay bug
+yay framework
+R xfce4-battery-plugin xfce4-clipman-plugin xfce4-timer-plugin xfce4-screenshooter
+R xfce4-cpufreq-plugin xfce4-artwork xfce4-cpugraph-plugin
+R xfce4-dev-tools xfce4-dict xfce4-diskperf-plugin xfce4-eyes-plugin xfce4-fsguard-plugin xfce4-genmon-plugin
+fzf --multi
+fzf --help
+yay tldr
+yay tldr
+yay tldr
+yay tldr
+tldr
+tldr fzf
+tldr --update
+tldr fzf
+fzf --multi | yay -R
+yay -Qe | fzf --multi | yay -R
+yay app finder
+findex
+findex --help
+findex & disown
+.config
+findex
+cd findex
+code settings.toml
+code style.css
+..
+rmrf findex
+R findex
+R findex
+R findex-bin findex-bin-debug
+htop
+usr/lib/notion-app
+/usr/lib/notion-app
+ya
+xprop
+j qtile
+v config.py
+xargs --help
+nvim --help
+nvim --cmd yay -Qe
+nvim --cmd "yay -Qe"
+nvim --cmd cat ${yay -Qe}
+v config.py
+nordpass --help
+man nordpass
+info nordpass
+info
+j zsh
+v env.zsh
+man
+man man
+bat --helep
+bat --help
+yay xdg-ninja
+yay ninja
+yay -S xdg-ninja
+ninja
+xdg-ninja
+fzf
+fzf --cmd
+S compgen
+yay compgen
+yay comp
+yay command
+xdg-ninja
+v .bashrc
+v .bashrc
+mv .bash_history ~/.local/state/bash/history
+mkdir ~/.local/state/bash
+mv .bash_history ~/.local/state/bash/history
+ya
+cd /usr/bin
+grep comp
+grep compton
+compton
+ya
+cd .config
+ya
+cd .config
+ya
+xprop
+Qe
+R i3lock-color i3lock-fancy-dualmonitors-git
+R i3lock-color i3lock-fancy-dualmonitors-git arcolinux-powermenu-git
+yay thunar-extended
+yay pixbuf
+yay gtk
+S awk
+yay awk
+awk
+yay pixbuf
+timeshift --help
+timeshift --create --comments "first snap. doing an update after this snap" --target /dev/sda3
+sudo timeshift --create --comments "first snap. doing an update after this snap" --target /dev/sda3
+f
+fd sleep /
+sudo ya
+sudo yazi
+v config.py
+j nvim
+cd lua
+cd user
+v keymaps.lua
+v keymaps.lua
+ya
+j yazi
+v keymap.toml
+ya
+rg
+rg zsh
+rg --help
+rg --type-list
+echo ${yay -Qe | cat}
+info zsh
+info bash
+info info
+info bash
+dircolors
+dircolors --help
+dircolors -p
+dircolors --print-ls-colors
+dnsdomainname
+dnsdomainname --help
+dnsdomainname
+ifnames
+ifnames --help
+ifocnfig
+ifconfig
+ifconfig --help
+which
+which *
+gawk
+sed
+info regex
+info --vi-keys
+ya
+rg
+fzf --cmd
+info fzf
+aliases
+fzf --exclude /usr
+ya
+j qitle
+j qtile
+v config.py
+picom -b & disown
+pkill picom
+picom & disown
+ps
+ps --help
+man ps
+ps -r
+ps r
+ps -A
+ps -A | grep qtile
+top
+top --help
+: 1717375124:0;fasd
+: 1717376372:0;v
+: 1717377027:0;v
+: 1717377946:0;v
+: 1717379118:0;v
+: 1717379196:0;v
+: 1717379381:0;v
+: 1717379839:0;v
+: 1717379918:0;v
+: 1717380165:0;v
+: 1717380513:0;v
+: 1717380518:0;v
+: 1717380591:0;v
+: 1717384636:0;yay vim
+: 1717384695:0;yay nvim
+: 1717384795:0;yay vim gtk
+: 1717385754:0;xprop
+: 1717386089:0;xprop
+: 1717386096:0;xprop
+: 1717386112:0;xprop
+: 1717387034:0;yay vim gtk
+: 1717387076:0;yay vim gtk
+: 1717387930:0;v
+: 1717387971:0;v
+: 1717388010:0;v
+: 1717391326:0;v
+: 1717391523:0;rm .projectile
+: 1717391535:0;ya
+: 1717391512:0;ls
+: 1717391607:0;ya
+: 1717391621:0;cd /etc/qtile
+: 1717391623:0;cd /etc
+: 1717391853:0;j zsh
+: 1717391854:0;v env.zsh
+: 1717391955:0;fzf
+: 1717391993:0;fzf /'
+: 1717391994:0;fzf /
+: 1717392000:0;fzf --cmd /
+: 1717392005:0;cd /
+: 1717392017:0;cd / && fzf
+: 1717392042:0;f
+: 1717392045:0;fzf
+: 1717392071:0;fzf --help
+: 1717392081:0;yay silver
+: 1717392109:0;ss
+: 1717392113:0;ss --help
+: 1717392231:0;yay pkgfile
+: 1717392289:0;aliases
+: 1717392448:0;j qtile
+: 1717392450:0;v config.py
+: 1717393470:0;xprop
+: 1717393886:0;j qtile
+: 1717393888:0;v config.py
+: 1717396346:0;psfx
+: 1717396392:0;cast
+: 1717396516:0;yay caja
+: 1717396980:0;fd fx cast /
+: 1717396993:0;man fx_cast
+: 1717396996:0;man fx-cast
+: 1717397006:0;info fx_cast
+: 1717397022:0;cd /opt
+: 1717397025:0;ya
+: 1717397268:0;yay vivaldi
+: 1717397478:0;R ulauncher
+: 1717397495:0;pkill ulauncher
+: 1717397520:0;ya
+: 1717397772:0;j qtile
+: 1717397774:0;v config.py
+: 1717397919:0;pkill nordpass
+: 1717400563:0;yay chrome
+: 1717400623:0;yay chrome
+: 1717400681:0;R vivaldi vivaldi-ffmpeg-codecs vivaldi-widevine
+: 1717400763:0;R fx_cast-bin
+: 1717400778:0;yay fx cast
+: 1717400804:0;j qtile
+: 1717400809:0;qtconf
+: 1717400840:0;yay -Scc
+: 1717400846:0;yay
+: 1717400872:0;ps
+: 1717400890:0;ps | grep time
+: 1717400901:0;yay timeshift
+: 1717400920:0;yay snapshot
+: 1717401007:0;yay shell-color-scripts
+: 1717401341:0;S backintime
+: 1717401378:0;yay
+: 1717401388:0;yay
+: 1717401628:0;yay
+: 1717402734:0;man yay
+: 1717402851:0;qg kvan
+: 1717402879:0;R kvantum kvantum-qt5-git kvantum-theme-materia kvantum-theme-qogir-git arcolinux-kvantum-git
+: 1717402891:0;R kvantum-qt5-git kvantum-theme-materia kvantum-theme-qogir-git arcolinux-kvantum-git
+: 1717402896:0;yay
+: 1717402922:0;man yay
+: 1717402945:0;yay --mflags "--skipchecksums --skippgpcheck"
+: 1717403265:0;j yay
+: 1717403269:0;cd .config
+: 1717403271:0;cd yay
+: 1717403272:0;..
+: 1717403274:0;cd paru
+: 1717403275:0;..
+: 1717403281:0;cd archlinux-tweak-tool
+: 1717403282:0;..
+: 1717403285:0;cd backintime
+: 1717403286:0;..
+: 1717403292:0;cd caja
+: 1717403293:0;..
+: 1717403315:0;cd sofirem
+: 1717403316:0;..
+: 1717403322:0;cd yazi
+: 1717403323:0;..
+: 1717403326:0;cd xfce4
+: 1717403327:0;..
+: 1717403337:0;cd Thunar
+: 1717403338:0;..
+: 1717403344:0;cd sublime-text
+: 1717403345:0;..
+: 1717403353:0;yay
+: 1717403400:0;yay
+: 1717403425:0;pkgfile
+: 1717403429:0;pkgfile qtile
+: 1717403434:0;pkgfile --update
+: 1717403439:0;sudo pkgfile --update
+: 1717403445:0;pkgfile qtile
+: 1717403470:0;Qe
+: 1717403495:0;R caja
+: 1717403512:0;pacseek
+: 1717403955:0;man pacseek
+: 1717407331:0;yay pkg manager
+: 1717407403:0;yay app manage
+: 1717407450:0;yay gnome aur
+: 1717407457:0;yay software manager
+: 1717407500:0;yay software
+: 1717407523:0;yay package utility
+: 1717407573:0;S pacui
+: 1717407578:0;pacui
+: 1717407584:0;pacui
+: 1717409503:0;qtconf
+: 1717409534:0;qtconf
+: 1717409787:0;qtconf
+: 1717471200:0;yay snap
+: 1717471293:0;yay flatpak
+: 1717471310:0;qg pamac
+: 1717471313:0;qg pam
+: 1717471325:0;pacui
+: 1717471426:0;pacdiff
+: 1717471436:0;pacdiff --help
+: 1717471467:0;nvim --help
+: 1717471475:0;vim 
+: 1717471480:0;aliases
+: 1717471500:0;yay nvim symlink
+: 1717471505:0;yay vim symlink
+: 1717471540:0;ya /
+: 1717471589:0;qg
+: 1717471591:0;qe
+: 1717471593:0;qe
+: 1717471597:0;aliases
+: 1717471689:0;yay -Qi
+: 1717471693:0;yay -Ql
+: 1717471740:0;qi
+: 1717471811:0;qsg help
+: 1717471819:0;qsg
+: 1717471905:0;yay -Q
+: 1717471908:0;yay -Qq
+: 1717472017:0;man yay
+: 1717472065:0;yay -Ps
+: 1717472078:0;yay -P
+: 1717472082:0;yay -Pr
+: 1717472086:0;yay -Pss
+: 1717472102:0;yay -Pc
+: 1717472177:0;yay yubikey
+: 1717472233:0;yay -Pc | bat
+: 1717472306:0;yay app-manager
+: 1717472982:0;yay fx cast
+: 1717473611:0;yay firefox
+: 1717473741:0;yay firefox nightly
+: 1717473791:0;fd fx_cast /
+: 1717473805:0;cd /usr/lib/fx_cast
+: 1717473811:0;v fx_cast_bridge
+: 1717473817:0;b fx_cast_bridge
+: 1717473821:0;b dns_sd_bindings.node
+: 1717473950:0;Ps
+: 1717473989:0;yay -Ps
+: 1717474024:0;yay -P --help
+: 1717474045:0;yay -w
+: 1717474063:0;yay
+: 1717474247:0;pskill nordpass
+: 1717474251:0;pkill nordpass
+: 1717474334:0;pkill nordpass
+: 1717474619:0;fpf
+: 1717474638:0;fpf
+: 1717474741:0;fpf --help
+: 1717474770:0;fpf -R
+: 1717475737:0;cd Documents
+: 1717475740:0;cd pdfs
+: 1717475742:0;cd PDFs
+: 1717475749:0;rm CIA\ Employee\ Directory.pdf
+: 1717475769:0;../Learning
+: 1717475775:0;cd PDFs
+: 1717475777:0;..
+: 1717475790:0;ya
+: 1717476250:0;ll
+: 1717476277:0;mv .face Documents/temp-hold
+: 1717476282:0;sudo mv .face Documents/temp-hold
+: 1717476286:0;ll
+: 1717476294:0;ya
+: 1717476508:0;ya
+: 1717476523:0;ya
+: 1717476544:0;j yazi
+: 1717476559:0;v yazi.toml
+: 1717476764:0;man pfp
+: 1717476767:0;man fpf
+: 1717476771:0;fpf --help
+: 1717476777:0;fpf -o
+: 1717477019:0;fpy
+: 1717477026:0;qg
+: 1717477029:0;qe
+: 1717477030:0;qe
+: 1717477497:0;kfasdkljf
+: 1717477497:0;fjlfkj
+: 1717477497:0;jj
+: 1717477632:0;yay
+: 1717478194:0;R backintime backintime-cli
+: 1717478199:0;yay
+: 1717478218:0;yay exiftool-rs
+: 1717478244:0;R exiftool-rs-git exiftool-rs-git-debug
+: 1717478251:0;yay exiftool
+: 1717478289:0;R exiftool-rs-git
+: 1717478296:0;R exiftool-rs-git-debug
+: 1717478305:0;yay exif
+: 1717478381:0;fd firefox
+: 1717478385:0;fd firefox /
+: 1717478410:0;ls
+: 1717478413:0;ya
+: 1717478424:0;fd mozilla /
+: 1717478434:0;ya
+: 1717481064:0;yay
+: 1717481122:0;yay
+: 1717481527:0;fd fx_cast /
+: 1717481536:0;fd fx_cast /
+: 1717481543:0;aliases
+: 1717481663:0;fd fx_cast /
+: 1717481714:0;fd fx_cast / | grep fx_cast/fx_cast_bridge < cd
+: 1717481719:0;fd fx_cast / | grep fx_cast/fx_cast_bridge > cd
+: 1717481729:0;cd /usr/lib/fx_cast
+: 1717481730:0;ls
+: 1717481748:0;file fx_cast_bridge --help
+: 1717481767:0;file --mime-type fx_cast_bridge
+: 1717481775:0;fx_cast_bridge
+: 1717481797:0;bat -A fx_cast_bridge
+: 1717481902:0;psfx
+: 1717481905:0;fsfx
+: 1717482023:0;cd bin
+: 1717482034:0;ll
+: 1717482038:0;aliases
+: 1717482246:0;cd
+: 1717482249:0;cd bin
+: 1717482250:0;ll
+: 1717482266:0;chmod a+x open_with_linux.py
+: 1717482267:0;ll
+: 1717482282:0;./open_with_linux.py install
+: 1717482642:0;yay firefox nightly
+: 1717482647:0;yay -Scc
+: 1717482667:0;pacui
+: 1717483648:0;pacui
+: 1717483894:0;yay subfinder
+: 1717483951:0;yay nabu
+: 1717483969:0;yay project discovery
+: 1717485288:0;yay brave
+: 1717485393:0;yay firefox bin
+: 1717485805:0;pacui
+: 1717486041:0;R xfce4-dev-tools xfce4-mailwatch-plugin xfce4-mailwatch-plugin xfce4-mount-plugin xfce4-mpc-plugin xfce4-netload-plugin xfce4-notes-plugin xfce4-panel xfce4-panel-profiles xfce4-power-manager
+: 1717486098:0;pacui
+: 1717486107:0;pacui
+: 1717486298:0;ps
+: 1717486387:0;snap install nordpass
+: 1717486391:0;snap
+: 1717486402:0;snap install snaphub
+: 1717486406:0;yay snaphub
+: 1717486418:0;yay snapstore
+: 1717486425:0;yay snapshop
+: 1717486428:0;snap
+: 1717486446:0;snap find nordpass
+: 1717486475:0;pkgfile snap
+: 1717486479:0;snap find nordpass
+: 1717486485:0;sudo snap find nordpass
+: 1717486521:0;sudo snap install nordpass
+: 1717486534:0;sudo systemctl enable snapd
+: 1717486541:0;sudo snap install nordpass
+: 1717486552:0;sudo sysstemctl start snapd
+: 1717486557:0;systemctl start snapd
+: 1717486569:0;sudo snap install nordpass
+: 1717486949:0;snap nordpass
+: 1717486953:0;nordpass
+: 1717486964:0;pkill nordpass
+: 1717486987:0;snap
+: 1717487003:0;snap start nordpass
+: 1717487015:0;snap alias
+: 1717487019:0;snap aliases
+: 1717487046:0;pkgfile nordpass
+: 1717487142:0;kitty 0.35.1 created by Kovid Goyal\
+Linux arcolinux 6.9.3-arch1-1 #1 SMP PREEMPT_DYNAMIC Fri, 31 May 2024 15:14:45 +0000 x86_64\
+Arch Linux 6.9.3-arch1-1 (/dev/tty)\
+\
+DISTRIB_ID=ArcoLinux\
+DISTRIB_RELEASE="rolling"\
+DISTRIB_DESCRIPTION="ArcoLinux"\
+Running under: X11\
+OpenGL: '4.6 (Core Profile) Mesa 24.1.0-arch1.1' Detected version: 4.6\
+Frozen: False\
+Paths:\
+  kitty: /usr/bin/kitty\
+  base dir: /usr/lib/kitty\
+  extensions dir: /usr/lib/kitty/kitty\
+  system shell: /usr/bin/zsh\
+Loaded config files:\
+  /home/corey/.config/kitty/kitty.conf\
+\
+Config options different from defaults:\
+confirm_os_window_close       0\
+cursor_beam_thickness         2.0\
+cursor_blink_interval         0.5\
+cursor_stop_blinking_after    0\
+enable_audio_bell             False\
+enabled_layouts               ['splits', 'grid', 'stack', 'horizontal']\
+font_family                   Fira Code Nerd Font\
+font_size                     13.0\
+macos_titlebar_color          488975362\
+scrollback_lines              1000000\
+scrollback_pager              ['bat']\
+scrollback_pager_history_size 4294967295\
+tab_activity_symbol           îƒªƒ¦\
+tab_bar_align                 center\
+tab_powerline_style           slanted\
+tab_switch_strategy           left\
+wayland_titlebar_color        488975362\
+window_padding_width          FloatEdges(left=3.0, top=3.0, right=3.0, bottom=3.0)\
+Added shortcuts:\
+	alt+[ âƒ¦ƒ²  move_tab_backward\
+	alt+\ âƒ¦ƒ²  launch --cwd=current\
+	alt+] âƒ¦ƒ²  move_tab_forward\
+	alt+d âƒ¦ƒ²  scroll_page_down\
+	alt+down âƒ¦ƒ²  scroll_line_down\
+	alt+end âƒ¦ƒ²  scroll_end\
+	alt+enter âƒ¦ƒ²  new_tab\
+	alt+h âƒ¦ƒ²  previous_tab\
+	alt+home âƒ¦ƒ²  scroll_home\
+	alt+j âƒ¦ƒ²  scroll_line_down\
+	alt+k âƒ¦ƒ²  scroll_line_up\
+	alt+l âƒ¦ƒ²  next_tab\
+	alt+page_down âƒ¦ƒ²  scroll_page_down\
+	alt+page_up âƒ¦ƒ²  scroll_page_up\
+	alt+q âƒ¦ƒ²  close_tab\
+	alt+s âƒ¦ƒ²  launch --location=hsplit\
+	alt+t âƒ¦ƒ²  set_tab_title\
+	alt+u âƒ¦ƒ²  scroll_page_up\
+	alt+up âƒ¦ƒ²  scroll_line_up\
+	alt+v âƒ¦ƒ²  launch --location=vsplit\
+	alt+w âƒ¦ƒ²  close_window\
+	ctrl++ âƒ¦ƒ²  change_font_size all +1.0\
+	ctrl+- âƒ¦ƒ²  change_font_size all -1.0\
+	ctrl+0 âƒ¦ƒ²  change_font_size all 0\
+	ctrl+1 âƒ¦ƒ²  first_window\
+	ctrl+2 âƒ¦ƒ²  second_window\
+	ctrl+3 âƒ¦ƒ²  third_window\
+	ctrl+4 âƒ¦ƒ²  fourth_window\
+	ctrl+5 âƒ¦ƒ²  fifth_window\
+	ctrl+6 âƒ¦ƒ²  sixth_window\
+	ctrl+; âƒ¦ƒ²  clear_terminal scroll active\
+	ctrl+= âƒ¦ƒ²  change_font_size all +1.0\
+	ctrl+\ âƒ¦ƒ²  launch --cwd=current\
+	ctrl+down âƒ¦ƒ²  neighboring_window down\
+	ctrl+enter âƒ¦ƒ²  new_window\
+	ctrl+f1 âƒ¦ƒ²  launch --stdin-source=@screen_scrollback --stdin-add-formatting --type=overlay less +G -R\
+	ctrl+f2 âƒ¦ƒ²  launch --stdin-source=@last_cmd_output --stdin-add-formatting --type=overlay less +G -R\
+	ctrl+h âƒ¦ƒ²  neighboring_window left\
+	ctrl+j âƒ¦ƒ²  neighboring_window down\
+	ctrl+k âƒ¦ƒ²  neighboring_window up\
+	ctrl+l âƒ¦ƒ²  neighboring_window right\
+	ctrl+left âƒ¦ƒ²  neighboring_window left\
+	ctrl+page_down âƒ¦ƒ²  scroll_page_down\
+	ctrl+page_up âƒ¦ƒ²  scroll_page_up\
+	ctrl+right âƒ¦ƒ²  neighboring_window right\
+	ctrl+shift+alt+h âƒ¦ƒ²  launch --stdin-source=@screen_scrollback --stdin-add-formatting --type=overlay less +G -R\
+	ctrl+shift+alt+l âƒ¦ƒ²  launch --stdin-source=@last_cmd_output --stdin-add-formatting --type=overlay less +G -R\
+	ctrl+up âƒ¦ƒ²  neighboring_window up\
+	kitty_mod+\ âƒ¦ƒ²  launch --type=tab --cwd=current\
+	kitty_mod+f3 âƒ¦ƒ²  kitty_shell window\
+	kitty_mod+space âƒ¦ƒ²  focus_visible_window\
+	shift+alt+` âƒ¦ƒ²  next_layout\
+	shift+alt+g âƒ¦ƒ²  goto_layout grid\
+	shift+alt+h âƒ¦ƒ²  goto_layout horizontal\
+	shift+alt+s âƒ¦ƒ²  goto_layout splits\
+	shift+alt+t âƒ¦ƒ²  detach_tab\
+	shift+alt+w âƒ¦ƒ²  detach_window\
+Changed shortcuts:\
+	kitty_mod++ âƒ¦ƒ²  change_font_size all +1.0\
+	kitty_mod+- âƒ¦ƒ²  change_font_size all -1.0\
+	kitty_mod+0 âƒ¦ƒ²  change_font_size all 0\
+	kitty_mod+= âƒ¦ƒ²  change_font_size all +1.0\
+	kitty_mod+c âƒ¦ƒ²  copy_to_primary\
+	kitty_mod+f âƒ¦ƒ²  toggle_layout stack\
+	kitty_mod+f8 âƒ¦ƒ²  kitten unicode_input\
+	kitty_mod+h âƒ¦ƒ²  previous_tab\
+	kitty_mod+l âƒ¦ƒ²  next_tab\
+	kitty_mod+r âƒ¦ƒ²  clear_terminal reset active\
+	kitty_mod+v âƒ¦ƒ²  paste_from_primary\
+	kitty_mod+x âƒ¦ƒ²  swap_with_window\
+Colors:\
+	active_border_color           #a0b3c5   \
+	active_tab_background         #a0b3c5   \
+	active_tab_foreground         #1d252c   \
+	background                    #1d252c   \
+	color0                        #1d252c   \
+	color1                        #d95468   \
+	color10                       #8bd49c   \
+	color11                       #ebbf83   \
+	color12                       #5ec4ff   \
+	color13                       #c06ece   \
+	color14                       #70e1e8   \
+	color15                       #a0b3c5   \
+	color2                        #8bd49c   \
+	color3                        #ebbf83   \
+	color4                        #5ec4ff   \
+	color5                        #c06ece   \
+	color6                        #008b94   \
+	color7                        #a0b3c5   \
+	color8                        #566c7d   \
+	color9                        #d95468   \
+	cursor                        #a0b3c5   \
+	cursor_text_color             #1d252c   \
+	foreground                    #a0b3c5   \
+	inactive_border_color         #62686e   \
+	inactive_tab_background       #1d252c   \
+	inactive_tab_foreground       #a0b3c5   \
+	mark1_background              #8bd49c   \
+	mark1_foreground              #1d252c   \
+	mark2_background              #ebbf83   \
+	mark2_foreground              #1d252c   \
+	mark3_background              #d95468   \
+	mark3_foreground              #1d252c   \
+	selection_background          #a0b3c5   \
+	selection_foreground          #1d252c   \
+	url_color                     #5ec4ff   \
+\
+Important environment variables seen by the kitty process:\
+	PATH                                /sbin:/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\
+	LANG                                en_US.UTF-8\
+	EDITOR                              nvim\
+	SHELL                               /usr/bin/zsh\
+	DISPLAY                             :0\
+	USER                                corey\
+	XDG_SEAT                            seat0\
+	XDG_SESSION_TYPE                    tty\
+	XDG_SESSION_CLASS                   user\
+	XDG_VTNR                            2\
+	XDG_SESSION_ID                      1\
+	XDG_RUNTIME_DIR                     /run/user/1000\
+	XDG_DATA_DIRS                       /home/corey/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/shardf\
+\
+s\
+
+: 1717488345:0;qg fire
+: 1717488404:0;S firefox-nightly-bin
+: 1717488504:0;S hunspell
+: 1717488584:0;ya
+: 1717488604:0;qttest
+: 1717488748:0;qttest
+: 1717488750:0;qtconf
+: 1717488778:0;ya
+: 1717488820:0;yay
+: 1717488843:0;yay trash
+: 1717488872:0;pacui
+: 1717488891:0;pacui
+: 1717488911:0;pacui
+: 1717488996:0;ya
+: 1717489010:0;lsblk
+: 1717489012:0;udiskie
+: 1717489036:0;udiskie & disown
+: 1717489041:0;ya
+: 1717489087:0;journalctl
+: 1717489162:0;cd /var
+: 1717489166:0;cd log
+: 1717489169:0;ya
+: 1717489362:0;~
+: 1717489367:0;cd .local/share/qtile
+: 1717489370:0;b qtile.log
+: 1717489416:0;qtconf
+: 1717489576:0;qtconf
+: 1717489746:0;autostart
+: 1717489755:0;j autostart
+: 1717489760:0;j autostart
+: 1717489768:0;rm NordPass\ -\ Password\ Manager.desktop ulauncher.desktop
+: 1717489775:0;ll
+: 1717489777:0;..
+: 1717497336:0;v
+: 1717497500:0;yay john
+: 1717499596:0;ya
+: 1717499648:0;ya
+: 1717499847:0;ll
+: 1717499864:0;yay file info
+: 1717500829:0;qtconf
+: 1717508231:0;qtconf
+: 1717508445:0;qtconf
+: 1717551652:0;yay python
+: 1717551672:0;yay python 3
+: 1717552077:0;S python-ujson cython python-gevent
+: 1717552092:0;fpf
+: 1717552199:0;S python-mpris2 python-pyudev python-pydbus
+: 1717560187:0;cd /etc/systemd/logind.conf.d
+: 1717560192:0;v do-not-suspend.conf
+: 1717560232:0;..
+: 1717560248:0;v logind.conf
+: 1717560312:0;ya
+: 1717560316:0;sya
+: 1717560706:0;systemd-analyze cat-config systemd/sleep.conf
+: 1717560729:0;man 5 systemd-sleep.conf
+: 1717560786:0;cd sleep.conf.d
+: 1717560800:0;sv sleep.conf
+: 1717560849:0;..
+: 1717560869:0;sudo cp sleep.conf sleep.conf.d/sleep.conf
+: 1717560871:0;cd sleep.conf.d
+: 1717560875:0;sv sleep.conf
+: 1717566078:0;..
+: 1717566088:0;cd logind.conf.d
+: 1717566089:0;ls
+: 1717566094:0;b do-not-suspend.conf
+: 1717566106:0;..
+: 1717566111:0;cd system
+: 1717566127:0;..
+: 1717566130:0;cd user
+: 1717566133:0;..
+: 1717566136:0;b coredump.conf
+: 1717566153:0;b homed.conf
+: 1717566159:0;b journald.conf
+: 1717566169:0;b logind.conf
+: 1717566196:0;cd logind.conf.d
+: 1717566205:0;ll
+: 1717566211:0;b do-not-suspend.conf
+: 1717566215:0;rm do-not-suspend.conf
+: 1717566222:0;srm do-not-suspend.conf
+: 1717566225:0;..
+: 1717566226:0;ls
+: 1717566246:0;sudo rmdir logind.conf.d
+: 1717566255:0;sv logind.conf
+: 1717566286:0;mkdir logind.conf.d
+: 1717566292:0;sudo mkdir logind.conf.d
+: 1717566307:0;sudo cp logind.conf logind.conf.d/
+: 1717566310:0;cd logind.conf.d
+: 1717566313:0;sv logind.conf
+: 1717566356:0;man systemd-login.conf
+: 1717566363:0;man systemd-login
+: 1717566367:0;man systemd
+: 1717566695:0;man systemd-logind
+: 1717566751:0;loginctl
+: 1717566756:0;loginctl --help
+: 1717566778:0;loginctl logind
+: 1717566784:0;loginctl user
+: 1717566815:0;loginctl user-status
+: 1717566965:0;/usr/share/defaults/at-spi2/
+: 1717566972:0;ya
+: 1717568046:0;systemdgenie
+: 1717568410:0;..
+: 1717568417:0;sya
+: 1717569504:0;thunar Documents
+: 1717580345:0;xprop
+: 1717580642:0;R systemd-ui
+: 1717580654:0;systemadm
+: 1717580662:0;systemadm --help
+: 1717580712:0;systemadm --user
+: 1717580720:0;systemadm --system
+: 1717580731:0;R systemadm
+: 1717580744:0;systemd-ui
+: 1717580757:0;yay -Qi systemd-ui
+: 1717580771:0;yay -Ql systemd-ui
+: 1717580783:0;R systemd-ui
+: 1717580861:0;R timeshift
+: 1717580889:0;fpf
+: 1717580921:0;fpf
+: 1717580997:0;yay snapshot
+: 1717581008:0;pacui
+: 1717581119:0;yay snapper
+: 1717582005:0;stoken
+: 1717582013:0;stoken --help
+: 1717582024:0;man stoken
+: 1717582099:0;R stoken
+: 1717582108:0;man openconnect
+: 1717582489:0;dfsjj;fsdklk
+: 1717582491:0;klfjfllsnv
+: 1717582492:0;qerweonnf
+: 1717582522:0;v .Xresources
+: 1717583050:0;j
+: 1717583065:0;v .Xresources
+: 1717583116:0;fksj
+: 1717583130:0;source .Xresources
+: 1717583182:0;v .Xresources
+: 1717583256:0;xrdb -merge ~/.Xresources
+: 1717583275:0;v .Xresources
+: 1717583440:0;xrdb --help
+: 1717583443:0;man xrdb
+: 1717583506:0;xrdb --all
+: 1717583514:0;xrdb -all
+: 1717583798:0;xrdb -merge ~/.Xresources
+: 1717583817:0;v .Xresources
+: 1717583940:0;xrdb -merge ~/.Xresources
+: 1717584925:0;pkill stacer
+: 1717584930:0;htop
+: 1717585039:0;ps
+: 1717585081:0;cd /usr/lib/gvfs
+: 1717585087:0;b libgvfs
+: 1717585092:0;b libgvfscommon.so
+: 1717585100:0;b -A libgvfscommon.so
+: 1717585221:0;gsettings
+: 1717585235:0;yay -Ql gsettings
+: 1717585242:0;yay -Sc gsettings
+: 1717585252:0;yay -Ss gsettings
+: 1717585276:0;yay -Qi gsettings
+: 1717585289:0;yay -Qi gsettings-qt
+: 1717585301:0;yay -Qi gsettings-desktop-schemas
+: 1717585433:0;yay -Qi pacui
+: 1717585446:0;pacui
+: 1717585567:0;pacui
+: 1717585720:0;cd /etc
+: 1717585729:0;cd UPower
+: 1717585735:0;sv UPower.conf
+: 1717586006:0;..
+: 1717586010:0;ya
+: 1717586231:0;yay
+: 1717586299:0;snapper --help
+: 1717586429:0;snapper
+: 1717586433:0;man snapper
+: 1717586504:0;snapper --create --description "testing snapper snapshots"
+: 1717586514:0;snapper --create-snapshot --description "testing snapper snapshots"
+: 1717586522:0;snapper --help
+: 1717586550:0;snapper create --description "testing snapper for snapshotting"
+: 1717586605:0;j qtile
+: 1717586607:0;v config.py
+: 1717638205:0;yay bitbarden
+: 1717638210:0;yay bitwarden
+: 1717641966:0;ssh -T git@github.com
+: 1717642011:0;config status
+: 1717642071:0;cd .config
+: 1717642076:0;ya
+: 1717642355:0;..
+: 1717642389:0;add .oh-my-bash
+: 1717642427:0;git rm --cached .oh-my-bash
+: 1717642438:0;config rm --cached .oh-my-bash
+: 1717642480:0;cp .oh-my-bash .oh-my.bash.n
+: 1717642488:0;cp .oh-my-bash -r .oh-my.bash.n
+: 1717642502:0;config rm --cached -f .oh-my-bash
+: 1717642513:0;cd .oh-my
+: 1717642517:0;cd .oh-my-bash
+: 1717642527:0;..
+: 1717642534:0;rmrf .oh-my.bash.n
+: 1717642541:0;cd .oh-my-bash
+: 1717642549:0;add custom
+: 1717642555:0;..
+: 1717642563:0;cd .trash
+: 1717642566:0;..
+: 1717642570:0;rmdir .trash
+: 1717642574:0;cd var
+: 1717642576:0;cd .var
+: 1717642578:0;cd app
+: 1717642581:0;cd org.mozilla.firefox
+: 1717642583:0;cd data
+: 1717642585:0;cd ice
+: 1717642587:0;cd firefox
+: 1717642593:0;....
+: 1717642595:0;...
+: 1717642597:0;..
+: 1717642601:0;rmrf .var
+: 1717642612:0;cd bin
+: 1717642621:0;add autg
+: 1717642624:0;add autostart
+: 1717642635:0;add open_with_linux.py
+: 1717642639:0;add snapall.sh
+: 1717642643:0;add autostart.sh
+: 1717642657:0;rm rclone-gdrive.sh waybar-reload.sh xdg-portal-start.sh
+: 1717642661:0;cd appimages
+: 1717642667:0;cd .trash
+: 1717642669:0;..
+: 1717642675:0;rmdir .trash
+: 1717642676:0;..
+: 1717642679:0;..
+: 1717642695:0;add .bashrc
+: 1717642701:0;add .Xresources
+: 1717642708:0;add .zshrc
+: 1717642713:0;b g$'\033'$'\033'
+: 1717642719:0;rm g$'\033'$'\033'
+: 1717642725:0;b .sdirs
+: 1717642735:0;cd .pkg-cache
+: 1717642741:0;cd v3.3
+: 1717642743:0;cd 
+: 1717642758:0;cd
+: 1717642762:0;cd .pkg-cache
+: 1717642765:0;cd v3.3
+: 1717642768:0;b fetched-v16.14.2-linux-x64
+: 1717642771:0;b -A fetched-v16.14.2-linux-x64
+: 1717642804:0;..
+: 1717642804:0;..
+: 1717642809:0;cd .pki
+: 1717642811:0;cd nssdb
+: 1717642817:0;...
+: 1717642824:0;cd .config
+: 1717642831:0;cd alacritty
+: 1717642850:0;ya
+: 1717642874:0;add alacritty.toml
+: 1717642875:0;..
+: 1717642879:0;cd autostart
+: 1717642886:0;add copyq.desktop
+: 1717642888:0;..
+: 1717642895:0;ls bat
+: 1717642898:0;add bat
+: 1717642903:0;ls bauh
+: 1717642913:0;rmrf caja
+: 1717642927:0;add copyq
+: 1717642933:0;add doom
+: 1717642937:0;add flameshot
+: 1717642956:0;rmrf gnote
+: 1717642966:0;add gtk-2.0 gtk-3.0
+: 1717642975:0;add htop
+: 1717642977:0;add hypr
+: 1717642980:0;ls kitty
+: 1717642998:0;add kitty
+: 1717643007:0;add nvim
+: 1717643014:0;add qtile
+: 1717643021:0;ls ranger
+: 1717643024:0;add ranger
+: 1717643028:0;add rofi
+: 1717643039:0;cd sublime-text
+: 1717643044:0;cd Packages
+: 1717643050:0;..
+: 1717643052:0;cd Lo
+: 1717643056:0;cd Local
+: 1717643058:0;..
+: 1717643061:0;cd Lib
+: 1717643063:0;..
+: 1717643065:0;cd Installed\ Packages
+: 1717643081:0;..
+: 1717643088:0;..
+: 1717643095:0;add sublime-text
+: 1717643108:0;ls Thunar
+: 1717643112:0;add Thunar
+: 1717643138:0;add waybar
+: 1717643147:0;add xfce4
+: 1717643151:0;add yay yazi zsh

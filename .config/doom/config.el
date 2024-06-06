@@ -24,7 +24,7 @@
 ;; (setq doom-font (font-spec :family "JetBrainsMono" :size 13)
 ;; doom-variable-pitch-font (font-spec :family "Fira Sans" :size 14))
 
-(setq doom-font (font-spec :family "Hack Nerd Font" :size 15))
+(setq doom-font (font-spec :family "M+2 Nerd Font" :size 15))
 
 ;;
 ;; If you or Emacs can't find your font, use 'M-x describe-font' to look them
@@ -78,10 +78,28 @@
 ;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
 ;; they are implemented.
 
+(setq-default beacon-color 'red)
+
+(beacon-mode 1)
+
 (setq doom-leader-key "SPC")
+
+(setq-default indent-tabs-mode nil)
+(setq-default indent-line-function 'insert-spaces)
+(setq-default tab-width 4)
+
+(setq-default fill-column 120)
 
 (map! :leader
       (:prefix ("s" . "Split/Search")
        :desc "Split window virtically (right)" "v" #'split-window-right
        :desc "Split window horizontal (below)" "h" #'split-window-below
        :desc "Split window (right/virtical)"   "w" #'split-window-right))
+
+(map! :leader
+      (:prefix ("i" . "insert")
+       :desc "Insert or adjust hex color at cursor" "c" #'zenity-cp-color-at-point-dwim))
+
+(map! :leader
+      (:prefix ("l" . "list")
+       :desc "Display list of colors with hex values alongside them" "c" #'list-colors-display))
