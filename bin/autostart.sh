@@ -1,8 +1,5 @@
-#!/bin/sh
+#!/bin/env bash
 
-
-# Start Ollama daemon to run different LLM's
-ollama serve &
 
 # Using Dex To Execute .Desktop Files In Autostart Folders
 dex -a --term kitty &
@@ -11,7 +8,11 @@ dex -a --term kitty &
 udiskie &
 
 # Hides mouse curser when not in use
-# unclutter --ignore-scrolling --start-hidden & disown
+unclutter --ignore-scrolling --start-hidden &
+
+xset s off
+xset s noblank
+xset -dpms
 
 # Start Polkit Authentication Agent - Allows dialog box prompt for sudo/admin privilege granting
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &

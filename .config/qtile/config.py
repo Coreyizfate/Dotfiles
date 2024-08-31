@@ -46,12 +46,13 @@ from libqtile.lazy import lazy
 #   DEFINITIONS
 mod = "mod4"
 mod1 = "mod1"
+
 term = "kitty"
 # term = "alacritty"
 interm = "kitty -e"
 # interm = "alacritty -e"
-my_browser = "firefox-nightly"
-alt_browser = "chromium"
+my_browser = "brave"
+alt_browser = "vivaldi"
 
 #           |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 keys = [  # ==========  Keybindings Section Start  ============= #
@@ -62,23 +63,30 @@ keys = [  # ==========  Keybindings Section Start  ============= #
     Key([mod], "Return", lazy.spawn(f"{term}")),  # Launch default terminal
     Key([mod, "mod1"], "Return", lazy.spawn("alacritty")),  # Launch alternative terminal
     Key([mod], "F2", lazy.spawn("xfce4-appfinder")),  # Launch xfce4-appfinder
-    Key([mod], "F9", lazy.spawn("flameshot gui")), # Take a screenshot (draw a box)
     Key([mod], "c", lazy.spawn("code")),        # Launch Visual Studio Code
     Key([mod], "e", lazy.spawn("gedit")),       # Launch GEdit (lightweight text editor)
     Key([mod, "shift"], "e", lazy.spawn("subl")),   # Launch Sublime-Text-4
     Key([mod], "space", lazy.spawn("xfce4-appfinder")), # Launch xfce4-appfinder
-    Key([mod], "z", lazy.spawn("nordpass")),    # Launch NordPass
+    Key([mod], "z", lazy.spawn("bitwarden-desktop")),    # Launch NordPass
     Key([mod], "n", lazy.spawn("notion-app")),      # Launch Notion
+    Key([mod], "o", lazy.spawn("obsidian")),    # Launch Obsidian
     Key([mod], "r", lazy.spawn("raindrop")),  # Launch Raindrop.io
     Key([mod], "m", lazy.spawn("spotify")),   # Launch Spotify
+    Key([mod, "shift"], "m", lazy.spawn("youtube-music")),  # Launch Youtube-Music
+    Key([mod, mod1, "shift", "control"], "k", lazy.spawn("/home/corey/bin/appimages/vial.AppImage")), # Launch Vial
     #   |---------------------   Utility   ----------------------|
+    Key([mod], "backslash", lazy.spawn("/home/corey/bin/notify-toggle.sh")),   # Toggle Deadd-notification-center
     Key(["control"], "F11", lazy.spawn("pamixer -d 5")),  # Turn volume down 5%
     Key(["control"], "F12", lazy.spawn("pamixer --allow-boost -i 5")),  # Turn volume up 5%
     Key([], "XF86AudioLowerVolume", lazy.spawn("pamixer -d 2")),  # Turn volume down 2%
     Key([], "XF86AudioRaiseVolume", lazy.spawn("pamixer --allow-boost -i 2")),  # Turn volume up 2%
     Key([], "XF86AudioMute", lazy.spawn("pamixer -t")),  # Mute volume
+    Key([], "XF86AudioNext", lazy.spawn("playerctl next")), # Media next track/skip
+    Key([], "XF86AudioPrev", lazy.spawn("playerctl previous")),
+    Key([], "XF86AudioPlay", lazy.spawn("playerctl play-pause")),
+    Key([mod], "F9", lazy.spawn("flameshot gui")), # Take a screenshot (draw a box)
     #   |-------------------   Rofi scripts   -------------------|
-    Key([mod, "control"], "x", lazy.spawn("rofi -show power-menu -modi power-menu:rofi-power-menu -theme glue_pro_blue")),
+    Key([mod, "control"], "x", lazy.spawn("arcolinux-powermenu")),
     Key([mod1], "space", lazy.spawn("rofi -show drun -modes drun,run")),  # Launch rofi app launcher
     #   |--------------   Qtile Window Management   ---------------|
     Key([mod], "q", lazy.window.kill()),  # Kill focused window
@@ -92,8 +100,8 @@ keys = [  # ==========  Keybindings Section Start  ============= #
     Key([mod], "k", lazy.layout.up()),  # Focus above
     Key([mod], "f", lazy.window.toggle_fullscreen()),  # Toggle fullscreen
     Key([mod, "control"], "v", lazy.next_layout()),  # Change to next layout
-    Key([mod, "shift"], "f", lazy.window.toggle_floating()),  # Toggle floating on window
-    Key([mod, "control"], "space", lazy.layout.next()),  # Cycle through windows
+    Key([mod, "shift"], "space", lazy.window.toggle_floating()),  # Toggle floating on window
+    Key([mod, "shift"], "Tab", lazy.group.next_window(), lazy.window.bring_to_front()),  # Cycle through windows
     Key([mod, "shift"], "h", lazy.layout.shuffle_left()),  # Swap window left
     Key([mod, "shift"], "l", lazy.layout.shuffle_right()),  # Swap window right
     Key([mod, "shift"], "j", lazy.layout.shuffle_down()),  # Swap window down
@@ -106,8 +114,8 @@ keys = [  # ==========  Keybindings Section Start  ============= #
 
     #   |--------   Custom additions to window movements   --------|
 
-    # Key([mod], "Tab", lazy.screen.next_group(), desc="Move to next group"),
-    # Key([mod], "grave", lazy.screen.prev_group(), desc="Move to previous group"),
+    Key([mod], "Tab", lazy.screen.next_group(), desc="Move to next group"),
+    Key([mod], "grave", lazy.screen.prev_group(), desc="Move to previous group"),
 
     #   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
     #   |===================================  KeyChords  ====================================|
@@ -119,10 +127,9 @@ keys = [  # ==========  Keybindings Section Start  ============= #
 
     Key([mod], "d", lazy.group["scratchpad"].dropdown_toggle("altterm")),
 
-    Key([mod, "control"], "d", lazy.group["scratchpad"].dropdown_toggle("centerterm")),
-    Key([mod], "a", lazy.group["scratchpad"].dropdown_toggle("centerterm")),
+    Key([mod], "s", lazy.group["scratchpad"].dropdown_toggle("centerterm")),
 
-    Key([mod], "s", lazy.group["scratchpad"].dropdown_toggle("term")),
+    Key([mod], "a", lazy.group["scratchpad"].dropdown_toggle("term")),
 
     Key([mod], "v", lazy.group["scratchpad"].dropdown_toggle("volume")),
 
@@ -138,19 +145,21 @@ scratchpad = ScratchPad(
     "scratchpad",
     [
         DropDown("centerterm", "kitty --class centerterm",
-                 height=0.6, width=0.7, x=0.15, y=0.27, opacity=0.75),
+                 height=0.43, width=0.675, x=0.165, y=0.005, opacity=0.95),
 
-        DropDown("termfilemgr", "kitty --class yaziterm -e yazi",
-                 height=0.7, width=0.8, x=0.1, y=0.15, opacity=0.9),
+        DropDown("termfilemgr", "kitty --class termfilemgr --hold yazi",
+                 height=0.7, width=0.8, x=0.1, y=0.15, opacity=1.0),
 
         DropDown("altterm", "kitty --class altterm",
-                 height=0.845, width=0.3, x=0.695, y=0.145, opacity=0.75),
+                 height=0.845, width=0.3, x=0.695, y=0.145, opacity=0.95),
 
-        DropDown("term", "kitty --class scratchterm",
-                 x=0.1125, y=0.6, width=0.75, height=0.375, opacity=0.75),
+        DropDown("term", "kitty --class term",
+                 height=0.525, width=0.7, x=0.15, y=0.47, opacity=0.95),
 
         DropDown("volume", "pavucontrol",
-                 height=0.65, width=0.275, x=0.715, y=0.1, opacity=0.7),
+                 height=0.65, width=0.275, x=0.7, y=0.1, opacity=0.7),
+
+        #  Add in CopyQ ScratchPad
     ],
 )
 #   |---------------------   Defining Groups   ------------------|
@@ -188,7 +197,7 @@ group_layouts = [
     "monadtall",
     "monadtall",
     "monadtall",
-    "monadtall",
+    "max",
 ]
 #  groups = [Group(i) for i in "123456789"] # Default method for groups
 
@@ -227,10 +236,13 @@ groups.append(scratchpad)
 
 layouts = [
     layout.MonadTall(
-        margin=-1,
-        border_width=7,
-        border_focus="#4E8AD4",
-        border_normal="#9D9FA1",
+        margin=0,
+        single_border_width=0,
+        border_width=3,
+        border_focus="#F2AA4CFF",
+        border_normal="#101820FF",
+        # border_focus="#4E8AD4",
+        # border_normal="#9D9FA1",
     ),
     layout.Max(
         margin=0,
@@ -238,21 +250,32 @@ layouts = [
         # border_focus="#4E8AD4",
         # border_normal="#9D9FA1",
     ),
-    # layout.Floating(),
+    layout.Floating(
+        margin=0,
+        border_width=3,
+        border_focus="#F2AA4CFF",
+        border_normal="#101820FF",
+        # border_focus="#4E8AD4",
+        # border_normal="#9D9FA1",
+    ),
+    layout.Columns(
+        border_on_single=False,
+        insert_position=1,
+        margin=0,
+        border_width=3,
+        border_focus="#F2AA4CFF",
+        border_normal="#101820FF",
+        # border_focus="#4E8AD4",
+        # border_normal="#9D9FA1",
+    ),
     # layout.Matrix(),
     # layout.MonadWide(),
-    layout.Columns(
-        margin=-1,
-        border_width=7,
-        border_focus="#4E8AD4",
-        border_normal="#9D9FA1",
-    ),
-    layout.TreeTab(
-        margin=0,
-        border_width=0,
-        border_focus="#4E8AD4",
-        border_normal="#9D9FA1",
-    ),
+    # layout.TreeTab(
+    #     margin=0,
+    #     border_width=0,
+    #     border_focus="#4E8AD4",
+    #     border_normal="#9D9FA1",
+    # ),
     # layout.Bsp(),
     # Try more layouts by unleashing below layouts.
     # layout.Stack(num_stacks=4),
@@ -291,37 +314,34 @@ screens = [
         wallpaper_mode="fill",
         top=bar.Bar(
             [
-                widget.Sep(),
-                widget.CurrentLayout(),
-                widget.Sep(),
+                widget.CurrentLayoutIcon(scale=0.5),
                 widget.GroupBox(
                     fontsize=26,
                     spacing=1,
                 ),
-                widget.Sep(),
                 widget.Prompt(),
-                widget.WindowName(),
-                widget.Chord(
-                    chords_colors={
-                        "launch": ("#4E8AD4", "#ffffff"),
-                    },
-                    name_transform=lambda name: name.upper(),
-                ),
+                widget.Spacer(),
+                widget.WindowName(fontsize=14),
+                widget.Spacer(),
                 # NB Systray is incompatible with Wayland, consider using StatusNotifier instead
                 # widget.StatusNotifier(),
-                widget.Sep(),
-                widget.Volume(),
-                widget.Sep(),
+                widget.Volume(fmt="Vol:{}", fontsize=14),
+                widget.Spacer(length=10),
                 widget.Systray(),
-                widget.Sep(),
-                widget.Clock(format="%m/%d/%Y"),
-                widget.Sep(),
-                widget.Clock(format="%a %I:%M %p"),
-                widget.Sep(),
+                widget.Spacer(length=10),
+                widget.Clock(format="%a %m/%d/%Y"),
+                widget.Spacer(length=3),
+                widget.Clock(format="%I:%M%p"),
+                widget.Spacer(length=6),
             ],
             42,
-            background="#182954",
-            #  background="#606567",
+            # background="#343148FF",     # Eclipse (Dark Purplish)
+            # background="#182954", # Blue
+            # background="#606567",  # Grey
+            background="#909090",     # Grey
+            # background="#949398FF",     # Ultimate Grey
+            # background="#A2A2A1FF",       # Silver
+            # background="#C7D3D4FF",       # Ice Flow (grounded grey)
             #  margin=[10, 15, 0, 15],
             #  border_width=[3, 3, 3, 3],  # Draw top and bottom borders
             #  border_color=["#fffff"]  # Borders are magenta
@@ -351,9 +371,9 @@ mouse = [
 dgroups_key_binder = None
 dgroups_app_rules = []  # type: list
 follow_mouse_focus = False
-#  bring_front_click = "floating_only"
-bring_front_click = True
-floats_kept_above = True
+bring_front_click = "floating_only"
+# bring_front_click = True
+floats_kept_above = False
 cursor_warp = False
 floating_layout = layout.Floating(
     float_rules=[
@@ -366,6 +386,8 @@ floating_layout = layout.Floating(
         Match(title="branchdialog"),  # gitk
         Match(title="pinentry"),  # GPG key password entry
         Match(wm_class="copyq"),    # CopyQ Clipboard Manager
+        Match(wm_class="burp_StartBurp"),    # Burp Suite
+        Match(wm_class="burp Suite"),    # Burp Suite
     ]
 )
 

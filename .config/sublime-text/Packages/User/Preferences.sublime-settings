@@ -4,7 +4,7 @@
 	"theme": "City-Lights.sublime-theme",
 	"color_scheme": "Packages/Theme - One Dark/Widget - One Dark.tmTheme",
 	"font_face": "Hack Nerd Font",
-	"font_size": 13,
+	"font_size": 12,
 	"margin": 2,
 	"spell_checking": true,
 	"word_wrap": "true",

@@ -4965,306 +4965,303 @@ ps -A
 ps -A | grep qtile
 top
 top --help
-: 1717375124:0;fasd
-: 1717376372:0;v
-: 1717377027:0;v
-: 1717377946:0;v
-: 1717379118:0;v
-: 1717379196:0;v
-: 1717379381:0;v
-: 1717379839:0;v
-: 1717379918:0;v
-: 1717380165:0;v
-: 1717380513:0;v
-: 1717380518:0;v
-: 1717380591:0;v
-: 1717384636:0;yay vim
-: 1717384695:0;yay nvim
-: 1717384795:0;yay vim gtk
-: 1717385754:0;xprop
-: 1717386089:0;xprop
-: 1717386096:0;xprop
-: 1717386112:0;xprop
-: 1717387034:0;yay vim gtk
-: 1717387076:0;yay vim gtk
-: 1717387930:0;v
-: 1717387971:0;v
-: 1717388010:0;v
-: 1717391326:0;v
-: 1717391523:0;rm .projectile
-: 1717391535:0;ya
-: 1717391512:0;ls
-: 1717391607:0;ya
-: 1717391621:0;cd /etc/qtile
-: 1717391623:0;cd /etc
-: 1717391853:0;j zsh
-: 1717391854:0;v env.zsh
-: 1717391955:0;fzf
-: 1717391993:0;fzf /'
-: 1717391994:0;fzf /
-: 1717392000:0;fzf --cmd /
-: 1717392005:0;cd /
-: 1717392017:0;cd / && fzf
-: 1717392042:0;f
-: 1717392045:0;fzf
-: 1717392071:0;fzf --help
-: 1717392081:0;yay silver
-: 1717392109:0;ss
-: 1717392113:0;ss --help
-: 1717392231:0;yay pkgfile
-: 1717392289:0;aliases
-: 1717392448:0;j qtile
-: 1717392450:0;v config.py
-: 1717393470:0;xprop
-: 1717393886:0;j qtile
-: 1717393888:0;v config.py
-: 1717396346:0;psfx
-: 1717396392:0;cast
-: 1717396516:0;yay caja
-: 1717396980:0;fd fx cast /
-: 1717396993:0;man fx_cast
-: 1717396996:0;man fx-cast
-: 1717397006:0;info fx_cast
-: 1717397022:0;cd /opt
-: 1717397025:0;ya
-: 1717397268:0;yay vivaldi
-: 1717397478:0;R ulauncher
-: 1717397495:0;pkill ulauncher
-: 1717397520:0;ya
-: 1717397772:0;j qtile
-: 1717397774:0;v config.py
-: 1717397919:0;pkill nordpass
-: 1717400563:0;yay chrome
-: 1717400623:0;yay chrome
-: 1717400681:0;R vivaldi vivaldi-ffmpeg-codecs vivaldi-widevine
-: 1717400763:0;R fx_cast-bin
-: 1717400778:0;yay fx cast
-: 1717400804:0;j qtile
-: 1717400809:0;qtconf
-: 1717400840:0;yay -Scc
-: 1717400846:0;yay
-: 1717400872:0;ps
-: 1717400890:0;ps | grep time
-: 1717400901:0;yay timeshift
-: 1717400920:0;yay snapshot
-: 1717401007:0;yay shell-color-scripts
-: 1717401341:0;S backintime
-: 1717401378:0;yay
-: 1717401388:0;yay
-: 1717401628:0;yay
-: 1717402734:0;man yay
-: 1717402851:0;qg kvan
-: 1717402879:0;R kvantum kvantum-qt5-git kvantum-theme-materia kvantum-theme-qogir-git arcolinux-kvantum-git
-: 1717402891:0;R kvantum-qt5-git kvantum-theme-materia kvantum-theme-qogir-git arcolinux-kvantum-git
-: 1717402896:0;yay
-: 1717402922:0;man yay
-: 1717402945:0;yay --mflags "--skipchecksums --skippgpcheck"
-: 1717403265:0;j yay
-: 1717403269:0;cd .config
-: 1717403271:0;cd yay
-: 1717403272:0;..
-: 1717403274:0;cd paru
-: 1717403275:0;..
-: 1717403281:0;cd archlinux-tweak-tool
-: 1717403282:0;..
-: 1717403285:0;cd backintime
-: 1717403286:0;..
-: 1717403292:0;cd caja
-: 1717403293:0;..
-: 1717403315:0;cd sofirem
-: 1717403316:0;..
-: 1717403322:0;cd yazi
-: 1717403323:0;..
-: 1717403326:0;cd xfce4
-: 1717403327:0;..
-: 1717403337:0;cd Thunar
-: 1717403338:0;..
-: 1717403344:0;cd sublime-text
-: 1717403345:0;..
-: 1717403353:0;yay
-: 1717403400:0;yay
-: 1717403425:0;pkgfile
-: 1717403429:0;pkgfile qtile
-: 1717403434:0;pkgfile --update
-: 1717403439:0;sudo pkgfile --update
-: 1717403445:0;pkgfile qtile
-: 1717403470:0;Qe
-: 1717403495:0;R caja
-: 1717403512:0;pacseek
-: 1717403955:0;man pacseek
-: 1717407331:0;yay pkg manager
-: 1717407403:0;yay app manage
-: 1717407450:0;yay gnome aur
-: 1717407457:0;yay software manager
-: 1717407500:0;yay software
-: 1717407523:0;yay package utility
-: 1717407573:0;S pacui
-: 1717407578:0;pacui
-: 1717407584:0;pacui
-: 1717409503:0;qtconf
-: 1717409534:0;qtconf
-: 1717409787:0;qtconf
-: 1717471200:0;yay snap
-: 1717471293:0;yay flatpak
-: 1717471310:0;qg pamac
-: 1717471313:0;qg pam
-: 1717471325:0;pacui
-: 1717471426:0;pacdiff
-: 1717471436:0;pacdiff --help
-: 1717471467:0;nvim --help
-: 1717471475:0;vim 
-: 1717471480:0;aliases
-: 1717471500:0;yay nvim symlink
-: 1717471505:0;yay vim symlink
-: 1717471540:0;ya /
-: 1717471589:0;qg
-: 1717471591:0;qe
-: 1717471593:0;qe
-: 1717471597:0;aliases
-: 1717471689:0;yay -Qi
-: 1717471693:0;yay -Ql
-: 1717471740:0;qi
-: 1717471811:0;qsg help
-: 1717471819:0;qsg
-: 1717471905:0;yay -Q
-: 1717471908:0;yay -Qq
-: 1717472017:0;man yay
-: 1717472065:0;yay -Ps
-: 1717472078:0;yay -P
-: 1717472082:0;yay -Pr
-: 1717472086:0;yay -Pss
-: 1717472102:0;yay -Pc
-: 1717472177:0;yay yubikey
-: 1717472233:0;yay -Pc | bat
-: 1717472306:0;yay app-manager
-: 1717472982:0;yay fx cast
-: 1717473611:0;yay firefox
-: 1717473741:0;yay firefox nightly
-: 1717473791:0;fd fx_cast /
-: 1717473805:0;cd /usr/lib/fx_cast
-: 1717473811:0;v fx_cast_bridge
-: 1717473817:0;b fx_cast_bridge
-: 1717473821:0;b dns_sd_bindings.node
-: 1717473950:0;Ps
-: 1717473989:0;yay -Ps
-: 1717474024:0;yay -P --help
-: 1717474045:0;yay -w
-: 1717474063:0;yay
-: 1717474247:0;pskill nordpass
-: 1717474251:0;pkill nordpass
-: 1717474334:0;pkill nordpass
-: 1717474619:0;fpf
-: 1717474638:0;fpf
-: 1717474741:0;fpf --help
-: 1717474770:0;fpf -R
-: 1717475737:0;cd Documents
-: 1717475740:0;cd pdfs
-: 1717475742:0;cd PDFs
-: 1717475749:0;rm CIA\ Employee\ Directory.pdf
-: 1717475769:0;../Learning
-: 1717475775:0;cd PDFs
-: 1717475777:0;..
-: 1717475790:0;ya
-: 1717476250:0;ll
-: 1717476277:0;mv .face Documents/temp-hold
-: 1717476282:0;sudo mv .face Documents/temp-hold
-: 1717476286:0;ll
-: 1717476294:0;ya
-: 1717476508:0;ya
-: 1717476523:0;ya
-: 1717476544:0;j yazi
-: 1717476559:0;v yazi.toml
-: 1717476764:0;man pfp
-: 1717476767:0;man fpf
-: 1717476771:0;fpf --help
-: 1717476777:0;fpf -o
-: 1717477019:0;fpy
-: 1717477026:0;qg
-: 1717477029:0;qe
-: 1717477030:0;qe
-: 1717477497:0;kfasdkljf
-: 1717477497:0;fjlfkj
-: 1717477497:0;jj
-: 1717477632:0;yay
-: 1717478194:0;R backintime backintime-cli
-: 1717478199:0;yay
-: 1717478218:0;yay exiftool-rs
-: 1717478244:0;R exiftool-rs-git exiftool-rs-git-debug
-: 1717478251:0;yay exiftool
-: 1717478289:0;R exiftool-rs-git
-: 1717478296:0;R exiftool-rs-git-debug
-: 1717478305:0;yay exif
-: 1717478381:0;fd firefox
-: 1717478385:0;fd firefox /
-: 1717478410:0;ls
-: 1717478413:0;ya
-: 1717478424:0;fd mozilla /
-: 1717478434:0;ya
-: 1717481064:0;yay
-: 1717481122:0;yay
-: 1717481527:0;fd fx_cast /
-: 1717481536:0;fd fx_cast /
-: 1717481543:0;aliases
-: 1717481663:0;fd fx_cast /
-: 1717481714:0;fd fx_cast / | grep fx_cast/fx_cast_bridge < cd
-: 1717481719:0;fd fx_cast / | grep fx_cast/fx_cast_bridge > cd
-: 1717481729:0;cd /usr/lib/fx_cast
-: 1717481730:0;ls
-: 1717481748:0;file fx_cast_bridge --help
-: 1717481767:0;file --mime-type fx_cast_bridge
-: 1717481775:0;fx_cast_bridge
-: 1717481797:0;bat -A fx_cast_bridge
-: 1717481902:0;psfx
-: 1717481905:0;fsfx
-: 1717482023:0;cd bin
-: 1717482034:0;ll
-: 1717482038:0;aliases
-: 1717482246:0;cd
-: 1717482249:0;cd bin
-: 1717482250:0;ll
-: 1717482266:0;chmod a+x open_with_linux.py
-: 1717482267:0;ll
-: 1717482282:0;./open_with_linux.py install
-: 1717482642:0;yay firefox nightly
-: 1717482647:0;yay -Scc
-: 1717482667:0;pacui
-: 1717483648:0;pacui
-: 1717483894:0;yay subfinder
-: 1717483951:0;yay nabu
-: 1717483969:0;yay project discovery
-: 1717485288:0;yay brave
-: 1717485393:0;yay firefox bin
-: 1717485805:0;pacui
-: 1717486041:0;R xfce4-dev-tools xfce4-mailwatch-plugin xfce4-mailwatch-plugin xfce4-mount-plugin xfce4-mpc-plugin xfce4-netload-plugin xfce4-notes-plugin xfce4-panel xfce4-panel-profiles xfce4-power-manager
-: 1717486098:0;pacui
-: 1717486107:0;pacui
-: 1717486298:0;ps
-: 1717486387:0;snap install nordpass
-: 1717486391:0;snap
-: 1717486402:0;snap install snaphub
-: 1717486406:0;yay snaphub
-: 1717486418:0;yay snapstore
-: 1717486425:0;yay snapshop
-: 1717486428:0;snap
-: 1717486446:0;snap find nordpass
-: 1717486475:0;pkgfile snap
-: 1717486479:0;snap find nordpass
-: 1717486485:0;sudo snap find nordpass
-: 1717486521:0;sudo snap install nordpass
-: 1717486534:0;sudo systemctl enable snapd
-: 1717486541:0;sudo snap install nordpass
-: 1717486552:0;sudo sysstemctl start snapd
-: 1717486557:0;systemctl start snapd
-: 1717486569:0;sudo snap install nordpass
-: 1717486949:0;snap nordpass
-: 1717486953:0;nordpass
-: 1717486964:0;pkill nordpass
-: 1717486987:0;snap
-: 1717487003:0;snap start nordpass
-: 1717487015:0;snap alias
-: 1717487019:0;snap aliases
-: 1717487046:0;pkgfile nordpass
-: 1717487142:0;kitty 0.35.1 created by Kovid Goyal\
+fasd
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+yay vim
+yay nvim
+yay vim gtk
+xprop
+xprop
+xprop
+xprop
+yay vim gtk
+yay vim gtk
+v
+v
+v
+v
+rm .projectile
+ya
+ya
+cd /etc/qtile
+cd /etc
+j zsh
+v env.zsh
+fzf
+fzf /'
+fzf /
+fzf --cmd /
+cd /
+cd / && fzf
+f
+fzf
+fzf --help
+yay silver
+ss
+ss --help
+yay pkgfile
+aliases
+j qtile
+v config.py
+xprop
+j qtile
+v config.py
+psfx
+cast
+yay caja
+fd fx cast /
+man fx_cast
+man fx-cast
+info fx_cast
+cd /opt
+ya
+yay vivaldi
+R ulauncher
+pkill ulauncher
+ya
+j qtile
+v config.py
+pkill nordpass
+yay chrome
+yay chrome
+R vivaldi vivaldi-ffmpeg-codecs vivaldi-widevine
+R fx_cast-bin
+yay fx cast
+j qtile
+qtconf
+yay -Scc
+yay
+ps
+ps | grep time
+yay timeshift
+yay snapshot
+yay shell-color-scripts
+S backintime
+yay
+yay
+yay
+man yay
+qg kvan
+R kvantum kvantum-qt5-git kvantum-theme-materia kvantum-theme-qogir-git arcolinux-kvantum-git
+R kvantum-qt5-git kvantum-theme-materia kvantum-theme-qogir-git arcolinux-kvantum-git
+yay
+man yay
+yay --mflags "--skipchecksums --skippgpcheck"
+j yay
+cd .config
+cd yay
+..
+cd paru
+..
+cd archlinux-tweak-tool
+..
+cd backintime
+..
+cd caja
+..
+cd sofirem
+..
+cd yazi
+..
+cd xfce4
+..
+cd Thunar
+..
+cd sublime-text
+..
+yay
+yay
+pkgfile
+pkgfile qtile
+pkgfile --update
+sudo pkgfile --update
+pkgfile qtile
+Qe
+R caja
+pacseek
+man pacseek
+yay pkg manager
+yay app manage
+yay gnome aur
+yay software manager
+yay software
+yay package utility
+S pacui
+pacui
+pacui
+qtconf
+qtconf
+qtconf
+yay snap
+yay flatpak
+qg pamac
+qg pam
+pacui
+pacdiff
+pacdiff --help
+nvim --help
+vim 
+aliases
+yay nvim symlink
+yay vim symlink
+ya /
+qg
+qe
+qe
+aliases
+yay -Qi
+yay -Ql
+qi
+qsg help
+qsg
+yay -Q
+yay -Qq
+man yay
+yay -Ps
+yay -P
+yay -Pr
+yay -Pss
+yay -Pc
+yay yubikey
+yay -Pc | bat
+yay app-manager
+yay fx cast
+yay firefox
+yay firefox nightly
+fd fx_cast /
+cd /usr/lib/fx_cast
+v fx_cast_bridge
+b fx_cast_bridge
+b dns_sd_bindings.node
+Ps
+yay -Ps
+yay -P --help
+yay -w
+yay
+pskill nordpass
+pkill nordpass
+pkill nordpass
+fpf
+fpf
+fpf --help
+fpf -R
+cd Documents
+cd pdfs
+cd PDFs
+rm CIA\ Employee\ Directory.pdf
+../Learning
+cd PDFs
+..
+ya
+ll
+mv .face Documents/temp-hold
+sudo mv .face Documents/temp-hold
+ll
+ya
+ya
+ya
+j yazi
+v yazi.toml
+man pfp
+man fpf
+fpf --help
+fpf -o
+fpy
+qg
+qe
+qe
+kfasdkljf
+fjlfkj
+jj
+yay
+R backintime backintime-cli
+yay
+yay exiftool-rs
+R exiftool-rs-git exiftool-rs-git-debug
+yay exiftool
+R exiftool-rs-git
+R exiftool-rs-git-debug
+yay exif
+fd firefox
+fd firefox /
+ya
+fd mozilla /
+ya
+yay
+yay
+fd fx_cast /
+fd fx_cast /
+aliases
+fd fx_cast /
+fd fx_cast / | grep fx_cast/fx_cast_bridge < cd
+fd fx_cast / | grep fx_cast/fx_cast_bridge > cd
+cd /usr/lib/fx_cast
+file fx_cast_bridge --help
+file --mime-type fx_cast_bridge
+fx_cast_bridge
+bat -A fx_cast_bridge
+psfx
+fsfx
+cd bin
+ll
+aliases
+cd
+cd bin
+ll
+chmod a+x open_with_linux.py
+ll
+./open_with_linux.py install
+yay firefox nightly
+yay -Scc
+pacui
+pacui
+yay subfinder
+yay nabu
+yay project discovery
+yay brave
+yay firefox bin
+pacui
+R xfce4-dev-tools xfce4-mailwatch-plugin xfce4-mailwatch-plugin xfce4-mount-plugin xfce4-mpc-plugin xfce4-netload-plugin xfce4-notes-plugin xfce4-panel xfce4-panel-profiles xfce4-power-manager
+pacui
+pacui
+ps
+snap install nordpass
+snap
+snap install snaphub
+yay snaphub
+yay snapstore
+yay snapshop
+snap
+snap find nordpass
+pkgfile snap
+snap find nordpass
+sudo snap find nordpass
+sudo snap install nordpass
+sudo systemctl enable snapd
+sudo snap install nordpass
+sudo sysstemctl start snapd
+systemctl start snapd
+sudo snap install nordpass
+snap nordpass
+nordpass
+pkill nordpass
+snap
+snap start nordpass
+snap alias
+snap aliases
+pkgfile nordpass
+kitty 0.35.1 created by Kovid Goyal\
 Linux arcolinux 6.9.3-arch1-1 #1 SMP PREEMPT_DYNAMIC Fri, 31 May 2024 15:14:45 +0000 x86_64\
 Arch Linux 6.9.3-arch1-1 (/dev/tty)\
 \
@@ -5426,287 +5423,5700 @@ Important environment variables seen by the kitty process:\
 \
 s\
 
-: 1717488345:0;qg fire
-: 1717488404:0;S firefox-nightly-bin
-: 1717488504:0;S hunspell
-: 1717488584:0;ya
-: 1717488604:0;qttest
-: 1717488748:0;qttest
-: 1717488750:0;qtconf
-: 1717488778:0;ya
-: 1717488820:0;yay
-: 1717488843:0;yay trash
-: 1717488872:0;pacui
-: 1717488891:0;pacui
-: 1717488911:0;pacui
-: 1717488996:0;ya
-: 1717489010:0;lsblk
-: 1717489012:0;udiskie
-: 1717489036:0;udiskie & disown
-: 1717489041:0;ya
-: 1717489087:0;journalctl
-: 1717489162:0;cd /var
-: 1717489166:0;cd log
-: 1717489169:0;ya
-: 1717489362:0;~
-: 1717489367:0;cd .local/share/qtile
-: 1717489370:0;b qtile.log
-: 1717489416:0;qtconf
-: 1717489576:0;qtconf
-: 1717489746:0;autostart
-: 1717489755:0;j autostart
-: 1717489760:0;j autostart
-: 1717489768:0;rm NordPass\ -\ Password\ Manager.desktop ulauncher.desktop
-: 1717489775:0;ll
-: 1717489777:0;..
-: 1717497336:0;v
-: 1717497500:0;yay john
-: 1717499596:0;ya
-: 1717499648:0;ya
-: 1717499847:0;ll
-: 1717499864:0;yay file info
-: 1717500829:0;qtconf
-: 1717508231:0;qtconf
-: 1717508445:0;qtconf
-: 1717551652:0;yay python
-: 1717551672:0;yay python 3
-: 1717552077:0;S python-ujson cython python-gevent
-: 1717552092:0;fpf
-: 1717552199:0;S python-mpris2 python-pyudev python-pydbus
-: 1717560187:0;cd /etc/systemd/logind.conf.d
-: 1717560192:0;v do-not-suspend.conf
-: 1717560232:0;..
-: 1717560248:0;v logind.conf
-: 1717560312:0;ya
-: 1717560316:0;sya
-: 1717560706:0;systemd-analyze cat-config systemd/sleep.conf
-: 1717560729:0;man 5 systemd-sleep.conf
-: 1717560786:0;cd sleep.conf.d
-: 1717560800:0;sv sleep.conf
-: 1717560849:0;..
-: 1717560869:0;sudo cp sleep.conf sleep.conf.d/sleep.conf
-: 1717560871:0;cd sleep.conf.d
-: 1717560875:0;sv sleep.conf
-: 1717566078:0;..
-: 1717566088:0;cd logind.conf.d
-: 1717566089:0;ls
-: 1717566094:0;b do-not-suspend.conf
-: 1717566106:0;..
-: 1717566111:0;cd system
-: 1717566127:0;..
-: 1717566130:0;cd user
-: 1717566133:0;..
-: 1717566136:0;b coredump.conf
-: 1717566153:0;b homed.conf
-: 1717566159:0;b journald.conf
-: 1717566169:0;b logind.conf
-: 1717566196:0;cd logind.conf.d
-: 1717566205:0;ll
-: 1717566211:0;b do-not-suspend.conf
-: 1717566215:0;rm do-not-suspend.conf
-: 1717566222:0;srm do-not-suspend.conf
-: 1717566225:0;..
-: 1717566226:0;ls
-: 1717566246:0;sudo rmdir logind.conf.d
-: 1717566255:0;sv logind.conf
-: 1717566286:0;mkdir logind.conf.d
-: 1717566292:0;sudo mkdir logind.conf.d
-: 1717566307:0;sudo cp logind.conf logind.conf.d/
-: 1717566310:0;cd logind.conf.d
-: 1717566313:0;sv logind.conf
-: 1717566356:0;man systemd-login.conf
-: 1717566363:0;man systemd-login
-: 1717566367:0;man systemd
-: 1717566695:0;man systemd-logind
-: 1717566751:0;loginctl
-: 1717566756:0;loginctl --help
-: 1717566778:0;loginctl logind
-: 1717566784:0;loginctl user
-: 1717566815:0;loginctl user-status
-: 1717566965:0;/usr/share/defaults/at-spi2/
-: 1717566972:0;ya
-: 1717568046:0;systemdgenie
-: 1717568410:0;..
-: 1717568417:0;sya
-: 1717569504:0;thunar Documents
-: 1717580345:0;xprop
-: 1717580642:0;R systemd-ui
-: 1717580654:0;systemadm
-: 1717580662:0;systemadm --help
-: 1717580712:0;systemadm --user
-: 1717580720:0;systemadm --system
-: 1717580731:0;R systemadm
-: 1717580744:0;systemd-ui
-: 1717580757:0;yay -Qi systemd-ui
-: 1717580771:0;yay -Ql systemd-ui
-: 1717580783:0;R systemd-ui
-: 1717580861:0;R timeshift
-: 1717580889:0;fpf
-: 1717580921:0;fpf
-: 1717580997:0;yay snapshot
-: 1717581008:0;pacui
-: 1717581119:0;yay snapper
-: 1717582005:0;stoken
-: 1717582013:0;stoken --help
-: 1717582024:0;man stoken
-: 1717582099:0;R stoken
-: 1717582108:0;man openconnect
-: 1717582489:0;dfsjj;fsdklk
-: 1717582491:0;klfjfllsnv
-: 1717582492:0;qerweonnf
-: 1717582522:0;v .Xresources
-: 1717583050:0;j
-: 1717583065:0;v .Xresources
-: 1717583116:0;fksj
-: 1717583130:0;source .Xresources
-: 1717583182:0;v .Xresources
-: 1717583256:0;xrdb -merge ~/.Xresources
-: 1717583275:0;v .Xresources
-: 1717583440:0;xrdb --help
-: 1717583443:0;man xrdb
-: 1717583506:0;xrdb --all
-: 1717583514:0;xrdb -all
-: 1717583798:0;xrdb -merge ~/.Xresources
-: 1717583817:0;v .Xresources
-: 1717583940:0;xrdb -merge ~/.Xresources
-: 1717584925:0;pkill stacer
-: 1717584930:0;htop
-: 1717585039:0;ps
-: 1717585081:0;cd /usr/lib/gvfs
-: 1717585087:0;b libgvfs
-: 1717585092:0;b libgvfscommon.so
-: 1717585100:0;b -A libgvfscommon.so
-: 1717585221:0;gsettings
-: 1717585235:0;yay -Ql gsettings
-: 1717585242:0;yay -Sc gsettings
-: 1717585252:0;yay -Ss gsettings
-: 1717585276:0;yay -Qi gsettings
-: 1717585289:0;yay -Qi gsettings-qt
-: 1717585301:0;yay -Qi gsettings-desktop-schemas
-: 1717585433:0;yay -Qi pacui
-: 1717585446:0;pacui
-: 1717585567:0;pacui
-: 1717585720:0;cd /etc
-: 1717585729:0;cd UPower
-: 1717585735:0;sv UPower.conf
-: 1717586006:0;..
-: 1717586010:0;ya
-: 1717586231:0;yay
-: 1717586299:0;snapper --help
-: 1717586429:0;snapper
-: 1717586433:0;man snapper
-: 1717586504:0;snapper --create --description "testing snapper snapshots"
-: 1717586514:0;snapper --create-snapshot --description "testing snapper snapshots"
-: 1717586522:0;snapper --help
-: 1717586550:0;snapper create --description "testing snapper for snapshotting"
-: 1717586605:0;j qtile
-: 1717586607:0;v config.py
-: 1717638205:0;yay bitbarden
-: 1717638210:0;yay bitwarden
-: 1717641966:0;ssh -T git@github.com
-: 1717642011:0;config status
-: 1717642071:0;cd .config
-: 1717642076:0;ya
-: 1717642355:0;..
-: 1717642389:0;add .oh-my-bash
-: 1717642427:0;git rm --cached .oh-my-bash
-: 1717642438:0;config rm --cached .oh-my-bash
-: 1717642480:0;cp .oh-my-bash .oh-my.bash.n
-: 1717642488:0;cp .oh-my-bash -r .oh-my.bash.n
-: 1717642502:0;config rm --cached -f .oh-my-bash
-: 1717642513:0;cd .oh-my
-: 1717642517:0;cd .oh-my-bash
-: 1717642527:0;..
-: 1717642534:0;rmrf .oh-my.bash.n
-: 1717642541:0;cd .oh-my-bash
-: 1717642549:0;add custom
-: 1717642555:0;..
-: 1717642563:0;cd .trash
-: 1717642566:0;..
-: 1717642570:0;rmdir .trash
-: 1717642574:0;cd var
-: 1717642576:0;cd .var
-: 1717642578:0;cd app
-: 1717642581:0;cd org.mozilla.firefox
-: 1717642583:0;cd data
-: 1717642585:0;cd ice
-: 1717642587:0;cd firefox
-: 1717642593:0;....
-: 1717642595:0;...
-: 1717642597:0;..
-: 1717642601:0;rmrf .var
-: 1717642612:0;cd bin
-: 1717642621:0;add autg
-: 1717642624:0;add autostart
-: 1717642635:0;add open_with_linux.py
-: 1717642639:0;add snapall.sh
-: 1717642643:0;add autostart.sh
-: 1717642657:0;rm rclone-gdrive.sh waybar-reload.sh xdg-portal-start.sh
-: 1717642661:0;cd appimages
-: 1717642667:0;cd .trash
-: 1717642669:0;..
-: 1717642675:0;rmdir .trash
-: 1717642676:0;..
-: 1717642679:0;..
-: 1717642695:0;add .bashrc
-: 1717642701:0;add .Xresources
-: 1717642708:0;add .zshrc
-: 1717642713:0;b g$'\033'$'\033'
-: 1717642719:0;rm g$'\033'$'\033'
-: 1717642725:0;b .sdirs
-: 1717642735:0;cd .pkg-cache
-: 1717642741:0;cd v3.3
-: 1717642743:0;cd 
-: 1717642758:0;cd
-: 1717642762:0;cd .pkg-cache
-: 1717642765:0;cd v3.3
-: 1717642768:0;b fetched-v16.14.2-linux-x64
-: 1717642771:0;b -A fetched-v16.14.2-linux-x64
-: 1717642804:0;..
-: 1717642804:0;..
-: 1717642809:0;cd .pki
-: 1717642811:0;cd nssdb
-: 1717642817:0;...
-: 1717642824:0;cd .config
-: 1717642831:0;cd alacritty
-: 1717642850:0;ya
-: 1717642874:0;add alacritty.toml
-: 1717642875:0;..
-: 1717642879:0;cd autostart
-: 1717642886:0;add copyq.desktop
-: 1717642888:0;..
-: 1717642895:0;ls bat
-: 1717642898:0;add bat
-: 1717642903:0;ls bauh
-: 1717642913:0;rmrf caja
-: 1717642927:0;add copyq
-: 1717642933:0;add doom
-: 1717642937:0;add flameshot
-: 1717642956:0;rmrf gnote
-: 1717642966:0;add gtk-2.0 gtk-3.0
-: 1717642975:0;add htop
-: 1717642977:0;add hypr
-: 1717642980:0;ls kitty
-: 1717642998:0;add kitty
-: 1717643007:0;add nvim
-: 1717643014:0;add qtile
-: 1717643021:0;ls ranger
-: 1717643024:0;add ranger
-: 1717643028:0;add rofi
-: 1717643039:0;cd sublime-text
-: 1717643044:0;cd Packages
-: 1717643050:0;..
-: 1717643052:0;cd Lo
-: 1717643056:0;cd Local
-: 1717643058:0;..
-: 1717643061:0;cd Lib
-: 1717643063:0;..
-: 1717643065:0;cd Installed\ Packages
-: 1717643081:0;..
-: 1717643088:0;..
-: 1717643095:0;add sublime-text
-: 1717643108:0;ls Thunar
-: 1717643112:0;add Thunar
-: 1717643138:0;add waybar
-: 1717643147:0;add xfce4
-: 1717643151:0;add yay yazi zsh
+qg fire
+S firefox-nightly-bin
+S hunspell
+ya
+qttest
+qttest
+qtconf
+ya
+yay
+yay trash
+pacui
+pacui
+pacui
+ya
+lsblk
+udiskie
+udiskie & disown
+ya
+journalctl
+cd /var
+cd log
+ya
+~
+cd .local/share/qtile
+b qtile.log
+qtconf
+qtconf
+autostart
+j autostart
+j autostart
+rm NordPass\ -\ Password\ Manager.desktop ulauncher.desktop
+ll
+..
+v
+yay john
+ya
+ya
+ll
+yay file info
+qtconf
+qtconf
+qtconf
+yay python
+yay python 3
+S python-ujson cython python-gevent
+fpf
+S python-mpris2 python-pyudev python-pydbus
+cd /etc/systemd/logind.conf.d
+v do-not-suspend.conf
+..
+v logind.conf
+ya
+sya
+systemd-analyze cat-config systemd/sleep.conf
+man 5 systemd-sleep.conf
+cd sleep.conf.d
+sv sleep.conf
+..
+sudo cp sleep.conf sleep.conf.d/sleep.conf
+cd sleep.conf.d
+sv sleep.conf
+..
+cd logind.conf.d
+b do-not-suspend.conf
+..
+cd system
+..
+cd user
+..
+b coredump.conf
+b homed.conf
+b journald.conf
+b logind.conf
+cd logind.conf.d
+ll
+b do-not-suspend.conf
+rm do-not-suspend.conf
+srm do-not-suspend.conf
+..
+sudo rmdir logind.conf.d
+sv logind.conf
+mkdir logind.conf.d
+sudo mkdir logind.conf.d
+sudo cp logind.conf logind.conf.d/
+cd logind.conf.d
+sv logind.conf
+man systemd-login.conf
+man systemd-login
+man systemd
+man systemd-logind
+loginctl
+loginctl --help
+loginctl logind
+loginctl user
+loginctl user-status
+/usr/share/defaults/at-spi2/
+ya
+systemdgenie
+..
+sya
+thunar Documents
+xprop
+R systemd-ui
+systemadm
+systemadm --help
+systemadm --user
+systemadm --system
+R systemadm
+systemd-ui
+yay -Qi systemd-ui
+yay -Ql systemd-ui
+R systemd-ui
+R timeshift
+fpf
+fpf
+yay snapshot
+pacui
+yay snapper
+stoken
+stoken --help
+man stoken
+R stoken
+man openconnect
+dfsjj;fsdklk
+klfjfllsnv
+qerweonnf
+v .Xresources
+j
+v .Xresources
+fksj
+source .Xresources
+v .Xresources
+xrdb -merge ~/.Xresources
+v .Xresources
+xrdb --help
+man xrdb
+xrdb --all
+xrdb -all
+xrdb -merge ~/.Xresources
+v .Xresources
+xrdb -merge ~/.Xresources
+pkill stacer
+htop
+ps
+cd /usr/lib/gvfs
+b libgvfs
+b libgvfscommon.so
+b -A libgvfscommon.so
+gsettings
+yay -Ql gsettings
+yay -Sc gsettings
+yay -Ss gsettings
+yay -Qi gsettings
+yay -Qi gsettings-qt
+yay -Qi gsettings-desktop-schemas
+yay -Qi pacui
+pacui
+pacui
+cd /etc
+cd UPower
+sv UPower.conf
+..
+ya
+yay
+snapper --help
+snapper
+man snapper
+snapper --create --description "testing snapper snapshots"
+snapper --create-snapshot --description "testing snapper snapshots"
+snapper --help
+snapper create --description "testing snapper for snapshotting"
+j qtile
+v config.py
+yay bitbarden
+yay bitwarden
+ssh -T git@github.com
+config status
+cd .config
+ya
+..
+add .oh-my-bash
+git rm --cached .oh-my-bash
+config rm --cached .oh-my-bash
+cp .oh-my-bash .oh-my.bash.n
+cp .oh-my-bash -r .oh-my.bash.n
+config rm --cached -f .oh-my-bash
+cd .oh-my
+cd .oh-my-bash
+..
+rmrf .oh-my.bash.n
+cd .oh-my-bash
+add custom
+..
+cd .trash
+..
+rmdir .trash
+cd var
+cd .var
+cd app
+cd org.mozilla.firefox
+cd data
+cd ice
+cd firefox
+....
+...
+..
+rmrf .var
+cd bin
+add autg
+add autostart
+add open_with_linux.py
+add snapall.sh
+add autostart.sh
+rm rclone-gdrive.sh waybar-reload.sh xdg-portal-start.sh
+cd appimages
+cd .trash
+..
+rmdir .trash
+..
+..
+add .bashrc
+add .Xresources
+add .zshrc
+b g$'\033'$'\033'
+rm g$'\033'$'\033'
+b .sdirs
+cd .pkg-cache
+cd v3.3
+cd 
+cd
+cd .pkg-cache
+cd v3.3
+b fetched-v16.14.2-linux-x64
+b -A fetched-v16.14.2-linux-x64
+..
+..
+cd .pki
+cd nssdb
+...
+cd .config
+cd alacritty
+ya
+add alacritty.toml
+..
+cd autostart
+add copyq.desktop
+..
+ls bat
+add bat
+ls bauh
+rmrf caja
+add copyq
+add doom
+add flameshot
+rmrf gnote
+add gtk-2.0 gtk-3.0
+add htop
+add hypr
+ls kitty
+add kitty
+add nvim
+add qtile
+ls ranger
+add ranger
+add rofi
+cd sublime-text
+cd Packages
+..
+cd Lo
+cd Local
+..
+cd Lib
+..
+cd Installed\ Packages
+..
+..
+add sublime-text
+ls Thunar
+add Thunar
+add waybar
+add xfce4
+add yay yazi zsh
+add dolphin dolphinrc picom.conf picom.conf.inprogress
+..
+commit -m "first commit new system files being committed have been changed/update/removed or otherwise."
+config push -u dots main
+yay bitwarden
+cd .config/yay
+v config.json
+cd /etc
+sv pacman.conf
+..
+j yay
+v config.json
+yay bitwarden
+v config.json
+yay bitwarden
+yay paru
+paru bitwarden
+..
+cd paru
+v paru.conf
+paru system
+paru system
+paru system
+paru system
+pacman
+pacman -Sy
+sudo pacman -Sy
+sudo pacman -Syu
+paru
+fd paru /
+cd /etc
+b paru.conf
+paru
+j yay
+b config.json
+j paru
+v paru.conf
+yay vifm
+paru vifm
+v paru.conf
+paru vifm
+paru --gendb
+paru
+paru parsero
+paru mimikatz
+paru urlsnarf
+aliases
+paru arpspoof
+paru arp
+paru redragon
+paru reddragon
+paru redragon
+paru keychron
+paru keycron
+fpf
+fpf
+paru pkg manager
+pkgtop
+pkgtop -d arch
+aliases
+ptop
+ptop
+sudo ptop
+sudo pkgtop
+sudo pkgtop -d arch
+sudo pkgtop -d arch
+aliases
+pkgtop
+pkgtop
+pkgtop
+sudo pkgtop -d arch
+R pkgtop
+R pkgtop-git
+aliases
+mouse-dpi-tool
+paru -Ql mouse_m908
+mouse_m908
+mouse_m908 -R -
+sudo mouse_m908 -R -
+sudo mouse_m908 -D -
+python-config
+python-config --help
+man python-config
+man python
+aliases
+j zsh
+source .zshrc
+source aliases.zsh
+source env.zsh
+import --help
+python --version
+mkdir py
+cd py
+vim
+cd .config
+cd .bauh
+cd bauh
+v arch.yml
+py
+py
+paru py
+paru -S py
+paru -S python-py
+py
+py
+py
+py 
+py
+py print("hello world")
+python
+vim
+ya
+timeshift --create --comments "6/10/2024 @ 1:53AM - Taking a snap because system is in a good place and I will likely end up messing with things tomorrow and need a good point to restore to if needed." --target /dev/sda3
+qe
+fpf
+paru timeshift
+timeshift --create --comments "6/10/2024 @ 1:53AM - Taking a snap because system is in a good place and I will likely end up messing with things tomorrow and need a good point to restore to if needed." --target /dev/sda3
+sudo timeshift --create --comments "6/10/2024 @ 1:53AM - Taking a snap because system is in a good place and I will likely end up messing with things tomorrow and need a good point to restore to if needed." --target /dev/sda3
+timeshift --help
+sudo timeshift
+sudo timeshift --create --comments "6/10/2024 @ 1:53AM - Taking a snap because system is in a good place and I will likely end up messing with things tomorrow and need a good point to restore to if needed."
+timeshift-gtk
+sudo timeshift-gtk
+sudo timeshift-gtk & disown
+sudo timeshift-gtk & disown
+eze
+sudo timeshift-gtk & disown
+pkill timeshift
+pkill timeshift-gtk
+sudo timeshift-gtk & disown
+eze
+sudo timeshift-gtk
+cd /etc
+fzf
+f
+alias
+aliases
+pkill nordpass
+qtconf
+qtconf
+paru window manager
+paru --help
+paru -a window manager 
+paru window manager
+aliases
+S vicious rlwrap sxhkd xdo
+paru xsession
+paru xepher
+paru xeph
+qtconf
+Xephyr --help
+xephyr
+sudo Xephyr
+testqtile
+sudo testqtile
+cd bin
+chmod u+x testqtile
+sudo ./testqtile
+cd /
+cd
+cd bin
+sudo ln -s /bin/
+ll
+cd /bin
+ll
+cd
+cd bin
+cd bin
+..
+ll
+cp testqtile bin/
+sudo cp testqtile bin/
+cd bin
+ll
+testqtile
+ qttest
+qtconf
+qtconf
+xprop
+qtconf
+xprop
+qttest
+qttest
+qtconf
+xprop
+paru shodan
+shodan
+shodan init
+shodan 1shoppingcart.com
+shodan init 1shoppingcart.com
+shodan search 1shoppingcart.com
+man shodan
+shodan --help
+shodan init axqp6iERn7BXr6yoxCP2eu43DWlODMsw
+shodan search 1shoppingcart.com
+shodan search https://www.1shoppingcart.com
+shodan
+shodan domain 1shoppingcart.com
+paru vial
+cd bin
+cd appimages
+curl --help
+curl -o "./vial.AppImage" https://github.com/vial-kb/vial-gui/releases/download/v0.7.1/Vial-v0.7.1-x86_64.AppImage
+chmod u+x vial.AppImage
+ll
+./vial.AppImage
+LS
+cd bin
+cd appimages
+rm vial.AppImage
+cd 
+cd Downloads/ls
+cd Downloads
+mv Vial-v0.7.1-x86_64.AppImage ~/bin/appimages
+cd
+cd bin/appimages
+f
+ll
+mv Vial-v0.7.1-x86_64.AppImage vial.AppImage
+ll
+./vial.AppImage
+cd
+rmrf .bin
+ll py
+ls py
+cd py
+..
+rmdir py
+ls snap
+rmrf snap
+rm .python_history
+b .ICEauthority
+paru qmk
+qmk
+qmk setup
+export USER_GID=`id -g`; sudo --preserve-env=USER_GID sh -c 'echo "KERNEL==\"hidraw*\", SUBSYSTEM==\"hidraw\", ATTRS{serial}==\"*vial:f64c2b3c*\", MODE=\"0660\", GROUP=\"$USER_GID\", TAG+=\"uaccess\", TAG+=\"udev-acl\"" > /etc/udev/rules.d/99-vial.rules && udevadm control --reload && udevadm trigger'
+udevadm control --reload-rules && udevadm trigger
+sudo udevadm control --reload-rules && udevadm trigger
+mv 50-qmk.rules /etc/udev/rules.d
+mv 50-qmk.rules /etc/udev/rules.d
+sudo mv 50-qmk.rules /etc/udev/rules.d
+fzf
+cd
+fzf
+fzf
+man fzf
+cd /etc
+cd sysconfig
+b crond
+info crond
+gawk
+man gawk
+cd /etc/systemd
+cd sleep.conf.d
+v sleep.conf
+sv sleep.conf
+cd /etc/systemd
+b sleep.conf
+b logind.conf
+ll
+sya
+..
+..
+sv paru.conf
+cd .config
+cd paru
+v paru.conf
+xprop
+qtconf
+qtconf
+qtconf
+paru volumeiceon
+paru volumeicon
+volumeicon & disown
+qtconf
+git clone https://github.com/vial-kb/vial-qmk.git
+cd vial-qmk
+make git-submodules
+ya
+cd keyboards/keychron/v1/ansi/keymaps/vial
+..
+..
+cd keymaps
+cd vial
+qmk flash
+paru android
+paru owasp
+paru brave nightly
+qtconf
+syscse --help
+sysctl
+which
+which cat
+whois
+whoami
+paru fuff
+paru fuf
+ffuf --help
+sudo yazi
+ifconfig
+ifconfig wlo1
+picom
+paru distro
+S docEr
+S docker
+distro --help
+distrobox --help
+man distrobox
+fd distrobox /
+distrobox li
+distrobox list
+distrobox list
+paru docker
+man timeshift
+timeshift --create --comments "6/18/2024 @ 2:27am; Before upgrading the system."
+sudo timeshift --create --comments "6/18/2024 @ 2:27am; Before upgrading the system."
+ya
+yad
+dconf
+dconf update
+dconf load
+xdg-ninja
+man yazi
+yazi --help
+cd .config
+cd yazi
+v keymap.toml
+aliases
+pkill picom
+picom & disown
+R sofirem-git
+yazi
+cd .config/yazi
+v keymap.toml
+ya
+j yazi
+v keymap.toml
+paru
+j paru
+v paru.conf
+paru
+cd .config/zsh
+v .zshrc
+cd .config/
+xdg-ninja
+cd .gnupg
+ya
+cd .config/zsh
+v env.zsh
+ya
+cd /etc
+rg .Xresources
+sya
+cd .config/yazi
+v yazi.toml
+ya
+sya
+fzf
+cd /
+fzf
+fd yazi /
+paru
+paru -Scc
+paru -Sc
+paru
+cd
+ya
+j zsh
+v env.zsh
+j nvim
+ll
+j yazi
+sudo nvim
+vim
+sudo nvim
+man cp
+sudo cp -R .config /root/.config
+c /root
+cd /root
+sudo
+sudo root
+su
+cd .config
+ls htop
+v
+cd .config
+ll
+cd /
+cd root
+sudo cd root
+su
+cd zsh
+ll
+rg .Xresources
+sya
+cd .config/yazi
+v yazi.toml
+ya
+sya
+fzf
+cd /
+fzf
+fd yazi /
+paru
+paru -Scc
+paru -Sc
+paru
+cd
+ya
+j zsh
+v env.zsh
+j nvim
+ll
+j yazi
+sudo nvim
+vim
+sudo nvim
+man cp
+sudo cp -R .config /root/.config
+c /root
+cd /root
+sudo
+sudo root
+su
+cd /
+cd root
+ya
+which $SHELL
+yazi
+ln --help
+ln -s /home/corey/.config/bat bat
+cd autostart/
+ln -s /home/corey/.config/htop htop
+cd htop
+rm htop
+cp /home/corey/.config/htop/htoprc htoprc
+ln -s /home/corey/.config/nvim nvim
+ln -s /home/corey/.config/ranger ranger
+ll Thunar
+rm -rf Thunar
+ln -s /home/corey/.config/Thunar Thunar
+cd yazi
+rm -rf yazi
+ln -s /home/corey/.config/yazi yazi
+ln -s /home/corey/.config/zsh zsh
+rm .zshrc
+cd .config
+cd zsh
+pwd
+..
+ln -s /root/.config/zsh/.zshrc .zshrc
+ll
+cd root
+sudo cd root
+su
+ls root
+cd root
+cd .config
+ll
+ya
+su
+
+cd ~
+ll
+ls -
+ls -la
+exit
+zsh
+ll
+cd .config
+echo $HOME
+echo $XDG_CONFIG_HOME
+exit
+j zsh
+v env.zsh
+aliases
+su
+su
+su
+thunar
+ll
+cd
+yazi
+exit
+cd /etc
+ya
+sya
+env
+env | grep xdg
+env | grep XDG
+su
+cd
+yazi
+b .bashrc
+sudo cp .bashrc /root/.bashrc
+su
+su
+yazi
+yazi
+cd /etc
+b bash.bashrc
+yazi
+echo $XDG_CONFIG_HOME
+exit
+j zsh
+v env.zsh
+aliases
+su
+cd
+rm .zshrc
+yazi
+nvim --config /home/corey/.config/nvim/init.lua .bashrc
+cp /run/media/corey/btrfs-ssd/previous-home-dir/corey/old.bashrc /root/.bashrc
+ll
+nvim .bashrc
+su
+..
+chmod a+r -R corey
+sudo chmod a+r -R corey
+R
+S yazi
+bash
+su
+S nnn
+exit
+cd .oh-my-bash
+cd custom/aliases
+b aliases.sh
+rm aliases.sh
+cp ~/.config/zsh/aliases.zsh aliases.sh
+ll
+b aliases.sh
+..
+cp ~/.config/zsh/env.zsh env.sh
+ll
+b env.sh
+su
+S yazi
+which .bashrc
+su
+cd
+ll
+ls -la
+yazi
+su
+cd
+ll
+cd /etc/skel
+ll
+..
+ll
+ls -la
+..
+ls -la
+cd ..
+ls -la
+cp skel /
+cp -r skel /
+cd
+c /
+cd /
+mv skel root
+ls -la
+cd
+ls -la
+yazi
+su
+su
+cd
+cd .config
+ll
+yazi
+pacmd
+sudo .bashrc
+sudo nvim .bashrc
+sudo -E nvim .bashrc
+s
+aliases
+sv
+sudo -E nvim
+aliases
+s v
+sv
+s v
+v
+sv /root/.bashrc
+su
+aliases
+l.
+l.
+l.
+l.
+paru egrep
+l. b
+l. .config
+l. con5;9ug
+l. config
+qtconf
+vial.AppImage
+cd .config/qtile
+v config.py
+qtile start
+exit
+qtconf
+qtconf
+qtconf
+qttest
+qtconf
+qtconf
+qttest
+qttest
+qttest
+vial
+man AppImageLauncher
+cd bin/appimages
+ll
+qttest
+qtconf
+shutdown now
+qtconf
+j nvim
+cd lua/user
+v options.lua
+v init.lua
+v lazy.lua
+v lazy.lua
+...
+cd after/plugin
+v misc.lua
+ya
+v yazi.lua
+j user
+v keymaps.lua
+v
+paru sudo
+S sudoedit
+paru sudoedit
+paru sudo edit
+paru visudo
+ya
+j rofi
+mv config.rasi original-config.rasi
+...
+cd Documents/config\ examples
+Qtile-Rice
+rofi
+cd rofi
+v config.rasi
+rofi -show drun
+j rofi
+cd themes
+j rofi
+...
+cd Documents/config\ examples
+cd Qtile-Rice/rofi/
+v config.rasi
+paru javascript
+pip install beautifulsoup4
+pip3 install beautifulsoup4
+paru pipx
+paru python
+paru py python 3
+pypy3 --help
+paru py env
+paru python environment
+pip install beautifulsoup4
+paru python-beautifulsoup
+paru tlp
+tlp --help
+man tlp
+paru power management
+paru powerkit
+powertop
+sudo powertop
+sudo powertop
+powerkit
+paru bettercap
+S bettercap-caplets
+sudo bettercap
+paru beef-xss
+man bettercap
+bettercap --help
+sudo bettercap
+tldr bettercap
+tldr --update
+tldr bettercap
+tldr
+tldr --update
+tldr -u
+cheat
+sudo betterclinux
+sudo bettercap
+ fd sys.log /
+visudo --help
+visuO
+visudo
+sudo -E /etc/sudoers
+sudo -E nvim /etc/sudoers
+cd /etc
+ya
+systemdgenie
+upower
+upower --help
+upower -d
+upower -i
+upower -e
+powerkit
+systemd-analyze cat-config
+systemd-analyze cat-config systemd/user.conf
+systemd-analyze cat-config systemd/system.conf
+systemd-analyze cat-config systemd/logind.conf
+fd systemd / | grep conf
+/usr/share/dbus-1/system.d/org.freedesktop.systemd1.conf
+bat /usr/share/dbus-1/system.d/org.freedesktop.systemd1.conf
+bat /usr/lib/modprobe.d/systemd.conf
+ya
+j yazi
+v keymap.toml
+ya
+cd /run/media/corey
+ll
+cd corey
+ll
+cd btrfs-ssd
+ll
+sudo mkdir delete
+ll
+cd delete
+sudo touch file1
+sudo touch file2
+ll
+..
+..
+ya
+j yazi
+v yazi.toml
+ya
+j yazi
+v yazi.toml
+fd power /
+aliases
+fd power /
+man brave
+man
+man brave-nightly
+man brave-browser
+brave-nightly --help
+brave-browser-nightly --help
+fd brave /
+man brave-browser-nightly
+j .config
+qtconf
+qtconf
+man Alien::Build::Manual
+aainfo \]
+
+
+pacui
+pacui
+xprop
+qq
+R firefox firefox-nightly-bin-debug
+qq
+paru gemini
+qg pa
+paru pamac
+paru pamac
+paru pamac
+cd /tmp
+cd ~/
+ya
+paru
+cd /run/media/corey/btrfs-ssd
+ll
+sudo rmrf corey
+sudo rm -rf corey
+ll
+sudo rm -rf delete
+ll
+ll .Trash-1000
+cd .Trash-1000
+cd files
+ll
+..
+..
+ll
+rmrf .Trash-1000
+rm -r .Trash-1000
+ll
+sudo timeshift --create --comments "6/23/2024 @ 12:44am"
+env
+rg BROWSER=
+rg BROWSER
+j zsh
+ll
+v env.zsh
+..
+ll
+..
+ya
+sv /etc/environment
+S airgeddin 
+paru airgeddin
+paru airg
+paru dsniff
+S iptraf jnettop
+S iptraf jnettop
+qg jnet
+paru nemesis
+paru snort
+paru zaproxy
+source /etc/environment
+paru
+ya
+scrot
+scrot --help
+ll
+ya
+qtconf
+scrot --help
+man scrot
+tldr scrot
+scrot ~/Pictures/Screenshots
+scrot --selectg
+scrot --select
+ll
+b 2024-06-24-025224_556x472_scrot.png
+w3m 2024-06-24-025224_556x472_scrot.png
+cd bin
+v screenshotter.sh
+screenshotter.sh
+cd bin
+ll
+chmod +x screenshotter.sh
+ll
+screenshotter.sh
+paru
+paru youtube musi 
+youtube-music --help
+xprop
+htop
+paru
+paru -Sc
+paru -Sc
+xsel --help
+paru samsung
+paru
+pamac-manager --help
+paru pamac
+R nordpass
+snap remove nordpass
+paru gnome-software
+pacui
+paru
+man inxi
+aliases
+man inxi
+inxi -i
+inxi -J
+inxi -n
+inxi --processes
+inxi -r PACMAN
+inxi -r
+inxi -rx
+inxi -ra
+inxi -rxx
+inxi -x
+inxi --recommends
+paru doas
+S doas
+S hddtemp
+S ipmitool ipmi-sensors
+inxi --recommends
+S runlevel tree
+paru fruit print
+paru fruit
+pacman -S fruit_print
+sudo pacman -S fruit_prinT
+sudo pacman -S fruit_print
+S eglinfo glxinfo
+S glxinfo
+S eglinfo
+S vulkaninfo
+paru vulkan info
+R glxinfo
+paru vulkan info
+fzf
+fzp
+fzfpkg
+paru perl xml
+fzfpkg
+/var/log/journal
+..
+ya
+cd /
+fd Xorg log
+fd Xorg.0.log
+journalctl
+logger
+man logger
+logname
+log
+man log
+d
+cd
+ya
+man getsysinfo
+getsysinfo
+sudo getsysinfo
+bat /tmp/arcolinux.tar.gz
+tar -x /tmp/arcolinux.tar.gz
+xprop
+qtconf
+todoist
+todoist.desktop
+ya
+cd bin
+cd appimages
+ll
+inxi
+paru sysinfo
+inxi
+man inxi
+inxi -a
+inxi -xxx
+inxi -xx
+inxi -Pxr
+inxi -Pvd
+inxi --help
+inxi -wm
+inxi --downloader
+man inxi
+inxi -b
+inxi -B
+inxi -E
+inxi -c
+inxi -C
+inxi -d
+inxi -D
+inxi -E
+inxi -edid
+inxi --edid
+paru fxupd
+paru firmware
+fwupd
+_fwupdmgr
+man fwupd
+man fwupd
+fwupd --help
+fwupd-dbxtool --help
+fwupd-dbxtool
+fwupd-dbxtool --list
+fwupd-dbxtool
+fwupdmgr
+fwupdmgr --help
+fwupdmgr get-approved-firmware
+fwupdmgr get-devices
+fwupdmgr --help
+man fwupdmgr
+~/bin/appimages/todoist.AppImage
+exo-open ~/bin/appimages/todoist.AppImage
+qtconf
+qtconf
+pkill todoist
+htop
+cd /
+cd home
+cd corey
+cd bin
+cd appimages
+ll
+qtconf
+man wmctrl
+wmctrl -l
+htop
+wmctrl -l
+paru window control
+cd bin
+fd fuzzy
+ls | grep fz
+ll
+cd /bin
+ll | grep fz
+cd /usr/bin
+fd fuzz
+fd fz
+fd pkg
+cd /
+fd pkg
+fd pkg | grep fz
+qg fz
+qg f
+fuzzypkg
+fuzzypkg --help
+fpf
+syschcker
+syschecker
+aliases
+infoutil
+paru infoutil
+lssys
+paru lssys
+paru infols
+paru infohelp
+syshelp
+paru syshelp
+sys
+paru lsinfo
+lsinfo
+sysinfo
+infosys
+syshelp
+infohelp
+aliases
+info
+sysopen --help
+sysopen -h
+sysopen
+man sysopen
+sysopen
+sysopen bat
+sysopen .Xresources
+tldr sysopen
+tldr --update
+man fwupd.conf
+ya
+urxvtc --help
+urxvtd --help
+man urxvt-extensions
+urxvt-tabbed
+urxvt
+ya
+source .Xresources
+man rxvt
+man urxvt
+xrdb --help
+xrdb -all
+xrdb -query
+xrdb -merge ~/.Xresources
+xrdb -query
+l
+fdjfksadjf;
+help
+urxvt-tabbed
+paru gtk2
+urxvt-tabbed
+b /sbin/urxvt-tabbed
+paru gtk2
+paru gtk2
+paru gtk2
+paru gtk2
+paru gtk2
+xrdb -query
+v .Xresources
+xrdb -merge ~/.Xresources
+xrdb -load ~/.Xresources
+xrdb -merge ~/.Xresources
+v .Xresources
+xrdb -merge ~/.Xresources
+paru urxvt
+paru perl unicode
+xprop
+paru font
+paru font
+paru font
+paru
+paru
+paru rclone
+qtconf
+xprop
+wmctl -l
+wmctrl -l
+xpropo
+xprop
+paru -Scc
+paru -Sc
+sudo yazi
+paru -Sc
+paru
+R pypy3-pip
+paru pypy3
+S pypy3-pip
+yazi
+cd .cache/paru/clone/
+ll
+rmrf pypy3-pip
+ll
+paru
+paru
+pamac
+pamac-installer
+pamac-installer --help
+gconftool-2
+gconftool-2 --help
+paru gconf
+R gconf gconf
+pacui
+paru apk android
+paru
+paru bitwarden
+paru dotool
+npm audio
+npm auidit
+npm audit
+npm audit fix
+npm i --package-lock-only
+npm
+ya
+man fwupd
+man fwupd-dbxtool
+paru
+paru vivaldi
+man passff
+tldr passff
+pamixer
+pamixer --help
+pamixer --list-sources
+systemctl restart pulseaudio.service
+systemctl
+poweroff now
+shutdown now
+sudo shutdown now
+xprop
+R brave-bin brave-extension-bitwarden-git brave-nightly-bin
+paru brave
+qtconf
+ya
+ya
+cd .local/share/applications
+ll
+v todoist.desktop
+ll
+ya
+ll
+sudo mv appimagekit_2b6ede3f952bc3b1edab9eddee58bcff_todoist.AppImage /usr/share/applications/todoist.AppImage
+cd /etc
+cd /usr/share/applications
+ll
+sudo chown root:root todoist.AppImage
+ll
+ya
+j
+j
+j
+cd .local/share/applications
+ll
+b todoist.desktop| grep appimage
+sudo mv appimagekit_2b6ede3f952bc3b1edab9eddee58bcff_todoist.desktop
+sudo mv todoist.desktop appimagekit_2b6ede3f952bc3b1edab9eddee58bcff_todoist.desktop
+ll
+./appimagekit_2b6ede3f952bc3b1edab9eddee58bcff_todoist.desktop
+fd brave /
+cd /opt/brave-bin
+ll
+b xdg-settings
+xdg-settings get default-web-browser
+env
+j zsh
+v env.zsh
+b env.zsh `
+b env.zsh
+cd /etc/
+sv profile
+sv environment
+ya
+man bat
+man --list-themes
+bat --list-themes
+man bat
+bat --list-themes
+./xdg-settings
+./xdg-settings --help
+./xdg-mime --help
+xdg-mime query .conf
+man xdg-mime
+xdg-mime ~/.config/qtile/config.py
+xdg-mime query ~/.config/qtile/config.py
+xdg-mime query "~/.config/qtile/config.py"
+xdg-mime query ~/.config/kitty/kitty.conf
+man xdg-mime
+xdg-mime query file ~/.config/kitty/kitty.conf
+tldr xdg-mime
+xdg-mime query filetype ~/.config/kitty/kitty.conf
+xdg-mime query default filetype ~/.config/kitty/kitty.conf
+xdg-mime query default ~/.config/kitty/kitty.conf
+\
+$ grep "" /sys/block/*/queue/scheduler
+\
+$ grep "" /sys/block/*/queue/scheduler
+grep "" /sys/block/*/queue/scheduler
+paru i7z
+paru driver manager
+paru driver firmware
+paru firmware manager
+smartctl -l
+smartctl
+smartctl -h
+smartctl -H
+ls /dev/disk/by-label/btrfs-ssd
+smartctl -i /dev/disk/by-label/btrfs-ssd
+sudo smartctl -i /dev/disk/by-label/btrfs-ssd
+man smartctl
+smartctl --scan
+smartctl -a /dev/sda
+sudo smartctl -a /dev/sda
+sudo smartctl -a /dev/nvme0
+sya
+pppd --help
+pppd
+pppstats
+pppstats --help
+pppoe-discovery
+pppoe-discovery --help
+pppdump
+pppoe --help
+man pkcs11
+man kccs
+man gnome-keyring-daemon
+man secret-tools
+man secret-tool
+man xapp-sn-watcher
+man xapps
+paru
+paru
+pamac-tray -h
+pamac-manager --help
+pamac-manager --updates
+sudo shutdown now
+paru log viewer
+paru system logs
+systemctl-tui
+sudo systemctl-tui
+cd /usr/share/polkit-1
+ya
+cd /usr/share/applications
+sv timeshift-gtk.desktop
+sudo timeshift-launcher
+timeshift-launcher
+timeshift-gtk
+fd timeshift-launcher /
+sv /usr/bin/timeshift-launcher
+pkexec timeshift-launcher
+su timeshift-launcher
+sudo timeshift-launcher
+cd /sbin
+sv timeshift-gtk.desktop
+cd /usr/share/app
+cd usr/share
+cd /usr/share
+cd applications
+ll
+b todoist.AppImage
+sudo mv todoist.AppImage todoist.desktop
+ll
+chmod a+x timeshift-gtk.desktop todoist.desktop
+sudo chmod a+x timeshift-gtk.desktop todoist.desktop
+sya
+id -u
+su - -c
+su - -c timeshift-gtk
+command -v
+man command
+paru pksu
+paru su
+paru su gui
+paru dksu
+paru ksu
+gksu timeshift-launcher
+xprop
+xprop
+gksu shutdown now
+paru vivaldi
+paru whale browser
+ya
+j zsh
+v env.zsh
+cd /etc
+sv environment
+sya
+qtconf
+pkill vivaldi
+paru facebook messenger
+paru messenger
+pacui
+xprop
+wmctrl -l
+R nodejs-lts-hydrogen
+fd nodejs-lts /
+man paru
+man paru.conf
+sudo pacman -Syu
+cd .config
+ll
+cd paru
+ll
+v paru.conf
+paru
+man pacman
+sudo pacman -Syu
+paru
+fd pamac /
+ya
+cd /var/tmp/pamac
+ll
+ls dbs
+cd aur-corey
+ll
+ya
+R pamac-all-git
+paru -Sc
+paru -Sc
+paru -Scc
+paru -Scc
+paru
+paru pamac-all
+paru sploit
+paru sploit
+xprop
+R mugshot
+S postgresql-old-upgrade
+paru sploit
+.gradle
+ll
+ll
+..
+ll
+ya
+_mosh --help
+_mosh
+paru cabal
+cd qmk_firmware/
+ll
+..
+rmrf qmk_firmware
+ll
+ya
+paru armit
+paru -Sc
+paru franz
+paru franz
+paru router
+paru consul
+cd Documents
+ll
+cd Personal
+ll
+..
+ll
+mkdir pkgs
+ll
+cd pkgs
+ll
+v
+v blackarch-kali.pkglist
+xprop
+man xprop
+R franz-bin
+fd franz/
+fd franz /
+qg screen
+R xfce4-screensaver xscreensaver
+R xfce4-screensaver
+R xscreensaver powerkit
+paru lock
+paru betterlockscreen
+betterlockscreen --help
+man sleep
+man screensaver
+man lockscreen
+man sleep.conf.d
+man systemd.directives
+shutdown now
+xdg-screensaver --help
+man xdg-screensaver
+qtconf
+wmctrl -l
+wmctrl --help
+man wmctrl
+wmctrl -l
+bitwarden-desktop
+man bitwarden-desktop
+bitwarden-desktop --help
+wmctrl -R Bitwarden
+wmctrl -R Bitwarden
+wmctrl -R Bitwarden
+wmctrl -d
+man wmctrl
+wmctrl -d
+man wmctrl
+paru zenity
+paru interact window manager
+j paru
+v paru.conf
+man paru
+fzp
+fpf
+paru txt2tags
+fzf
+xdg-settings
+xdg-settings --help
+man xdg
+man xdg-settings
+xdg-settings set default-web-browser "vivaldi"
+xdg-settings set default-web-browser vivaldi
+cd /usr/share/applications
+ll
+xdg-settings set default-web-browser vivaldi-stable.desktop
+xdg-settings --list
+xdg-desktop-menu
+man xdg-desktop-menu
+wmctrl -m
+man qtile
+qtile --help
+qtile top
+tracemalloc
+wmctrl -m
+wmctrl
+wmctrl -l
+wmctrl -d
+wmctrl -dlm
+wmctrl -dl
+wmctrl -m
+wmctrl -m -i
+xprop --help
+xprop -spy
+xprop
+xprop -spy
+xprop --help
+man xprop
+xwininfo
+man xwininfo
+ k
+man xwininfo
+xwininfo -int
+xprop -id 48234510 -set desktop 7
+xprop -grammer
+xprop -grammar
+man env
+man signal
+man signal
+pkill picom
+cd .config
+ll
+v picom.conf
+picom & disown
+man picom
+man picom.conf
+man piconv
+man picom-trans
+man
+man man
+man -a intro
+xdg-open --help
+man xdg-open
+j zsh
+v env.zsh
+cd /etc
+v environment
+sv environment
+source
+source --help
+man source
+source ~/.config/zsh/env.zsh
+source /etc/environment
+xdg-open https://google.com
+xdg-open browser
+xdg-open default-web-browser
+xdg-open $default-web-browser
+xdg-settings set default-web-browser vivaldi-stable.desktop
+env
+env | grep browser
+env | grep BROW
+man env
+env -u=BROWSER
+env -u=$BROWSER
+env --unset="$BROWSER"
+hg
+man hg
+grep --help
+cd /etc
+rg --help
+man rg
+grep -R "=/sbin/env"
+sudo grep -R "=/sbin/env"
+sudo grep -R "/sbin/env" /etc/
+sya
+ll
+ya
+xprop
+xprop
+xprop
+j kitty
+v kitty.conf
+man kitten
+man kitty.conf
+kitty 0.35.1 created by Kovid Goyal\
+Linux arcolinux 6.9.3-arch1-1 #1 SMP PREEMPT_DYNAMIC Fri, 31 May 2024 15:14:45 +0000 x86_64\
+Arch Linux 6.9.3-arch1-1 (/dev/tty)\
+\
+DISTRIB_ID=ArcoLinux\
+DISTRIB_RELEASE="rolling"\
+DISTRIB_DESCRIPTION="ArcoLinux"\
+Running under: X11\
+OpenGL: '4.6 (Core Profile) Mesa 24.1.0-arch1.1' Detected version: 4.6\
+Frozen: False\
+Paths:\
+  kitty: /usr/bin/kitty\
+  base dir: /usr/lib/kitty\
+  extensions dir: /usr/lib/kitty/kitty\
+  system shell: /usr/bin/zsh\
+Loaded config files:\
+  /home/corey/.config/kitty/kitty.conf\
+\
+Config options different from defaults:\
+confirm_os_window_close       0\
+cursor_beam_thickness         2.0\
+cursor_blink_interval         0.5\
+cursor_stop_blinking_after    0\
+enable_audio_bell             False\
+enabled_layouts               ['splits', 'grid', 'stack', 'horizontal']\
+font_family                   Fira Code Nerd Font\
+font_size                     13.0\
+macos_titlebar_color          488975362\
+scrollback_lines              1000000\
+scrollback_pager              ['bat']\
+scrollback_pager_history_size 4294967295\
+tab_activity_symbol           îƒªƒ¦\
+tab_bar_align                 center\
+tab_powerline_style           slanted\
+tab_switch_strategy           left\
+wayland_titlebar_color        488975362\
+window_padding_width          FloatEdges(left=3.0, top=3.0, right=3.0, bottom=3.0)\
+Added shortcuts:\
+	alt+[ âƒ¦ƒ²  move_tab_backward\
+	alt+\ âƒ¦ƒ²  launch --cwd=current\
+	alt+] âƒ¦ƒ²  move_tab_forward\
+	alt+d âƒ¦ƒ²  scroll_page_down\
+	alt+down âƒ¦ƒ²  scroll_line_down\
+	alt+end âƒ¦ƒ²  scroll_end\
+	alt+enter âƒ¦ƒ²  new_tab\
+	alt+h âƒ¦ƒ²  previous_tab\
+	alt+home âƒ¦ƒ²  scroll_home\
+	alt+j âƒ¦ƒ²  scroll_line_down\
+	alt+k âƒ¦ƒ²  scroll_line_up\
+	alt+l âƒ¦ƒ²  next_tab\
+	alt+page_down âƒ¦ƒ²  scroll_page_down\
+	alt+page_up âƒ¦ƒ²  scroll_page_up\
+	alt+q âƒ¦ƒ²  close_tab\
+	alt+s âƒ¦ƒ²  launch --location=hsplit\
+	alt+t âƒ¦ƒ²  set_tab_title\
+	alt+u âƒ¦ƒ²  scroll_page_up\
+	alt+up âƒ¦ƒ²  scroll_line_up\
+	alt+v âƒ¦ƒ²  launch --location=vsplit\
+	alt+w âƒ¦ƒ²  close_window\
+	ctrl++ âƒ¦ƒ²  change_font_size all +1.0\
+	ctrl+- âƒ¦ƒ²  change_font_size all -1.0\
+	ctrl+0 âƒ¦ƒ²  change_font_size all 0\
+	ctrl+1 âƒ¦ƒ²  first_window\
+	ctrl+2 âƒ¦ƒ²  second_window\
+	ctrl+3 âƒ¦ƒ²  third_window\
+	ctrl+4 âƒ¦ƒ²  fourth_window\
+	ctrl+5 âƒ¦ƒ²  fifth_window\
+	ctrl+6 âƒ¦ƒ²  sixth_window\
+	ctrl+; âƒ¦ƒ²  clear_terminal scroll active\
+	ctrl+= âƒ¦ƒ²  change_font_size all +1.0\
+	ctrl+\ âƒ¦ƒ²  launch --cwd=current\
+	ctrl+down âƒ¦ƒ²  neighboring_window down\
+	ctrl+enter âƒ¦ƒ²  new_window\
+	ctrl+f1 âƒ¦ƒ²  launch --stdin-source=@screen_scrollback --stdin-add-formatting --type=overlay less +G -R\
+	ctrl+f2 âƒ¦ƒ²  launch --stdin-source=@last_cmd_output --stdin-add-formatting --type=overlay less +G -R\
+	ctrl+h âƒ¦ƒ²  neighboring_window left\
+	ctrl+j âƒ¦ƒ²  neighboring_window down\
+	ctrl+k âƒ¦ƒ²  neighboring_window up\
+	ctrl+l âƒ¦ƒ²  neighboring_window right\
+	ctrl+left âƒ¦ƒ²  neighboring_window left\
+	ctrl+page_down âƒ¦ƒ²  scroll_page_down\
+	ctrl+page_up âƒ¦ƒ²  scroll_page_up\
+	ctrl+right âƒ¦ƒ²  neighboring_window right\
+	ctrl+shift+alt+h âƒ¦ƒ²  launch --stdin-source=@screen_scrollback --stdin-add-formatting --type=overlay less +G -R\
+	ctrl+shift+alt+l âƒ¦ƒ²  launch --stdin-source=@last_cmd_output --stdin-add-formatting --type=overlay less +G -R\
+	ctrl+up âƒ¦ƒ²  neighboring_window up\
+	kitty_mod+\ âƒ¦ƒ²  launch --type=tab --cwd=current\
+	kitty_mod+f3 âƒ¦ƒ²  kitty_shell window\
+	kitty_mod+space âƒ¦ƒ²  focus_visible_window\
+	shift+alt+` âƒ¦ƒ²  next_layout\
+	shift+alt+g âƒ¦ƒ²  goto_layout grid\
+	shift+alt+h âƒ¦ƒ²  goto_layout horizontal\
+	shift+alt+s âƒ¦ƒ²  goto_layout splits\
+	shift+alt+t âƒ¦ƒ²  detach_tab\
+	shift+alt+w âƒ¦ƒ²  detach_window\
+Changed shortcuts:\
+	kitty_mod++ âƒ¦ƒ²  change_font_size all +1.0\
+	kitty_mod+- âƒ¦ƒ²  change_font_size all -1.0\
+	kitty_mod+0 âƒ¦ƒ²  change_font_size all 0\
+	kitty_mod+= âƒ¦ƒ²  change_font_size all +1.0\
+	kitty_mod+c âƒ¦ƒ²  copy_to_primary\
+	kitty_mod+f âƒ¦ƒ²  toggle_layout stack\
+	kitty_mod+f8 âƒ¦ƒ²  kitten unicode_input\
+	kitty_mod+h âƒ¦ƒ²  previous_tab\
+	kitty_mod+l âƒ¦ƒ²  next_tab\
+	kitty_mod+r âƒ¦ƒ²  clear_terminal reset active\
+	kitty_mod+v âƒ¦ƒ²  paste_from_primary\
+	kitty_mod+x âƒ¦ƒ²  swap_with_window\
+Colors:\
+	active_border_color           #a0b3c5   \
+	active_tab_background         #a0b3c5   \
+	active_tab_foreground         #1d252c   \
+	background                    #1d252c   \
+	color0                        #1d252c   \
+	color1                        #d95468   \
+	color10                       #8bd49c   \
+	color11                       #ebbf83   \
+	color12                       #5ec4ff   \
+	color13                       #c06ece   \
+	color14                       #70e1e8   \
+	color15                       #a0b3c5   \
+	color2                        #8bd49c   \
+	color3                        #ebbf83   \
+	color4                        #5ec4ff   \
+	color5                        #c06ece   \
+	color6                        #008b94   \
+	color7                        #a0b3c5   \
+	color8                        #566c7d   \
+	color9                        #d95468   \
+	cursor                        #a0b3c5   \
+	cursor_text_color             #1d252c   \
+	foreground                    #a0b3c5   \
+	inactive_border_color         #62686e   \
+	inactive_tab_background       #1d252c   \
+	inactive_tab_foreground       #a0b3c5   \
+	mark1_background              #8bd49c   \
+	mark1_foreground              #1d252c   \
+	mark2_background              #ebbf83   \
+	mark2_foreground              #1d252c   \
+	mark3_background              #d95468   \
+	mark3_foreground              #1d252c   \
+	selection_background          #a0b3c5   \
+	selection_foreground          #1d252c   \
+	url_color                     #5ec4ff   \
+\
+Important environment variables seen by the kitty process:\
+	PATH                                /sbin:/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\
+	LANG                                en_US.UTF-8\
+	EDITOR                              nvim\
+	SHELL                               /usr/bin/zsh\
+	DISPLAY                             :0\
+	USER                                corey\
+	XDG_SEAT                            seat0\
+	XDG_SESSION_TYPE                    tty\
+	XDG_SESSION_CLASS                   user\
+	XDG_VTNR                            2\
+	XDG_SESSION_ID                      1\
+	XDG_RUNTIME_DIR                     /run/user/1000\
+	XDG_DATA_DIRS                       /home/corey/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/shardf\
+\
+s\
+\
+
+qg
+qq
+qq
+qe
+R bspwm
+R sxhkd
+dosfslabel --help
+dnsmasq --help
+dsniff -h
+dsniff --help
+S libdb
+paru libdb
+R firefox-nightly-bin
+pacui
+xprop
+pkill notion
+pkill Notion
+xprop
+xwininfo
+wmctrl -l
+wmctrl -i
+wmctrl -d
+wmctrl -m
+xprop
+xprop -spy
+j zsh
+v env.zsh
+man
+man man
+envsubst --help
+dbus-update-activation-environment
+dbus-update-activation-environment --help
+dbus-update-activation-environment --all
+dbus-update-activation-environment --systemd
+reboot
+qtconf
+paru messages android
+paru messages android
+paru messages android
+paru messages android
+youtube-music $'\033'$'\033'
+youtube-music --help
+ll
+b $'\033'$'\033'
+ya
+dex --help
+dex -d
+dex -ad
+paru franz
+paru conf
+paru dconf
+paru gconf
+fd depot /
+cd .config
+ll
+man paru
+pacscripts --help
+paru package info
+paru pacman
+pkgbrowser
+man expac
+qe
+duf --help
+man duf
+duf
+pacui
+qe
+sudo pacman -Syu
+betterlockscreen --help
+man systemctl
+systemctl-tui
+systemctl
+man systemctl
+man betterlockscreen
+R betterlockscreen
+paruz
+S arcolinux-betterlockscreen archlinux-logout-git
+paru betterlockscreen
+betterlockscreen --help
+systemctl enable betterlockscreen@corey
+paru logout
+sudo systemctl enable betterlockscreen@corey
+sudo systemctl enable betterlockscreen@$USER
+logout --help
+man logout
+logout
+pacui
+man wlogout
+wlogout --help
+pacui
+cd /etc
+sya
+sudo systemctl enable logout
+sudo systemctl start betterlockscreen
+sudo systemctl start betterlockscreen@corey
+systemctl --help
+sudo systemctl disable betterlockscreen@corey
+sudo systemctl enable betterlockscreen
+sudo systemctl enable betterlockscreen@$USER
+archlinux-logout --help
+cd .config
+v picom.conf
+picom
+picom & disown
+expac
+expac --timefmt='%Y-%m-%d %T' '%l\t%n' $(yay -Qq) | sort
+paru
+paru gn
+paru re2
+paru dav1d
+expac --timefmt='%Y-%m-%d %T' '%l\t%n' $(yay -Qq) | sort
+expac --timefmt='%Y-%m-%d %T' '%l\t%n' $(yay -Qq) | sort | bat
+paru protobuf
+paru i7z
+paru guile
+paru passim
+paru flashrom
+paru mujs
+itstool
+itstool --help
+vala --help
+gts-config
+cd bin
+ll
+v pactime.sh
+man read
+man kitty
+man sh
+expac --timefmt='%Y-%m-%d %T' '%l\t%n' $(yay -Qqe) | sort | bat
+pactime.sh
+cd bin
+ll
+sudo chown a+x pactime.sh
+ll
+sudo chmod a+x pactime.sh
+ll
+pactime.sh
+cd bin
+v pactime.sh
+pactime.sh
+man kitty
+kitty --help
+cd bin
+v pactime.sh
+pactime.sh
+cd bin
+v pactime.sh
+man bash
+pactime.sh
+cd bin
+v pactime.sh
+expac --timefmt='%Y-%m-%d %T' '%l\t%n' $(yay -Qqe) | sort | bat
+expac --help
+man expac
+man expac
+man zsh
+alioas
+alias
+alias | g picom
+alias | grep pi
+j config
+v picom.conf
+v picom.conf
+rofi --help
+man rofi
+rofi -keys
+rofi -modes keys -show keys
+xprop
+xprop -spy
+man xprop
+j kitty
+v kitty.conf
+j kitty
+b kitty.conf
+ll
+pkill picom
+picom & disown
+paru gremedy
+paru gl
+paru gl
+paru event process
+glxinfo
+man web-apps
+webapp-manager --help
+logout
+archlinux-logout
+archlinux-logout
+cd .config
+ya
+qg power
+qg stace
+paru atom
+paru poe ai
+paru poe
+chat
+chat --help
+man chat
+chattr --help
+man chattr
+chatgpt.sh
+man chatgpt.sh
+sudo pacman -Syu
+paru
+nesus
+paru nesus
+paru nes
+sya
+paruz
+pacui
+paru ollama
+sysinfo
+paru oterm
+oterm
+man oterm
+oterm --help
+oterm --install-completion
+oterm db
+oterm --db
+oterm --upgrade
+oterm --show-completion
+ppmtoterm --help
+man ppmtoterm
+ppmtoterm
+oterm
+paru sqltile
+paru sql
+R oterm
+R oterm-git
+paru -Scc
+paru -Sc
+paru
+pactime
+pactime.sh
+qe
+paru ollama
+R ollama
+pacui
+paru ollama
+ ollama --help
+ollama serve
+ollama serve & disown
+ollama --help
+ollama list
+ollama list
+ollama show list
+ollama show
+ollama list model
+autostart
+hotp
+htop
+ollama list
+man ollama
+ollama pull mistral
+ ya
+ya
+paru document converter
+paru pdf converter
+ollama show
+ollama show --help
+ollama list
+ollama pull llama3 llama2-uncensored wizard-vicuna-uncensored
+ollama pull llama2-uncensored
+ollama pull wizard-vicuna-uncensored
+ollama pull llama3
+paru arcolinux powermenu
+arcolinux-powermenu --help
+arcolinux-powermenu
+fd powermenu /
+cd /usr/share/arcolinux/licenses/arcolinux-powermenu
+ll
+..
+..
+ll
+..
+ll
+cd archlinux-betterlockscreen
+ll
+b archlinux-betterlockscreen.py
+./archlinux-betterlockscreen.py
+sudo chmod +x archlinux-betterlockscreen.py
+./archlinux-betterlockscreen.py
+archlinux-betterlockscreen
+archlinux-betterlockscreen --help
+man archlinux-betterlockscreen
+ll
+b GUI.py
+..
+ll
+cd /etc/skel
+ll
+cd .config
+ll
+cd powermenu
+ll
+..
+ll
+sudo cp powermenu ~/.config/powermenu
+sudo cp -r powermenu ~/.config/powermenu
+cd
+cd .config
+ll
+cd powermenu
+ll
+powermenu
+./powermenu.sh
+b powermenu.sh
+ya
+powermenu-change-theme
+ya
+powermenu
+arcolinux-powermenu
+arcolinux-powermenu-change-theme
+arcolinux-powermenu --help
+j arcolinux-powermenu
+...
+ll
+..
+ll
+cd /etc/skel
+ll
+sya
+cd 
+cd .config
+..
+cd bin
+ll
+sudo chown corey:corey powermenu-change-colors powermenu-change-style
+ll
+cd
+powermenu-change-style
+cd bin
+ll
+./powermenu-change-style
+b powermenu-change-colors
+paru yad
+powermenu-change-style
+qtconf
+qtconf
+b powermenu-change-
+b powermenu-change-colors
+v powermenu-change-style
+powermenu-change-style
+cd .config/powermenu
+ll
+cd change
+ll
+..
+..
+sudo chown -r corey:corey powermenu
+chown --help
+sudo chown - corey:corey powermenu
+sudo chown -R corey:corey powermenu
+ll
+cd powermenu
+ll
+powermenu-change-colors
+ya
+./.config/powermenu/powermenu.sh
+sya
+fd arcolinux-powermenu /
+cd /usr/local/bin
+b arcolinux-powermenu
+ll
+v arcolinux-powermenu
+ll
+cd change
+ll
+..
+ll
+ya
+paru cast
+sya
+man pacman
+sudo pacman -Sg
+sudo pacman -Sg | bat
+paru -Ss archlinux-tools
+paru -Ss maui
+paru maui
+paru kubecontrols
+paru kubectl
+paru coil-or
+paru coil
+paru coin-or
+paru coq
+paru fcitx
+paru feeluown
+paru -S feeluown-full
+paru gamba
+paru gnustep-core
+paru ukui
+paru jami
+paru mingw
+paru pd-externals
+paru sequoia
+paru rhvoice
+paru risc-v
+paru vamp-plugins
+paru vulkan-devel
+paru sugar-fruc
+paru -S sugar-fructose
+paru telepathy
+paru tesseract-data
+paru tesseract
+paru x-apps
+xdo
+xdo --help
+man xdo
+xdo move
+xdo move --help
+xdo move -h
+xdo show
+xdo lower
+xdo activate
+xdo activate kitty
+xprop
+xprop -spy
+xwininfo
+man xinfotool
+man xwininfo
+xwininfo -all
+x11perf --help
+xb-tool
+
+
+use
+b use
+hw-probe
+hw-probe -all 
+sudo -E hw-probe -all
+paru youtube
+R feeluown-ytmusic
+feeluown-genicon
+man feeluown
+ll
+ya
+htop
+ paru emacs
+ya
+ll
+man ls
+man exa
+man eza
+cd /usr/share
+eza --long --tree --level=3
+qtconf
+pamixer
+paru TUI audio
+paru audio mixer
+paru audio mixer
+ sudo pacman -Syu
+paru
+cd .cache/paru/clone
+ll
+rmrf ollama-nogpu-git
+ll
+qg android
+rmrf android-messages-desktop
+qg volwheel
+rmrf gvolwheel
+pkgbrowser
+paruz
+paruz --help
+man paruz
+paruz -R
+paru
+man udev
+paru at
+par -Ss at
+paru -Ss at
+paru -S at
+paru -Si at
+qtconf
+xprop -spy
+cd .config
+v picom.conf
+paru ntfs
+onedrive
+sya
+xprop
+xprop
+onedrive --help
+fd onedrive /
+cd /usr/share
+eza --long --tree
+eza --long --tree --level=2
+sya
+help
+help
+yazi --help
+man yazi
+ya
+cd applications
+..
+cd applications
+ll
+yad
+man yad
+yad --list
+man yad-tools
+yad-tools
+man yad-tools
+man gdialog
+man dialog
+paru gdialog
+get
+alias | g g
+aliases
+dmesg
+sudo dmesg
+journalctl
+systemctl --user
+picom & disown
+picom & disown
+history
+sfm
+fpf
+paruz
+fpf
+fpf
+paruz
+paruz
+man fpf
+man fuzzy-package-finder
+fpf --help
+fpf -R
+fpf -l
+fpf -la
+paru --help
+man paru
+man expac
+qtconf
+R archlinux-logout-git
+fzp
+fzp --help
+fzf
+fzp
+Ps
+tldr expac
+tldr --update
+tldr expac
+tldr fpf
+tldr fzf
+b .bashrc | fzf
+ps aux
+ps aux | fzf
+paru gitstatus
+cd .config
+ll
+paru -Qo ~/.config/Trolltech.conf
+aliases
+qo .bashrc
+ll
+qo .Xresources
+qo .sdirs
+Qi .sdirs
+man paru
+paru -Ll
+paru -l
+paru -L
+paru -l 1password
+ paru -Sl
+ paru -Sl | fzf
+fpf
+paruz
+paru -Psw
+paru -Pw
+paru -Pi
+paru -Pl
+paru -PG
+paru Gw
+paru -c
+paru -C
+paru -cc
+paru -Pc
+paru -P
+paru -Su
+paru -Qu
+paru -Si
+paru -Si at
+paru -Ta
+paru -Ta 1password
+paru -T
+paru -T pamac
+paru -Sss cat
+paru -Sss
+paru -Sss pamac
+paru -Ssss pamac
+paru -co
+paru -Scc
+sudo pacman -Sc
+pacman -Scc
+pacman -Scc
+sudo pacman -Scc
+paru -Sc
+pacui --help
+man pacui
+pacui --help | bat
+paru -Rsn
+sudo pacman -Rsn
+paru -Qqdt
+man paru
+paru --help
+paru -Qs --interactive
+paru -Rns
+paru -Rs
+paru -Sn
+paru -S -i
+paru -S --interactive
+paru --help
+paru -Fh
+paru -Sh
+paru -Rh
+paru -Rsp
+sudo pacman -Rsn $(pacman -Qqdt)
+pacman -Qqdt
+pacman -Qh
+pacman -Qqd
+pacman -Qqt
+pacman -Qqh
+pacman -Qt
+pacman -Qqh
+pacman -Qqedt
+pacman -Qqet
+paru pac details
+aliases
+man inxi
+inxi --filter-vulnerabilities
+inxi --sleep
+r
+sya
+paru -Sii $(fpf)
+fzf
+paru -S --interactive
+paru  --help
+paru -Pc
+paru -Pc | fzf
+paru -Pc | fzf > paru -R
+paru -Pc | fzf < paru -R
+paru -Pc | fzf | paru -R
+paru -Qqe | fzf | paru -R
+paru -R $(paru -Qqe | fzf)
+paru -Qqd | fzf
+paruz
+paruz -R
+paruz -h
+pacui
+pacui --help
+pacui --help | bat
+pacman -Dk
+pacman -D
+pacman -Dq
+pacman -Di
+pacman -Dl
+pacman -Db
+pacman -Ds
+pacman -Dd
+sudo pacman -D
+man pacman
+pacman -T
+pacman -F
+pacman -F .conf
+fzf
+syscse --help
+systool
+systool --help
+systool -a
+systool -a cpu
+systool -a -b cpu
+comm --help
+compctl
+paccache --help
+paccache -ruvk1d
+paccache -ruvdk1
+paccache -duvk1
+pacache -dru
+paccache -dru
+paccache -du
+pacache -rk2
+paccache -rk2
+arcolinux-powermenu
+fd arcolinux-powermenu /
+sya
+powermenu
+powermenu-change-colors
+powermenu-change-style
+ya
+powermenu-change-style
+ya
+betterlockscreen
+i3lock
+man i3lock
+betterlockscreen --blur 0.3 --color 000000
+eze
+betterlockscreen --blur 0.3
+pkill betterlockscreen
+htop
+ollama
+ollama list
+ollama run llama43
+ollama run llama3
+ollama serve
+ollama run mistral
+pkill ollama
+ollama serve
+ollama serve & disown
+ollama run mistral
+man kernel
+info
+paru course
+j paru
+v paru.conf
+paru lesson
+paru
+Qe su
+qg su
+bettercap
+sudo bettercap
+ifconfig
+paru network
+paru -Ql net-tools
+route
+iptables
+iptables -h
+man bettercap
+man bettercap
+bettercap --help
+fd bettercap /
+cd /usr/share/doc
+cd bettercap
+ll
+b README.md
+paru android rat
+paruz
+paru rsync
+ya
+onedrive --help
+onedrive
+autostart
+ollama serve & disown
+ollama list
+ollama help
+ollama run llama2-uncensored
+ollama pull
+ss --help
+ss
+ss | b
+ss -h
+paru -Ss gvolwheel
+paru -Sii gvolwheel
+paru -Si gvolwheel
+paru -Siii gvolwheel
+paru -Ss gvolwheel
+S gvolwheel
+paru
+sya
+cd .local/share/Trash
+ll
+cd files
+ll
+size 
+size -h
+cd .config
+ll
+size zsh
+cd zsh
+ll
+cd zsh
+ll
+ll
+..
+ll
+rm -rf zsh
+ll
+cd yazi
+f..
+cd yazi
+..
+cd yazi
+ll
+ll
+.
+..
+ll
+rm -rf yazi
+..
+ll
+sya
+qg log
+ll
+paru -Qo depot_tools
+expac -h
+paruz
+rm -r depot_tools
+ll
+ll
+ll
+ya
+cd nvim
+ll
+cd nvim
+ll
+cd lua
+cd user
+cd lua/user
+ll
+ll
+..
+..
+cd after/plugin
+.../after/plugin
+...
+ll
+cd after/plugin
+ll
+ll
+.....
+ll
+cd files
+ll
+rmrf nvim
+rmrf ranger
+rmrf vivaldi vivaldi-snapshot
+ll
+rm -rf vivaldi_1 vivaldi-snapshot_1
+ll
+rm -rf nvim_1 ranger_1
+ll
+b yad.conf
+rm yad
+rm yad.conf
+ll
+cd .config
+ll
+q..
+..
+ll
+rm -rf .config
+ll
+srmrf .config
+ll
+sudo rm -rf .config_1
+ll
+ll
+..
+ll
+cd info
+ll
+sya
+sv
+ll
+ll
+..
+ll
+..
+ll
+ya
+xdg-ninja
+cd /etc
+ls grep zsh
+ls | grep zsh
+cd zsh
+ll
+b zprofile
+..
+ll
+sv environment
+man zshenv
+man zsh
+paru ksh
+paru -Si ksh
+paru -Sii ksh
+man rc
+paru tcsh
+paru zshall
+man zshall
+paru obsidian
+fd feeluown /
+pacui
+qg feel
+ll
+b paru
+ll
+b paru
+rm paru
+ll
+b NEW-PACKAGES-CHECKOUT
+slstatus --help
+slstatus
+slstatus -s
+paru -Ss slstatus
+slsatus -1
+slstatus -1
+slstatus -s -1
+man slstatus
+R slstatus-git
+ll
+b NEW-PACKAGES-CHECKOUT
+consul --help
+man consul
+tldr consul
+R consul
+b NEW-PACKAGES-CHECKOUT
+man xdo
+man xdotool
+man xdo
+man xdo
+sudo pacman -S qemu
+paru -Si qemu | grep qemu-
+paru -Si qemu
+paru qemu
+j yazi
+ll
+v yazi.toml
+pacat --help
+pacignore --help
+pack200 --help
+pack200
+packetforge-ng --help
+paclist
+paclist aur
+paclist nemesis_repo
+paclist arcolinux_repo
+paclist arcolinux_repo_3party
+qg bau
+qg ba
+R bauh
+pkill feeluown
+python3 -m feeluown
+fd feeluown /
+paru -Sc
+fd feeluown /
+cd /usr/share/swcatalog/icons/archlinux-arch-extra/128x128
+ll
+sudo rm feeluown_feeluown.png
+..
+cd 64x64
+sudo rm feeluown_feeluown.png
+ll
+fd feeluown /
+cd
+cd Desktop
+ll
+rm feeluown.desktop
+ll
+v keymap.toml
+paruz
+r
+ya
+r
+man xdo | head -n 1
+less
+man xdo | less
+man xdo
+bat man
+man bat man
+man bat
+man bat-man
+man bat man
+man man
+pacman-db-upgrade --help
+mandb --help
+man mandb
+-$SHELL
+sya
+sya
+man sh
+man sh script
+man lexgrog
+whatis
+whatis this
+what is xdo
+whatis xdo
+lex xdo
+lex --help
+man catman
+man manpath
+man apropas
+man apropos
+ya
+pkgbrowser
+pacsearch
+pacsearch py
+env | grep pac
+alias | grep pac
+alias
+alias | bat
+fullhelp
+man --fullhelp
+fzf
+fzp
+man fpath
+fpath --help
+fzp --help
+j kitty
+v kitty.conf
+cd /
+ls proc
+ll proc
+S lf-sixel-git spider fm-bin minase-git nnn-nerd lfp filet-git joshuto-bin fifm-bin superfile-bin nfm-git tuifimanager
+S lf-sixel-git spider fm-bin minase-git nnn-nerd lfp filet-git joshuto-bin fifm-bin superfile-bin nfm-git tuifimanager --needed
+man kitten
+man qtile-shell
+man qtile shell
+man qtile
+pacscripts
+pacscripts gconf-editor
+pacscripts gconf
+pacscripts yazi
+pacscripts rofi
+pacscripts ranger
+pacscripts code
+man kitten
+kitten-run-shell
+kitten run-shell
+man kitten-run-shell
+mandb
+sudo mandb
+mandb -test
+mandb --test
+man mandb
+info
+manweb
+manweb --help
+manweb manweb
+fd manweb /
+qg man
+pacui
+pacui
+paru manweb
+pacui
+paru netpbm
+paru plan9port
+ya
+â€ƒ‚â€ƒ‚â€ƒ‚â€ƒ‚â€ƒ‚â€ƒ‚
+â€ƒ‚â€ƒ‚â€ƒ‚
+lsblk
+devlink
+usb-devices
+ya
+lsblk
+usbmuxd --help
+cd /run/user/1000/gvfsd/
+ll
+..
+cd gvfs
+ll
+cd mtp:host=SAMSUNG_SAMSUNG_Android_R5CN90PVBHX
+ll
+dd --help
+stat --help
+stat Internal\ storage
+cd Internal\ storage
+eza --help
+eza --long -A --tree --level=3 
+..
+ll
+ll
+cd Personal
+ll
+cp -r Internal\ storage ~/Personal/moms-old-phone
+ya
+paru stace
+pacui
+pacui
+pacui
+expac --timefmt='%Y-%m-%d %T' '%l\t%n' $(yay -Qq) | sort
+paru notification daemon
+R xfce4-notifyd
+R xfce4-notifyd xfce4-power-manager
+pacui
+sudo pacman -Syu
+paru
+paru manual page
+S arch-wiki-docs
+qtconf
+S parallel-docs
+man rofi
+man rofi-dmenu
+echo "a|b|c|d|e
+echo "a|b|c|d|e
+qtconf
+calc_tickadj .325 / 2
+paru calculator
+man calculator
+man calc
+calc --help
+tldr calc
+xprop
+man nvim-gtk
+fd bauh /
+cd /usr/share/applications
+ll
+pacui
+xporp
+xprop
+pacui
+paru lmstudio
+paru llama
+paru llama.cpp
+paru jan ai
+paru backyard ai
+paru jellybox ai
+paru jellybox
+paru recursechat
+paru msty
+paru sanctum
+paru draw things ai
+paru diffusion ai
+paru text to image ai
+paru reddit
+paru
+cd .config
+ll
+cd gtk-2.0
+ll
+v gtkrc
+cd .config
+ll
+cd gtk-4.0
+ll
+v settings.ini
+..
+cd gtk-3.0
+ll
+v settings.ini
+j
+j
+cd
+cd
+cd .config/gtk-2.0
+v gtkrc
+..
+cd gtk-4.0
+v settings.ini
+v gtk.css
+..
+ll
+y
+ya
+cd .config/Kvantum
+v kvantum.kvconfig
+R inkscape
+pkill lm-studio
+dex -ad
+env | grep brow
+env | grep BR
+xdg-open $default-web-browser
+xdg-open -h
+xdg-open --help
+cd /usr/share/applications
+xdg-settings set default-web-browser Brave.desktop
+exo-open --help
+qtconf
+qtconf
+xprop
+xprop
+cd /etc
+rg suspend
+cd systemd
+ll
+sya
+$LOCK
+locktest
+idle
+systemctl hibernate
+systemctl hybrid-sleep
+sudo systemctl hybrid-sleep
+sudo systemctl hybrid-sleep
+systemctl hibernate
+systemctl poweroff
+pkill pulseaudio
+pulseaudio
+pe
+ps
+ps | bat
+ps | grep pulse
+kill 98902
+kill 98921
+ps | grep pulse
+systemctl restart pulseaudio.service
+paru qt theme
+paru theme
+metasploit
+metaflac --help
+qg meta
+pacui
+pacui
+msfd --help
+xprop
+paru airprobe
+paru air capture
+paru capture
+pacui
+paru
+sudo pacman -Syu
+paru
+tuifi
+man tuifi
+tuifi --help
+tuifi
+tuifi
+expac --timefmt='%m/%d  -=|=-  %T' '%l\t%n' $(yay -Qq) | sort
+expac --timefmt='%m/%d  -=|=-  %T' '%l\t%n' $(yay -Qq) | sort | bat
+paru -S file manager | grep installed
+paru -Ss file manager | grep installed
+man more
+vi
+qg vi
+nnn
+lf
+j kitty
+v kitty.conf
+ipconfig\
+P\
+
+P
+paru -Qp
+paru -Pi
+paru -Ps
+paru -Pd
+paru -Pp
+Paru -P
+paru -Pr
+paru -T
+paru -T
+paru -T vim
+john
+qe
+fifm
+man fifm
+man fifm
+man --update
+man --update
+man fifm
+fm
+man fm
+fm --help
+airgeddon --help
+sudo airgeddon
+paru ettercap
+paru hostapd
+echo "\
+\
+Optional tools: checking... \
+bettercap .... Ok\
+ettercap .... Error (Possible package name : ettercap / ettercap-text-only / ettercap-graphical)\
+dnsmasq .... Ok\
+hostapd-wpe .... Error (Possible package name : hostapd-wpe)\
+beef-xss .... Ok\
+aireplay-ng .... Ok\
+bully .... Error (Possible package name : bully)\
+nft .... Ok\
+pixiewps .... Error (Possible package name : pixiewps)\
+dhcpd .... Error (Possible package name : isc-dhcp-server / dhcp-server / dhcp)\
+asleap .... Error (Possible package name : asleap)\
+packetforge-ng .... Ok\
+hashcat .... Ok\
+wpaclean .... Ok\
+hostapd .... Error (Possible package name : hostapd)\
+tcpdump .... Ok\
+etterlog .... Error (Possible package name : ettercap / ettercap-text-only / ettercap-graphical)\
+tshark .... Ok\
+mdk4 .... Ok\
+wash .... Error (Possible package name : reaver)\
+hcxdumptool .... Error (Possible package name : hcxdumptool)\
+reaver .... Error (Possible package name : reaver)\
+hcxpcapngtool .... Ok\
+john .... Ok\
+crunch .... Error (Possible package name : crunch)\
+lighttpd .... Error (Possible package name : lighttpd)\
+openssl .... Ok\
+\
+Your distro has the essential tools but it hasn't some optional. The script can continue but you can't use some features. It is recommended to install missing tools \
+Press [Enter] key to continue...^[[D^[[D^[[D^[[D       " > "tools-for-airgeddon" 
+ll
+b tools-for-airgeddon
+powermenu-change-theme
+cd .config/powermenu
+ll
+cd change
+ll
+cd sha
+..
+cd shared
+ll
+..
+powermenu-change-colors
+sudo powermenu-change-colors
+fd powermenu /
+...
+cd bin
+ll
+./powermenu-change-colors
+b powermenu-change-colors
+b powermenu-change-style
+powermenu-change-style
+ll
+..
+ll
+cd .config
+ll
+cd powermenu
+ll
+..
+sudo chmod -R a+x powermenu
+ll
+cd powermenu
+ll
+..
+powermenu-change-style
+cd powermenu/change
+ll
+b powermenu-colors-1
+ll ..
+cd sha
+..
+cd shared
+ll
+cd
+powermenu-change-style
+powermenu-change-colors
+airmon-ng --help
+airmon-ng
+man airmon-ng
+paru packet
+expac --timefmt='%m/%d  -=|=-  %T' '%l\t%n' $(yay -Qq) | sort
+expac --timefmt='%m/%d  -=|=-  %T' '%l\t%n' $(yay -Qq) | sort | bat
+paru
+sudo airmon-ng
+sudo airmon-ng start wlo1
+sudo airmon-ng --help
+sudo airmon-ng
+sudo airodump-ng
+sudo airodump-ng wlo1mon
+paru
+sudo airmon-ng stop wlo1mon
+rclone config
+paru rclone
+rclone config
+rclone --help
+rclone config
+j kitty
+v kitty.conf
+paru xclip
+paru xsel
+xclip --help
+man xclip
+man clipboard
+ya
+man rclone
+rclone bisync
+tldr rclone
+archlinux-tweak-tool
+ll
+b .lyxauth
+ya
+qtconf
+qtconf
+cd Pictures
+l
+ll
+b Screenshots_000.png
+ya
+jnvim
+j nvim
+ll
+cd lua/user
+ll
+..
+..
+cd after/plugin
+ll
+v colorizer.lua
+v colorizer.lua
+ya
+j nvim
+cd  l
+cd after/plugin
+ll
+fzf
+j qtile
+ll
+v config.py
+j plugin
+v colorizer.lua
+qtile
+j qtile
+v config.py
+j qtile
+v config.py
+qtconf
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 & disown
+qtconf
+qtconf
+R oh-my-bash
+qe
+qg back
+qg bash
+paru
+cd nvim
+j nvim
+l
+ll
+ll
+v
+paru dracut
+j plugin
+v which-key.lua
+v
+v
+v
+v
+btop
+qg top
+htop
+j autostart
+ll
+j autostart
+ll
+..
+ll
+..
+cd bin
+ll
+b autostart.sh
+sy
+sya
+xprop
+xprop
+htop
+htop
+htop --help
+htop
+paru feeluown
+paru -S feeluown-full
+R feeluown-full
+rofi --help
+rofi -drun-reload-desktop-cache
+rofi
+man rofi
+j zsh
+v env.zsh
+man bat
+man less
+tldr bat
+sya
+gsdj
+gsettings
+man gsettings
+gsettings list-recursively
+R gsettings
+qg gsett
+R gsettings-desktop-schemas
+mutter
+man mutter
+paru sloop
+paru slop
+paru power manager
+fj;as
+echo $TERM
+xprop
+ya
+rsync --help
+paru syncthing
+paru drivesync
+paru drive sync
+paru drive sync
+paru
+paru kde connect
+paru connect phone
+paru android connect
+connect mobile phone
+paru android phone
+paru kdeconnect
+paru drive sync
+qg docker
+paru docker
+docker pull docker.io/kalilinux/kali-rolling
+docker --help
+docker
+docker
+docker
+docker pull docker.io/kalilinux/kali-rolling
+tldr docker
+docker run
+docker container list --all
+systemctl enable docker
+docker pull docker.io/kalilinux/kali-rolling
+systemctl start docker
+paru
+paru -Sc
+paru drive sync
+paru libgcrypt
+paru drive sync
+S cmake
+S grive
+google sync
+sudo google sync
+paru google sync
+systemctl suspend
+paru drive sync
+paru capacities
+paru capacit
+paru kdeco
+qtconf
+playerctl next
+playerctl --help
+playerctl -a
+playerctl -p
+man playerctl
+playerctl -l
+playerctl play-pause -a
+playerctl play-pause -a
+paru setting
+paru
+xset --help
+man xset
+man xserver
+cd /ibn
+cd /bin
+ll
+ya
+xset s off
+xset -dpms
+cd /
+fd dpms
+paru
+xset s off
+xset -dpms
+autostart
+paru sync folder
+paru google drive
+cd /etc
+sya
+cd .config/powermenu
+ll
+ya
+systemctl suspend
+cd /etc
+sya
+powertop
+sudo powertop
+journalctl
+paru rclone
+qtconf
+rclone-browser --help
+ya
+tldr rclone
+man rclone
+rclone mount 
+rclone config
+rclone mount googledrive:/ ~/G\ Drive
+autostart
+ya
+qtconf
+paru ocr
+tesseract --help
+paru ocr
+frog --help
+R frog
+paru ocr
+paru memory anal
+paru reshacker
+paru resource hacker
+paru process anal
+ya
+S xclip xsel
+S zoxide
+Qe
+aliases
+ll
+cd .bin
+ll
+..
+ya
+ya
+S yazi
+paru htop vim
+S unarchiver fd fzf
+htop
+v
+ll
+hw
+aliases
+lscpu
+free
+freemem
+free
+man free
+psa
+psgrep hi
+psgrep
+free -mt
+free -m
+free -mth
+echo free
+echo $(free)
+free
+free > cat
+free < cat
+cat $(sh free)
+aliases | grep l
+aliases | ripgrep l
+paru ripgrep
+aliases | rg l
+man rg
+rg --files "~/.config/zsh/aliases.zsh" l
+rg --files "/home/corey/.config/zsh/aliases.zsh" l
+cdd .config/zsh
+ll
+cd .config
+ll
+cd zsh
+ll
+b aliases.zsh
+man ripgrep
+man rg
+rg --file=aliases.zsh ps
+man grep
+grep --file=aliases.zsh ps
+grep --file=aliases.zsh
+grep -f aliases.zsh ps
+grep -f aliases.zsh
+man grep
+..
+..
+yazi
+mount /dev/sda3 /mnt/
+mount /dev/sda3 /mnt/
+mount /dev/sda3 /mnt/
+sudo mount /dev/sda3 /mnt/
+cd /mnt
+ll
+cd home-bkups
+ll
+cd newest8-01-24
+ll
+v oldsyspkgs.txt
+ll
+b cat
+rm cat
+ll
+rm .conkyrc
+ll
+mount /dev/sda3 /mnt/
+sudo mount /dev/sda3 /mnt/
+v pkglist.txt
+alias
+alias | grep pacman
+cat ~/.config/zsh/aliases.zsh | grep install
+cat ~/.config/zsh/aliases.zsh | grep sudo pacman
+cat ~/.config/zsh/aliases.zsh | grep "sudo pacman"
+cd .config/zsh
+b aliases.zsh
+paru -S --needed - < pkglist.txt
+paru
+cd /usr/lib
+cd polkit-gnome
+ll
+./polkit-gnome-authentication-agent-1 & disown
+paru
+paru -S --needed - < pkglist.txt
+paru -S --needed - < pkglist.txt
+R glxinfo
+paru -S --needed - < pkglist.txt
+paru -S --needed - < pkglist.txt
+qg shell-col
+R shell-color-scripts-git
+paru -S --needed - < pkglist.txt
+cd .config/rofi
+ll
+cd themes
+ll
+cd /usr/share/rofi/themes
+cp ~/.config/rofi/themes ./
+cp -r ~/.config/rofi/themes ./
+sudo cp -r ~/.config/rofi/themes ./
+ll
+ll
+sya
+ya
+paru clone phone
+paru clone
+paru sim
+paru sim auth
+fd polkit /
+fd polkit /
+cd /mnt
+ll
+ya
+umount /dev/sda3
+sudo umount /dev/sda3
+sudo umount /mnt/
+fd polkit /
+cd /usr/lib
+fd polkit
+cd xfce-polkit
+ll
+./xfce-polkit
+xprop
+R xfce-polkit-git
+paru polkit
+cd /usr/lib
+fd polkit
+./polkit-kde-authentication-agent-1
+./polkit-kde-authentication-agent-1 & disown
+cd /
+./usr/lib/polkit-1/polkit-agent-helper-1 & disown
+./usr/lib/polkit-kde-authentication-agent-1 & disown
+cd /etc/xdg/autostart
+ll
+sya
+cd /usr/lib
+fd polkit
+paru redragon mouse
+pacui
+mouse_m908 --help
+mouse_m908 R
+mouse_m908 -R
+sudo mouse_m908 -R
+sudo mouse_m908 -bd
+lsusb
+sudo mouse_m908 --bus=001 --device=006 -R
+sudo mouse_m908 --bus=001 --device=006 --read=-
+sudo mouse_m908 --bus=001 --device=006 --read=mouse.conf
+ll
+b mouse.conf
+v mouse.conf
+sv mouse.conf
+b mouse.conf
+mouse_m908 --help
+mouse_m908 --bus=001 --device=006 --config=mouse.conf
+sudo mouse_m908 --bus=001 --device=006 --config=mouse.conf
+sv mouse.conf
+sudo mouse_m908 --bus=001 --device=006 --config=mouse.conf
+sudo mouse_m908 --bus=001 --device=006 --read=-
+sv mouse.conf
+mouse_m908 --help
+man mouse_m908
+cd /usr/share/doc/mouse_m908
+ll
+ya
+sya
+sya
+paru --devel -Syu
+cd /etc/snapper
+l
+ll
+cd configs
+ll
+b root
+sudo snapper --help
+btrfs subvolume list /
+btrfs subvolume list /
+sudo btrfs subvolume list /
+sudo snapper create-config --help
+man snapper
+sudo snapper create-config @
+sudo snapper create-config /
+sudo snapper create-config /home
+sudo snapper create-config /cache
+sudo snapper create-config /var/cache
+ll
+sudo snapper create-config -c home /home
+sudo snapper --list-configs
+snapper --list-configs /
+snapper --list-configs 
+snapper list --all-configs
+sudo snapper list --all-configs
+...
+cd conf.d/sn
+cd conf.d
+ll
+sv snapper
+sudo snapper --config home create-config @home
+btrfs subvolume list /
+sudo btrfs subvolume list /
+sudo snapper --config home create-config /home
+sudo snapper --config cache create-config /var/cache
+sudo snapper --config cache create-config /var/log
+sudo snapper --config log create-config /var/log
+..
+cd snapper
+ll
+cd config
+ll
+cd config
+cd configs
+ll
+sv root
+sv home
+sv log
+sv cache
+sv log
+fd redragon
+fd MOUSE
+ll
+cd bin
+lll
+ll
+cd appimages
+ll
+./vial.AppImage
+ll
+sv mouse.conf
+lsusb
+sudo mouse_m908 --bus=001 --device=006 --read=-
+man mouse_m908
+cd /usr/share/doc/mouse_m908
+ll
+ya
+nvim
+cd /usr/share/doc/mouse_m908
+sv README.md
+paru wine
+cd /etc
+sv pacman.conf
+paru xf86
+sv paru.conf
+man paru.conf
+man bat
+bat --list-themes
+cd .config/bat
+ll
+mkdir themes
+cd themes
+bat cache --build
+bat cache --build
+cd
+bat --list-themes
+bat cache --build
+bat --list-themes
+man bat
+cd .config/bat
+ll
+v config
+man bat
+bat --l l
+bat --list-themes
+bat --theme Everblush
+bat --theme Everblush
+man bat
+bat --theme=Everblush
+cd .config/bat
+ll
+v config
+v config
+b .zshrc
+j bat
+ya
+bat cache --build
+b .bashrc
+b .zshrc
+ll
+rm pkglist.txt
+b .dmrc
+ya
+ya
+wine --help
+wine
+man .screenrc
+man screenrc
+man screen
+cd /usr/local
+ll
+cd etc
+ll
+lll
+ll
+ll
+sya
+col --help
+qtconf
+qtconf
+paru
+lsblk
+sudo mount /dev/sda3 /run/media/corey/btrfs-ssd
+fd virtualbox /
+cd /usr/share/virtualbox
+ll
+ya
+aliases
+paru ocr
+S xfce4-appfinder
+qg conk
+R arcolinux-conky-collection-git conky-lua-archers
+qg var
+R variety arconet-variety-config
+ya
+cd .config/nvim/lua/user
+ll
+v options.lua
+cd .local/share
+ll
+aliases
+cd .local
+cd share
+ll
+srmrf nvim_1
+sudo rm -rf nvim_1
+ll
+paru trash
+ll
+nvim
+rmrf nvim
+ll
+v
+ll
+chown --help
+cat ~/.config/zsh/aliases.zsh | grep "sudo"
+man grep
+qtconf
+paru zaproxy
+R arcolinux-btop-git arcolinux-config-all-desktops-git arcolinux-dconf-all-desktops-git arcolinux-fonts-git arcolinux-hblock-git
+pacui
+paru -Sc
+paru -Scc
+paru -Sc
+paru -R neovim-nightly-bin
+ya
+cd .cache
+ll
+srmrf nvim
+ll
+..
+cd .local/state
+ll
+rmrf nvim
+..
+cd share
+ll
+rmrf nvim
+ll
+..
+ll
+..
+ll
+cd .config
+ll
+cd nvim
+ll
+..
+paru neovim-ni
+S python-neovim ruby-neovim
+v
+v .zshrc
+cd .cache
+ll
+..
+cd .local/share
+ll
+zle
+zle --help
+man zle
+cd .config/nvim/lua/user
+ll
+v init
+v lazy.lua
+...
+cd after/plugin
+ll
+rm which-key.lua
+ll
+.....
+cd .local
+ll
+cd share
+ll
+rmrf nvim
+ll
+..
+cd state
+ll
+rmrf nvim
+ll
+..
+..
+cd .cache
+ll
+rmrf nvim
+ll
+v .zshrc
+cd
+v .zshrc
+qg za
+zaproxy --help
+R blueberry
+cd 
+ll
+cd .config
+ll
+cd autostart
+ll
+mod a-x copyq.desktop
+ll
+cd /etc/xdg/autostart
+ll
+sya
+S stacer-bin
+R cups cups-filters cups-pdf
+R cups cups-filters cups-pdf gutenprint
+R snapd snapd-glib snap-pac
+R zaproxy-weekly
+paru zap
+paru owasp
+paru zaproxy
+lsblk
+mount /dev/sda3 /run/media/corey/btrfs-ssd
+sudo mount /dev/sda3 /run/media/corey/btrfs-ssd
+dmesg
+sudo dmesg
+fsck --help
+fsck
+fsck -V /dev/sda3
+sudo fsck -V /dev/sda3
+btrfs check --help
+btrfs check /dev/sda3
+sudo btrfs check /dev/sda3
+lsblkl
+lsblk
+sudo btrfs check /dev/sda3
+sudo mount -o recovery /dev/sda3 /mnt
+sudo mount -o recovery,ro /dev/sda3 /mnt
+sudo btrfs check --repair /dev/sda3
+sudo mount -o rescue,ro /dev/sda3
+lsblk
+cd /dev
+ll
+cd disk
+ll
+..
+cd disk
+ll
+cd by-id
+ll
+cd /etc/
+b fstab
+blkid
+sudo mount -o rescue,ro /dev/sda3 /mnt
+sudo mount -o rescue --help
+man mount
+sudo btrfs rescue super-recover /dev/sda3
+sudo btrfs rescue chuck-recover /dev/sda3
+sudo btrfs inspect-internal /dev/sda3
+sudo btrfs inspect-internal dump-tree /dev/sda3
+qtconf
+qtconf
+xdo --help
+man xdo
+tldr xdfo
+tldr xdo
+tldr --update
+..
+ll
+me corey
+ll
+ya
+cd corey
+ll
+cd .cache
+ll
+me root
+me BraveSoftware
+ll
+..
+..
+meR corey
+cd corey
+ll
+cd .cache
+ll
+..
+cd .local
+ll
+cd share
+ll
+....
+tldr xdo
+tldr --update
+tldr xdo
+xdo key 'esc'
+xdo key-press 'esc'
+man xdo
+paru keycodes
+paru key code
+man xkbd
+paru xkbd
+qttest
+logout
+man logout
+tldr logout
+cd /bin
+betterlockscreen
+qtile --help
+xkill qtile
+pkill qtile
+qtconf
+qtconf
+pkill qtile
+qtconf
+pkill qtile
+qtconf
+cd .config/powermenu
+ll
+v powermenu.sh
+man pamixer
+estart
+pamixer --help
+man playerctl
+playerctl pause
+cd /etc
+cd sddm
+sya
+cd /
+fd suspend /
+cd /usr/lib/udev
+ll
+cd hwdb.d
+ll
+ya
+paru testdisk
+testdisk
+cd /dev
+ll
+cd disk
+ll
+cd by-id
+ll
+cd sda3
+b sda3
+b usb-Seagate_Expansion_NZ0FSTPE-0:0-part3
+sudo -E bat usb-Seagate_Expansion_NZ0FSTPE-0:0-part3
+paru photorec
+paru disk rescue
+paru disk restore
+paru partition fix
+paru partition rescue
+paru btrfs rescue
+fsck.btrfs --help
+man fsck.btrfs
+sudo btrfs scrub /dev/sda3
+sudo btrfs scrub start /dev/sda3
+sudo btrfs check
+sudo btrfs check /dev/sda3
+smartctl
+smartctl /dev/sda3
+sudo smartctl /dev/sda3
+man smartctl
+cd
+xdg-settings
+man xdg-settings
+xdg-settings --list
+cd /etc
+sv environment
+cd /etc
+sv profile
+alias
+env
+xterm-kitty
+qg xt
+R signon-kwallet-extension
+testdisk
+testdisk
+dd --help
+man dd
+tldr dd
+man dd
+cd Personal
+ll
+mkdir old-data
+ll
+\
+sudo dd if=/dev/sda3 of=/home/corey/Personal/old-data/sda3.img bs=4M status=progress
+btrfs check /dev/sda3
+sudo btrfs check /dev/sda3
+testdisk
+lsblk
+fdisk
+sudo fdisk /dev/sda3
+cfdisk
+sudo cfdisk /dev/sda3
+hwinfo
+sudo btrfs check --repair /dev/sda3
+btrfs check --help
+fsck.btrfs --help
+fsck.btrfs /dev/sda3
+fsck.ext4 --help
+fsck.ext4 -p /dev/sda3
+sudo fsck.ext4 -p /dev/sda3
+cd old-data
+ll
+df --help
+df /dev/sda3
+df
+df -a
+env | grep TERM
+cd /etc
+rg TERM
+cd /
+rg TERM
+rg --help
+cd /opt
+rg TERM
+rg TERM=
+cd /
+fd TERM=xterm
+fd TERM=
+rg TERM=xterm
+cd sys
+rg TERM=
+\
+\
+
+cd /
+ll
+cd usr
+rg TERM=xterm
+sudo rg TERM=xterm
+cd /etc/
+sv profile
+sya
+qtconf
+pkill brave
+paru foremost
+qg pho
+expac --timefmt='%m/%d  -=|=-  %T' '%l\t%n' $(yay -Qq) | sort | bat
+scalpel --help
+scalpel
+foremost --help
+man foremost
+paru repair
+paru rescue tool
+paru recovery too
+paru sth
+cd Personal/old-data
+ll
+me sda3.img
+ll
+me image.dd
+ll
+..
+ll
+cd Ventoy-transfered
+ll
+cd ventoy
+ll
+v ventoy.json
+sudo photorec /home/corey/Personal/old-data/sda3.img
+xset s noblank
+paru caffiene
+paru caffeine
+pkill NormCap
+htop
+paru pulsectl
+paru -Sc\ 
+paru -Sc
+paru pulsectl
+S caffeine-ng
+paru
+epacman
+paru
+S caffeine-ng
+cd Personal/old-data
+ll
+ya
+photorec
+ya
+paru gui calc
+paru calculator
+qtconf
+pkill qtile
+qtconf
+pkill qtile
+qtconf
+pkill qtile
+qtconf
+pkill qtile
+systemctl reboot
+qtconf
+pkill qtile
+ya
+paru
+paru
+qtile --help
+qtile check
+qtconf
+qtile check
+cd .local/share
+ll
+cd qtile
+ll
+..
+cd qtile
+ll
+b qtile.log
+..
+..
+cd state
+ll
+...
+cd .cache
+ll
+cd qtile
+ll
+cd
+paru -Rns qtile
+paru -Rns qtile qtile-extras
+paru -)sc
+paru -Sc
+cd .local/state
+ll
+..
+cd share
+ll
+cd qtile
+ll
+b qtile.log
+cd
+paru qtile
+paru qtile
+qtile start
+qtile check
+paru python
+paru libqtile
+paru libpulse
+paru python mypy
+paru mypy python
+paru pip
+paru pip python
+expac --timefmt='%m/%d  -=|=-  %T' '%l\t%n' $(yay -Qq) | sort | bat
+paru -Ss python py 3
+paru -Ss python pypy | bat
+paru -Ss python pypy | bat
+paru -S --needed pypy3 pypy3-packaging pypy3-pip pypy3-psutil pypy3-pyparsing pypy3-setuptools
+qg pypy
+S pypy3-pip pypy3-pip
+pypy3
+paru -Sc
+paru -Ss pypy3
+paru pypy3
+ya
+qtconf
+pkill qtile
+paru -Sc
+expac --timefmt='%m/%d  -=|=-  %T' '%l\t%n' $(yay -Qq) | sort | bat
+pip3 list
+pip3 list | bat
+pip3 install libqtile
+paru python-libqtile
+paru libqtile
+paru libpulse
+qtile check
+qttest
+S jetbrains-mono-nerd-font
+paru jetbrains mono
+paru jetbrains nerd
+paru hack nerd font
+paru nerd font
+paru -Ss nerd font | bat
+paru -S nerd-fonts
+reboot
+pkill qtile
+qttest
+qtile check
+cd .config
+ll
+cd qtile
+ll
+cd __pycache__
+ll
+..
+l
+ll
+trash -R __pycache__
+ll
+...
+cd .local/share
+ll
+S trash-cli
+cd Trash
+ll
+cd files
+ll
+rm --help
+ealiases
+dmesg
+sudo dmesg
+nl --help
+rip
+man expac
+expac -S
+man expac
+man expac
+expac -QH -l '  |  ' --timefmt %l %n %m %w
+expac -Q -H M -l '  |  ' --timefmt %l %n %m %w
+expac -Q -H M -l '  |  ' %l %n %m %w
+expac -H M -l '  |  ' %l %n %m %w
+expac
+expac -Q -H M -l '  |  ' %l %n %m %w | cat
+expac -H M %b 
+expac -H M %b %n %w | sort -n
+expac -H M %b %n %w | sort -n | bat
+paru gnome
+paru gnome desktop
+qg gnome
+S gnome
+paru gkms
+paru permission tool
+paru permission
+S pspy
+S pspy
+cd
+cd .local/share
+cd qtile
+ll
+pkill qtile
+pkill qtile
+htop
+cd
+cd /usr/lib/polkit-gnome/
+ll
+./polkit-gnome-authentication-agent-1 & disown
+R qtile qtile-extras-git
+t
+quit
+ya
+lsblk
+cd Personal
+ll
+cd old-data\(sda3\)broken
+ll
+cd recup_dir.1
+ll
+..
+ll
+..
+ll
+meR old-data\(sda3\)broken
+ll
+cd old-data
+cd old-data\(sda3\)broken
+ll
+..
+ll
+cd old-data-dump\(sda3\)broken
+ll
+..
+ll
+meR old-data-dump\(sda3\)broken
+cd Ventoy-transfered\(sda1\)
+ll
+cfdisk
+sudo cfdisk
+cd /
+cd
+fd btrfs-ssd.img
+fd .img
+cd .local/share
+ll
+cd Trash
+ll
+cd files
+ll
+..
+cd info
+ll
+...
+..
+..
+ll
+b photorec.se2
+b testdisk.log
+lsblk
+sudo smartctl -t /dev/sda
+man smartctl
+tldr smartctl
+sudo smartctl --test short /dev/sda
+sudo smartctl --info /dev/sda
+sudo smartctl --info /dev/sda1
+sudo smartctl --test short /dev/sda1
+sudo smartctl --all /dev/sda
+sudo smartctl --all /dev/sda1
+sudo parted /dev/sda
+testdisk
+fdisk
+fdisk /dev/sda
+sudo fdisk /dev/sda
+kjffksdj
+paru ventoy
+lsblk
+lsblk
+sudo bash VentoyPlugson.sh /dev/sda1
+cd /run/media/corey/Ventoy
+ll
+ll
+..
+ll
+cd VTOYEFI
+ll
+ll
+cd tool
+ll
+..
+cd ventoy
+ll
+..
+ya
+ya
+paru
+paru firmware
+ya
+paru -Qqe > pkgs.txt
+ll
+v pkgs.txt
+ll
+fsdfsdfsdf
+b newpkglist.txt
+ya
+ya
+lsblk
+cd /mnt
+ll
+mkdir sda1
+sudo mkdir sda1
+sudo mkdir sda2
+mount /dev/sda1 /mnt/sda1
+udo mount /dev/sda1 /mnt/sda1
+sudo mount /dev/sda1 /mnt/sda1
+sudo mount /dev/sda2 /mnt/sda2
+lsblk
+ll
+cd sda1
+ll
+ll
+cd iso
+ll
+ya
+sudo yazi
+v
+ll
+cd .config
+ll
+exit
+v
+nvim
+cd .config/nvim
+ll
+b lazy-lock.json
+b init.lua
+cd lua/user
+ll
+b options.lua
+b lazy.lua
+l
+ll
+b keymaps.lua
+ll
+b init.lua
+nvim
+nvim
+echo $USER
+...
+ll
+cd lua
+ll
+cd user
+ll
+..
+..
+ll
+cd after
+ll
+cd plugin
+ll
+..
+ll
+cd ftplugin
+ll
+ll
+...
+..
+..
+ll
+cd .cache
+ll
+cd nvim
+ll
+cd luac
+ll
+ll
+ll | b
+..
+ll
+..
+ll
+..
+cd .local
+ll
+cd share
+ll
+cd nvim
+ll
+cd harpoon
+ll
+me 2824684de3d1a19390ca88cf826e77c6f750657e552edb83d466666c37521a08.json
+ll
+..
+ll
+cd lazy
+ll
+..
+cd tree-sitter-vim
+ll
+cd .github
+ll
+cd workflows
+ll
+..
+..
+ll
+bindings
+ll
+c
+ll
+cd c
+ll
+..
+cd go
+ll
+..
+cd python
+ll
+..
+cd rust
+ll
+...
+cd src
+ll
+cd tree_sitter
+ll
+...
+ll
+cd queries
+ll
+..
+cd rules
+ll
+..
+..
+..
+..
+..
+ll
+..
+meR corey
+cd ~/Personal
+ll
+fd *.pdf
+fd '*.pdf'
+fzf
+fzf
+ll
+cd old-data\(sda3\)broken
+fzf
+ll
+cd corey
+ll
+b testdisk.log
+ll
+mv testdisk.log /mnt/sda1/
+sudo mv testdisk.log /mnt/sda1/
+cd /mnt/sda1
+ll
+cp ~/testdisk.log ./
+ll
+cd
+ll
+mv pkgs.txt /mnt/sda1
+sudo mv pkgs.txt /mnt/sda1
+cd /mnt/sda1
+ll
+sudo yazi
+paru zinit
+v pkgs.txt
+paru -Qqe
+paru -Qqe | bat
+paru -Qqe | bat
+qg vim
+R vim vim-runtime
+paru neovim-nightly
+cd .config/paru
+v paru.conf
+cd
+cd .config
+cd nvim
+cd lua
+cd user
+ls -la
+ya
+nvim
+nvim
+nvim
+cd ..
+cd ..
+cd after
+ll
+cd plugin
+ll
+nvim
+cd ..
+cd ..
+cd ..
+cd ..
+cd .local
+cd share
+rm -rf nvim
+nvim
+cd ..
+cd ..
+yazi
+cd .confifg
+cd .config
+ll
+mod -x user-dirs.dirs
+ll
+mod -x user-dirs.locale
+ll
+mod -x picom.conf
+mod -x appimagelauncher.cfg
+ll
+cd bin
+..
+cd bin
+ll
+..
+ll
+cd .cargo
+ll
+..
+b .zshrc
+cd .config/bat
+ll
+v config
+cd ..
+..
+b .zshrc
+paru less
+cd .config/bin
+cd .config/bat
+ll
+v config
+..
+..
+cd /run/media/corey/Ventoy
+ll
+ya
+cd new-system
+ll
+cp newpkglist.txt ~/pkglist.txt
+cd
+ll
+mod -x pkglist.txt
+ll
+ll
+b pkgs.txt
+paru --needed --batchinstall -S - < pkgs.txt
+paru brave
+ya
+brave
+cd .cache
+ll
+ya
+brave
+cd .config
+ya
+brave
+b pkgs.txt
+S alsa-firmware alsa-lib alsa-plugins alsa-utils
+paru --needed -S blueman bluez bluez-deprecated-tools bluez-libs bluez-obex bluez-utils gksu intel-ucode inxi lm_sensors lsb-release most normcap pacui pamixer trash-cli udisks2 udiskie 
+paru --needed -S blueman bluez bluez-deprecated-tools bluez-libs bluez-obex bluez-utils gksu intel-ucode inxi lm_sensors lsb-release most normcap pamixer trash-cli udisks2 udiskie 
+ya
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 & disown
+brave
+ya
+cd .cache/git
+git clone https://github.com/sxyazi/yazi.git
+ya
+paru file
+S file
+paru --needed -S nerd-fonts ffmpegthumbnailer 7-zip jq poppler fd ripgrep ripgrep-all rg fzf zoxide imagemagick
+S copyq
+expac --timefmt='%m/%d  -=|=-  %T' '%l\t%n' $(yay -Qq) | sort | bat
+R yazi
+paru yazi
+paru archlinux-tweak
+ya
+sya
+paru
+paru --needed --batchinstall -S - < pkgs.txt
+v pkgs.txt
+paru --needed --batchinstall -S - < pkgs.txt
+v pkgs.txt
+paru --needed --batchinstall -S - < pkgs.txt
+v pkgs.txt
+paru --needed --batchinstall -S - < pkgs.txt
+sya
+paru --needed --batchinstall -S - < pkgs.txt
+cd .config
+ll
+rm -rf BraveSoftware
+ll
+..
+ll
+cd .cache
+ll
+..
+ll
+cd .local
+ll
+cd share
+ll
+..
+cd state
+ll
+...
+ll
+bin
+ll
+..
+cd .gnupg
+ll
+..
+ll
+rm .bashrc.bak
+ll
+rm .zshrc.bak
+ll
+cd .config
+ll
+exp
+expac --timefmt='%m/%d  -=|=-  %T' '%l\t%n' $(yay -Qq) | sort | bat
+paru gdm-plymouth
+S glow
+qtconf
+brave
+cd .config
+ll
+cd .config
+ll
+cd BraveSoftware
+ll
+..
+rm -rf BraveSoftware
+mv BraveSoftware_1 BraveSoftware
+ll
+cd BraveSoftware
+ll
+cd Brave-Browser
+ll
+brave
+cd ShaderCache
+ll
+..
+ya
+paru xsession
+paru session
+ya
+cd /etc
+v pacman.conf
+cd
+ll
+sv temp.conf
+rm temp.conf
+b /etc/pacman.conf
+paru session
+paru xorg
+paruz
+paruz
+ll
+cd .config
+ll
+xdg-user-dirs-update
+ll
+cd
+ll
+xdg-user-dirs-update --help
+cd )Downloads
+ll
+cd Downloads
+ll
+mv Everblush.tmTheme ~/.config/bat
+cd ~/.config/bat
+ll
+mv Everblush.tmTheme themes
+cd themes
+ll
+mod a+x Everblush.tmTheme
+ll
+cd
+bat cache --build
+xdg-user-dirs-update --help
+xdg-user-dirs-update
+cd
+ll
+xdg-user-dirs-gtk-update
+ll
+xdg-user-dir --help
+xdg-user-dir
+xdg-settings
+xdg-settings --help
+xdg-settings --list
+paru kwallet
+kwallet
+kwalletd6
+cd .config
+ll
+ya
+ya
+paru
+systemctl
+paru x11
+ll
+ya
+xdg-dbus-proxy --help
+paru pam
+paru libpam
+paru singleton
+paru dbus
+cd /etc/xdg/autostart
+ll
+sya
+reboot
+cd .config
+ll
+ya
+htop
+ya
+cd bin
+ll
+v autostart.sh
+xset --help
+xset s off
+xset s noblank
+xset -dpms
+htop
+sya
+powermenu-change-style
+cd /
+fd powermenu-change-style /
+cd
+cd .config/powermenu
+ll
+cd change
+ll
+b powermenu-colors-1
+ya
+ll
+sh powermenu-style-5
+expac --timefmt='%m/%d  -=|=-  %T' '%l\t%n' $(yay -Qq) | sort | bat
+fpf
+cd /etc
+sv environment
+j zsh
+cd .config
+cd zsh
+l
+ll
+b env.zsh
+sv profile
+cd
+fd python
+fd python /
+ya
+python-argcomplete-check-easy-install-script
+python3-config
+python3
+fish
+paru fish
+S pkgfile
+S pkg
+paruz
+pacui
+cd
+paruz
+paruz pkg
+paruz
+exp
+expac --timefmt='%m/%d  -=|=-  %T' '%l\t%n' $(yay -Qq) | sort | bat
+R pkgdiff wdiff
+paruz
+paruz
+S python3-colorsysplus
+paru -Qii pkgsync
+pacui
+pkgsync --help
+pkgsync --help
+sudo pkgsync --help
+ll
+pkgbrowser
+comm --help
+sort --help
+cd /temp
+cd /tmp
+ll
+b pkg_install.list
+pkgsync
+sudo pkgsync
+b pkg_install.list
+cd /etc/
+ll
+cd pkgsync
+ll
+ya
+sya
+pkgfile --help
+pkgfile -l harfbuzz
+pkgfiled --help
+pkgfiled -o
+pkgfiled -o harfbuzz
+pkgfiled -o -h
+man pkgfiled
+man pkgfile
+info pkgfile
+tldr --update
+tldr pkgfile
+sudo pkgfile --update
+pkgfile harfbuzz
+pkgfile --list  harfbuzz
+paru -Sii harfbuzz
+paru pkginfo
+aliases
+ealias
+ealiases
+cd .config/zsh
+ll
+v aliases.zsh
+config log
+ya
+config log
+ll
+config whatchanged
+config citool
+paru wish
+paru git wish
+paru python wish
+config citool
+cd /usr/lib/git-core
+ll
+b git-citool
+cd .config/bat
+ll
+v config
+bat --help
+config citool
+acd /usr/lib/git-core
+ll
+cd /usr/lib
+cd git-core
+ll
+b git-citool
+pkgfile --help
+pkgfile --search wish
+paru tk
+config citool
+paruz
+paruz
+pkghist
+pacfinder
+pacfo
+pacfo --help
+man pacfo
+pacfo -h
+pacfo pytile
+pacfo qtile
+tldr pacfo
+tldr --update
+tldr pacfo
+pacfo --help
+pacfo help
+R pacfo
+paru -R pacfo-git
+paclist
+pachist
+pkglist
+pkghist
+pkgfile --list pac-util
+paru -Sii pac-util
+pacui
+pac
+cd
+cd .config
+ll
+cd yay
+ll
+v config.json
+man yay
+man yay
+man
+paru man
+paru -S man-db man-pages
+man
+man --update
+man --update
+man man
+man man
+man yay
+..
+cd paru
+ll
+v paru.conf
+vifm
+S vifm
+vifm
+estart
+estart
+estartup
+ealiases
+ll
+b env.zsh
+b .zshrc
+v aliases.zsh
+cd bin
+ll
+b autostart.sh
+S subprocess
+echo $EDITOR
+env
+env | bat
+eqtile
+paru notify
+paru dunst
+paru notification
+statnot --help
+cd .config
+ll
+man statnot
+tldr statnot
+tldr --update
+tldr statnot
+paru deadd
+paru notification
+paruz
+sudo systemctl enable deadd-notification-center
+sudo systemctl enable deadd-notification
+sudo systemctl enable deadd
+fd deadd /
+sudo systemctl enable deadd-notification-center.service
+man deadd-notification-center
+deadd-notification-center --help
+deadd-notification-center --help
+deadd-notification-center -h
+deadd-notification-center
+deadd-notification-center & disown
+cd. config
+ll
+cd .config
+ll
+cd /etc
+cd xdg
+cd deadd
+ll
+..
+ll
+sudo cp -r deadd/ ~/.config/
+cd
+cd .cofnig
+cd .config
+ll
+cd dea
+ll
+me +rwx
+me -R +rwx dead
+me -R +rwx deadd
+sudo chown -R corey:corey deadd
+ll
+cd deadd
+ll
+b deadd.css
+R xfce4-notifyd
+R xfce4-notifyd xfce4-power-manager
+systemctl 
+systemctl --all
+systemctl enable deadd-notification-center.service
+ya
+ya
+cd .config/yaz
+cd .config/yazi
+ll
+v yazi
+v yazi.toml
+pamixer --help
+pamixer --list-sources
+systemctl restart  l
+systemctl restart pulseaudio.service
+systemctl restart pipewire.service
+deadd-notification-center
+cd /etc/xdg/autostart
+ll
+dex --help
+dex -c /usr/bin/deadd-notification-center
+sudo dex -c /usr/bin/deadd-notification-center
+ll
+b deadd-notification-center.desktop
+kill --help
+kill -l
+kill -s USR1 $(pidof deadd-notification-center)
+kill -s USR1 $(pidof deadd-notification-center)
+kill -s USR1 $(pidof deadd-notification-center)
+kill -s USR1 $(pidof deadd-notification-center)
+kill -s USR1 $(pidof deadd-notification-center)
+kill -s USR1 $(pidof deadd-notification-center)
+qtconf
+qtconf
+deadd-notification-center & disown
+cd bin
+ll
+v notify-toggle.sh
+cd
+notify-toggle.sh
+cd bin
+ll
+mod a+x notify-toggle.sh
+ll
+cd
+notify-toggle.sh
+notify-toggle.sh
+cd .config/zsh
+v env.zsh
+paru notify-send
+paru -R --interactive
+pkgtop
+qg pkg
+pkgbrowser
+R pkgbrowser
+pkgctl
+pkgctl aur
+R pkgctl
+pkgstat
+R pamac-all-git-debug paru-bin-debug
+pkgstat
+pacat --help
+pacback --help
+pacback -c 1 -l '8/20/24 Fresh install and pkgs installed/configs added'
+sudo pacback -c 1 -l '8/20/24 Fresh install and pkgs installed/configs added'
+pacfinder
+pacgui.sh
+paru
+paru
+htop
+paru
+ps
+ps --all
+ps list
+ps --list
+man ps
+ps -A
+ps -A | grep pac
+pkill pacman
+paru
+paru
+ps -e
+paru
+paru
+sudo pacman -Sy
+paru
+cd /var/lib/pacman
+ll
+rm db.lck
+rm db.lck
+sudo rm db.lck
+ll
+paru
+paccache --help
+paccache -rk2v
+paccache -rvk 2
+paccache
+paccache -r
+paru -Sc
+paru
+paru
+man paru
+paru --skippgpcheck
+man paru
+paru -mflags "--skippgpcheck"
+paru --mflags "--skippgpcheck"
+paru -Syu --mflags "--skippgpcheck"
+sya
+sya
+paru
+paru
+sya
+sya
+paru
+sya
+paru
+paru linux
+pacman -Qdt
+man pacman
+paru -Qdt
+paru -Qdtt
+paru -Qdt
+paru -R $(paru -Qdt)
+paru -R $(paru -Qqdt)
+paru -R --interactive $(paru -Qqdt)
+paru --interactive -R $(paru -Qqdt)
+paru -R $(paru -Qqdt)
+paru tor
+cd .config/paru
+v paru.conf
+paru pacman
+y
+paru
+paru pacman
+S reflector python3-aur
+cd /etc/
+sv pacman.conf
+cd /.config
+cd 
+cd .config/paru
+v paru.conf
+paruz
+paru
+pkg-listn --help
+pkg-listn
+R pkg-listn
+pkgconf
+pkgconf pkgbrowser
+pkgconf --help
+R pkgconf
+pkg-config --help
+pkg-config --list-all
+pkgdata --help
+pkghist
+pkghist --help
+pkghist -o compact
+pkghist -o json
+pkghist -o compact
+pkghist --help
+pkghist -o compact -L 1
+pkghist -o compact -L 1 | bat
+trizen --help
+man trizen
+cd .config
+cd trizen
+ll
+v trizen.conf
+man sudo
+paru highlight
+trizen
+trizen todo
+tr --help
+ealiases
+aur wine mono
+aur
+aur -Syu
+pkghist -o compact -L 1 | bat
+ealiases
+pkghist --help
+pkghist -o compact -L 1 --last 50 | bat
+pkghist -o compact -L 1 --last 50 | bat
+pkghist -o compact -L 1 --last 50
+pkghist -o compact -L 1 --last 25
+pkghist -o compact -L 1 --last 25
+pkghist -o compact -L 1 --last 20
+pkghist -o plain -L 1 --last 20
+pkghist -o plain -L 1 --last 10
+pkghist -o compact -L 1 --last 10
+pkghist --no-details
+aur dosbox
+aliases
+ealiases
+j trizen
+ll
+eaur
+eaur
+eaur
+eaur
+aur tri
+aur tri
+aur tri
+aur tri
+j paru
+v paru.conf
+paru tri
+eparu
+aur qemu
+yazi --help
+yazi --clear-cache
+ya
+ya
+bat --help
+j bat
+v config
+bat cache --build
+b .zshrc
+paruz
+paruz
+j paru
+v paru.conf
+man paru
+paruz
+fd brave log /
+ya
+ya
+ya
+ya
+j yazi
+v yazi.toml
+ya
+ya
+paru xkill
+xkill
+brave --help
+man brave
+brave tor
+j rofi
+cd .config
+cd rofi
+ll
+..
+cd powermenu/'\
+'
+cd powermenu
+ll
+cd change
+ll
+sh powermenu-style-1
+sh powermenu-style-2
+sh powermenu-style-3
+sh powermenu-style-4
+sh powermenu-style-6
+sh powermenu-style-7
+sh powermenu-style-1
+sh powermenu-style-2
+sh powermenu-style-3
+sh powermenu-style-4
+sh powermenu-style-5
+sh powermenu-style-6
+sh powermenu-style-1
+paru
+paruz arch theme
+j paru
+v paru.conf
+qg p
+pkgfile --list paczf
+pacui
+pacget
+pacinstall --help
+pacinstall arch theme
+aur arch theme
+paruz --help
+paruz --sort-by name
+paru nerd-fonts
+R fluent-gtk-theme
+qg fluent
+paruz mouse cursor
+xprop
+xprop
+paru appearance theme setting
+paru appearance theme
+paru trasmission
+paru transmission
+paru kvantum
+paru gtk conf
+xprop
+paru gtk conf
+xprop
+pacui
+R kde-gtk-config
+paru gtk theme
+R gtk-theme-config
+R kwallet-pam
+cfdisk /dev/sda
+sudo cfdisk /dev/sda
+sudo cfdisk /dev/sda
+lsblk
+umount /dev/sda1
+lsblk
+umount /dev/sda2
+lsblk
+sudo cfdisk /dev/sda
+lsblk
+shutdown now
+paru disk rebuild
+paruz
+paruz --sort-by name 
+paru photorec
+paru photorec
+photorec
+testdisk
+qg gnome
+paru drive format
+fdisk
+fdisk /dev/sda
+sudo fdisk /dev/sda
+paru gparted
+S gpart
+paru ventoy
+paru tor
+paru tor browser
+cd /run/media/corey/Ventoy
+cd new-system
+ll
+unzip current-home-8.22.24.zip
+qg archiv
+paru zip
+paru unzip
+unzip current-home-8.22.24.zip
+paru p7zip
+p7zipForFilemanager
+p7zipForFilemanager --helpo
+p7zipForFilemanager --help
+pacui
+7z --help
+cd /run/media/corey/Ventoy/new-system
+ll
+7z e current-home-8.22.24.zip
+mkdir personal
+mv current-home-8.22.24.zip personal/
+cd personal
+ll
+7z e current-home-8.22.24.zip
+man 7z
+7z e current-home-8.22.24.zip -o ./
+7z -o "/run/media/corey/Ventoy/new-system/personal/" e current-home-8.22.24.zip
+7z -o corey e current-home-8.22.24.zip 
+7z x current-home-8.22.24.zip
+..
+ll
+me +rwx corey
+mod +rwx corey
+ll
+man cp
+ya
+sudo cp -rpv corey /run/media/corey/Ventoy/new-system/personal
+pkghist --help
+pkghist -L 1 --Last 40 --exclude lib
+pkghist -L 1 --last 40 --exclude lib
+pkghist -L 1 --last 40
+pkghist --help
+pkghist -L 1 -R
+pkghist --help
+pkghist -L 1 --no-details
+pkghist --help
+paccache
+paccache -h
+paccache -rd
+paccache -d
+paru -Sc
+pkghist -L 1 --no-details
+qg vim
+qg htop
+paclog-pkglist
+paclog --help
+paclog --color --grep lib
+paclog
+paclast
+alias
+alias | grep pac
+pkgstail
+tailpkgs
+pkgsnew
+aliases
+ealiases
+pkgsnew
+pkgssortnew
+pkgssortnew
+sortnewpkgs
+sortnewpkgs
+pkgssortnew
+ealiases
+qg
+qqe
+Qqe
+qqe
+Qq
+paru media driver
+paru driver
+paru vesa || mesa
+htop
+paru onedrive
+paru onedrive
+ll
+b pkglist.txt
+ya
+ll
+rm .p7zip
+ll
+b statusline.sh
+b .statusline.sh
+v .statusline.sh
+rm .statusline.sh
+ll
+ll
+ll
+paru wine
+paru wine
+systemctl restart pipewire.service
+inxi -A
+cd .config'\
+'
+cd .config
+ll
+cd fish
+..
+ll
+ya
+fish
+history
+history --help
+man history
+cd j zsh
+j zsh
+ll
+b history
+v .zshrc
+vi
+fg
+man fg
+"%s\n" nvim
+v
+fg
+fg --list
+ya
+fg
+fg
+paruz
+fg
+fg
+fg
+fg
+fg
+a;asfd
+ps
+htop
+fg
+htop
+fg
+fg
+fg
+fg 2
+fg 2
+fg paruz
+dmesg
+bat /var/log/Xorg.0.log | grep -i intel
+cd /var/log
+ll
+ya
+fd Xorg log /
+paru xorg
+paruz
+dmesg | grep -i i915
+journalctl -k | grep -i i915
+S intel-gpu-tools
+pacui
+lsgpu
+qg  intel
+qg mesa
+qg server
+qg driver
+pamixer --list-sources
+pamixer --help
+net --help
+man net
+audio --help
+pamixer
+pulsemixer
+pamixer --list-sources
+systemctl | grep alsa
+reboot
+: 1724897228:0;paru hwdetect
+: 1724897241:0;paru hardware
+: 1724897361:0;hwdetect
+: 1724897417:0;hwdetect --show-video
+: 1724897440:0;hwdetect --show-all
+: 1724897446:0;hwdetect --show-kvm
+: 1724897461:0;hwdetect --show-kms
+: 1724897484:0;hwdetect --show-media
+: 1724897494:0;hwdetect --intel-kms
+: 1724898598:0;hwinfo
+: 1724898603:0;hwinfo --help
+: 1724898629:0;hwinfo --short
+: 1724899038:0;paru mhwd
+: 1724899081:0;paru hw driverr
+: 1724899084:0;paru hw driver
+: 1724899106:0;paru hw firmware
+: 1724899111:0;paru hw kernel
+: 1724899126:0;paru kernel
+: 1724899185:0;cd /sys/firmware
+: 1724899185:0;ll
+: 1724899189:0;ya
+: 1724899419:0;sudo pacman -Syu --devel
+: 1724899425:0;sudo pacman -Syu -devel
+: 1724899434:0;paru --devel
+: 1724899440:0;paru -S --devel
+: 1724899444:0;paru -S devel
+: 1724899455:0;paru -S devel base-devel
+: 1725066761:0;Qe
+: 1725066846:0;cd /run/media/corey/Ventoy/new-system
+: 1725066847:0;ll
+: 1725066862:0;b newpkglist.txt
+: 1725066904:0;R libva-intel-driver libva-mesa-driver
+: 1725066922:0;reboot
+: 1725067054:0;xprop
+: 1725069872:0;Qe
+: 1725069876:0;cd /run/media/corey/Ventoy/new-system
+: 1725069878:0;b newpkglist.txt
+: 1725070029:0;R vulkan-intel
+: 1725070048:0;paru -Rns vulkan-intel
+: 1725070091:0;paru xf86
+: 1725071810:0;paru driver gui
+: 1725071863:0;intel_gpu_top
+: 1725071875:0;man intel-gpu-tools
+: 1725071886:0;intel-gpu-overlay
+: 1725071893:0;intel-gpu-overlay
+: 1725071896:0;intel-gpu-overlay
+: 1725071900:0;intel-gpu-overlay --stop
+: 1725071917:0;pkill intel-gpu-overlay
+: 1725071925:0;htop
+: 1725074593:0;lspci
+: 1725074687:0;lspci -k -s
+: 1725074708:0;lspci -t
+: 1725074785:0;lspci -d "00:02:00"
+: 1725074798:0;lspci -d "00:02:00" -k
+: 1725074802:0;lspci -k
+: 1725075429:0;R intel-media-driver
+: 1725075452:0;R libva
+: 1725075534:0;..
+: 1725075548:0;man cp
+: 1725075597:0;sudo cp -rpv corey /run/media/corey/Ventoy/
+: 1725076031:0;config status
+: 1725076048:0;git commit -a
+: 1725076055:0;ll
+: 1725076059:0;cd .config
+: 1725076060:0;ll
+: 1725076076:0;add autostart
+: 1725076079:0;add bash
+: 1725076082:0;add bat
+: 1725076085:0;add copyq
+: 1725076092:0;add doom
+: 1725076101:0;add htop
+: 1725076103:0;add kitty
+: 1725076110:0;add nvim
+: 1725076120:0;add pamac
+: 1725076121:0;add paru
+: 1725076126:0;add powermenu
+: 1725076129:0;add qtile
+: 1725076135:0;add rofi
+: 1725076141:0;add sublime-text
+: 1725076146:0;add Thunar
+: 1725076156:0;add Vial
+: 1725076162:0;add yay
+: 1725076171:0;add yazi yazi.old zsh
+: 1725077566:0;add yay
+: 1725077568:0;add yazi
+: 1725077571:0;add yazi.old
+: 1725077573:0;add zsh

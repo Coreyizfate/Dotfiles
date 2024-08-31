@@ -8,8 +8,8 @@ fi
 export ZSH_CONFIG=~/.config/zsh
 export HISTFILE=~/.config/zsh/history
 export HISTORY_IGNORE="(clear|ls)"
-export HISTSIZE=1000000
-export SAVEHIST=1000000
+export HISTSIZE=100000
+export SAVEHIST=100000
 setopt appendhistory     # Append history to the history file (no overwriting)
 setopt sharehistory      # Share history across terminals
 setopt incappendhistory  # Immediately append to the history file, not just when a term is killed 
@@ -21,6 +21,7 @@ zinit light Aloxaf/fzf-tab
 zinit light kutsan/zsh-system-clipboard
 zinit light hsienjan/colorize
 zinit light Freed-Wu/zsh-help
+zinit light mdumitru/fancy-ctrl-z
 zinit ice depth=1; zinit light romkatv/powerlevel10k
 
 autoload -Uz _zinit
@@ -115,3 +116,6 @@ fi
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.config/zsh/.p10k.zsh ]] || source ~/.config/zsh/.p10k.zsh
+
+autoload -Uz compinit
+fpath+=~/.zfunc
