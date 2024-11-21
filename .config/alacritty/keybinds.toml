@@ -1,0 +1,37 @@
+
+[keyboard]
+
+bindings = [
+
+# Normal mode keybindings are to be found here
+
+{ key = "c", mods = "Control|Shift", action = "Copy" },
+{ key = "p", mods = "Control|Shift", action = "Paste" },
+
+{ key = "k", mods = "Alt", mode = "~Alt", action = "ScrollLineUp" },
+{ key = "ArrowUp", mods = "Alt", mode = "~Alt", action = "ScrollLineUp" },
+
+{ key = "j", mods = "Alt", mode = "~Alt", action = "ScrollLineDown" },
+{ key = "ArrowDown", mods = "Alt", mode = "~Alt", action = "ScrollLineDown" },
+
+{ key = "u", mods = "Alt", mode = "~Alt", action = "ScrollHalfPageUp" },
+{ key = "d", mods = "Alt", mode = "~Alt", action = "ScrollHalfPageDown" },
+
+{ key = "b", mods = "Alt", mode = "~Alt", action = "ScrollPageUp" },
+{ key = "PageUp", mods = "Alt", mode = "~Alt", action = "ScrollPageUp" },
+
+{ key = "f", mods = "Alt", mode = "~Alt", action = "ScrollPageDown" },
+{ key = "PageDown", mods = "Alt", mode = "~Alt", action = "ScrollPageDown" },
+
+{ key = "Home", mods = "Alt", mode = "~Alt", action = "ScrollToTop" },
+{ key = "End", mods = "Alt", mode = "~Alt", action = "ScrollToBottom" },
+
+# Vi Mode Keybindings begin at this point
+# can be Vi or ~Search
+
+{ key = "Space", mods = "Shift|Control", mode = "~Search", action = "ToggleViMode" },
+{ key = "Space", mods = "Shift|Control", mode = "Vi|~Search", action = "ScrollToBottom" },
+{ key = "Escape", mode = "Vi|~Search", action = "ClearSelection" },
+{ key = "I", mods = "Shift|Control", mode = "Vi|~Search", action = "ToggleViMode" },
+
+]

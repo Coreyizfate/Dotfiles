@@ -11033,90 +11033,3690 @@ pulsemixer
 pamixer --list-sources
 systemctl | grep alsa
 reboot
-: 1724897228:0;paru hwdetect
-: 1724897241:0;paru hardware
-: 1724897361:0;hwdetect
-: 1724897417:0;hwdetect --show-video
-: 1724897440:0;hwdetect --show-all
-: 1724897446:0;hwdetect --show-kvm
-: 1724897461:0;hwdetect --show-kms
-: 1724897484:0;hwdetect --show-media
-: 1724897494:0;hwdetect --intel-kms
-: 1724898598:0;hwinfo
-: 1724898603:0;hwinfo --help
-: 1724898629:0;hwinfo --short
-: 1724899038:0;paru mhwd
-: 1724899081:0;paru hw driverr
-: 1724899084:0;paru hw driver
-: 1724899106:0;paru hw firmware
-: 1724899111:0;paru hw kernel
-: 1724899126:0;paru kernel
-: 1724899185:0;cd /sys/firmware
-: 1724899185:0;ll
-: 1724899189:0;ya
-: 1724899419:0;sudo pacman -Syu --devel
-: 1724899425:0;sudo pacman -Syu -devel
-: 1724899434:0;paru --devel
-: 1724899440:0;paru -S --devel
-: 1724899444:0;paru -S devel
-: 1724899455:0;paru -S devel base-devel
-: 1725066761:0;Qe
-: 1725066846:0;cd /run/media/corey/Ventoy/new-system
-: 1725066847:0;ll
-: 1725066862:0;b newpkglist.txt
-: 1725066904:0;R libva-intel-driver libva-mesa-driver
-: 1725066922:0;reboot
-: 1725067054:0;xprop
-: 1725069872:0;Qe
-: 1725069876:0;cd /run/media/corey/Ventoy/new-system
-: 1725069878:0;b newpkglist.txt
-: 1725070029:0;R vulkan-intel
-: 1725070048:0;paru -Rns vulkan-intel
-: 1725070091:0;paru xf86
-: 1725071810:0;paru driver gui
-: 1725071863:0;intel_gpu_top
-: 1725071875:0;man intel-gpu-tools
-: 1725071886:0;intel-gpu-overlay
-: 1725071893:0;intel-gpu-overlay
-: 1725071896:0;intel-gpu-overlay
-: 1725071900:0;intel-gpu-overlay --stop
-: 1725071917:0;pkill intel-gpu-overlay
-: 1725071925:0;htop
-: 1725074593:0;lspci
-: 1725074687:0;lspci -k -s
-: 1725074708:0;lspci -t
-: 1725074785:0;lspci -d "00:02:00"
-: 1725074798:0;lspci -d "00:02:00" -k
-: 1725074802:0;lspci -k
-: 1725075429:0;R intel-media-driver
-: 1725075452:0;R libva
-: 1725075534:0;..
-: 1725075548:0;man cp
-: 1725075597:0;sudo cp -rpv corey /run/media/corey/Ventoy/
-: 1725076031:0;config status
-: 1725076048:0;git commit -a
-: 1725076055:0;ll
-: 1725076059:0;cd .config
-: 1725076060:0;ll
-: 1725076076:0;add autostart
-: 1725076079:0;add bash
-: 1725076082:0;add bat
-: 1725076085:0;add copyq
-: 1725076092:0;add doom
-: 1725076101:0;add htop
-: 1725076103:0;add kitty
-: 1725076110:0;add nvim
-: 1725076120:0;add pamac
-: 1725076121:0;add paru
-: 1725076126:0;add powermenu
-: 1725076129:0;add qtile
-: 1725076135:0;add rofi
-: 1725076141:0;add sublime-text
-: 1725076146:0;add Thunar
-: 1725076156:0;add Vial
-: 1725076162:0;add yay
-: 1725076171:0;add yazi yazi.old zsh
-: 1725077566:0;add yay
-: 1725077568:0;add yazi
-: 1725077571:0;add yazi.old
-: 1725077573:0;add zsh
+paru hwdetect
+paru hardware
+hwdetect
+hwdetect --show-video
+hwdetect --show-all
+hwdetect --show-kvm
+hwdetect --show-kms
+hwdetect --show-media
+hwdetect --intel-kms
+hwinfo
+hwinfo --help
+hwinfo --short
+paru mhwd
+paru hw driverr
+paru hw driver
+paru hw firmware
+paru hw kernel
+paru kernel
+cd /sys/firmware
+ll
+ya
+sudo pacman -Syu --devel
+sudo pacman -Syu -devel
+paru --devel
+paru -S --devel
+paru -S devel
+paru -S devel base-devel
+Qe
+cd /run/media/corey/Ventoy/new-system
+ll
+b newpkglist.txt
+R libva-intel-driver libva-mesa-driver
+reboot
+xprop
+Qe
+cd /run/media/corey/Ventoy/new-system
+b newpkglist.txt
+R vulkan-intel
+paru -Rns vulkan-intel
+paru xf86
+paru driver gui
+intel_gpu_top
+man intel-gpu-tools
+intel-gpu-overlay
+intel-gpu-overlay
+intel-gpu-overlay
+intel-gpu-overlay --stop
+pkill intel-gpu-overlay
+htop
+lspci
+lspci -k -s
+lspci -t
+lspci -d "00:02:00"
+lspci -d "00:02:00" -k
+lspci -k
+R intel-media-driver
+R libva
+..
+man cp
+sudo cp -rpv corey /run/media/corey/Ventoy/
+config status
+git commit -a
+ll
+cd .config
+ll
+add autostart
+add bash
+add bat
+add copyq
+add doom
+add htop
+add kitty
+add nvim
+add pamac
+add paru
+add powermenu
+add qtile
+add rofi
+add sublime-text
+add Thunar
+add Vial
+add yay
+add yazi yazi.old zsh
+add yay
+add yazi
+add yazi.old
+add zsh
+add dolphin
+add dolphinrc
+add picon.conf
+..
+ll
+add .bashrc
+add .zshrc
+add pkgs.txt
+cd bn
+cd bin
+ll
+add autostart.sh
+add notify-toggle.sh
+add snapall.sh
+..
+ll
+cd Documents
+ll
+ll
+..
+ya
+add Pictures
+config commit -m 'committing on new system might be moving again'
+config push -u dots main
+cd git
+cd .git
+ll
+cd .cofnig
+cd .config
+ll
+cd git
+ll
+v config
+config push -u dots main
+ya
+fg
+fg
+bg
+bg
+bg 1
+bg yazi
+bg
+bg %yazi
+fg
+fg
+fg
+sya
+ll
+S eza
+S fd bat fzf
+paruz
+paruz
+S paruz
+paruz
+paruz
+ll
+paru -S --needed --batchinstall - < install.txt
+sya
+fzf $(paru -R --interactive)
+man fzf
+tldr fzf
+tldr --update
+paru
+tldr fzf
+paru -R --interactive " "
+paru -R --interactive
+paru -R --interactive | fzf --multi
+paru -R --interactive | fzf --multi
+paruz -R
+paru remove pkg
+paru uninstall pkg
+paru uninstall
+paru remove pac
+man paruz
+paruz --help
+paruz -R
+paclast
+pachist
+pkghist
+paclast
+paclast --help
+paclast | tail
+paclast | bat
+expac --timefmt='%m/%d  -=|=-  %T' '%l\t%n' $(yay -Qq) | sort | bat
+xset 0 off
+xset s off
+xset blank off
+xset s blank
+xset s off
+xset dpms off
+xset -dpms
+paclast
+expac
+expac --timefmt='%m/%d  -=|=-  %T' '%l\t%n' $(yay -Qq) | sort | bat
+qg disk
+paru udisks
+cd bin
+ll
+b autostart.sh
+paru -S nerd-fonts
+cd /etc/xdg/autostart
+ll
+ll
+cd .cache
+ll
+..
+cd .local
+ll
+cd share
+ll
+fd yazi /
+paru rust
+paru cargo
+qtconf
+paru
+ll
+rm .bashrc.bak .zshrc.bak
+ll
+cd .config
+ll
+fd cargo /
+cargo --help
+rustup default stable
+man cargo
+cargo --help
+cargo update
+fd cargo.toml /
+cd /usr/lib/ruby/3.2.0/bundler/templates/newgem
+ll
+b cargo.toml.tt
+lll
+ll
+b Cargo.toml.tt
+b README.md.tt
+sudo yazi
+yazi
+cd .config
+ll
+cd yazi
+ll
+cd flavors
+ll
+..
+cd plugins
+ll
+..
+cd themes
+ll
+..
+..
+cd yazi.1
+ll
+R yazi-git
+paru yazi
+S chafa
+yazi
+ll
+cd bin
+ll
+v autostart.sh
+qg vim
+R vim vim-runtime
+autostart.sh
+sudo autostart.sh & disown
+cd /etc/systemd/
+ll
+..
+cd xdg/autostart
+ll
+sya
+fzf
+sudo rm pamac-tray-budgie.desktop
+fzf
+ll
+sudo rm snap-userd-autostart.desktop
+sudo rm xfce4-clipman-plugin-autostart.desktop xfce4-notes-autostart.desktop xscreensaver.desktop
+ll
+sudo rm xfce4-screensaver.desktop
+cd .config
+ll
+cd autostart/q
+cd autostart
+lll
+ll
+cd /etc/xdg/autostart
+ll
+rm blueman.desktop
+rm geoclue-demo-agent.desktop
+rm nm-applet.desktop
+ll
+cd bin
+ll
+v autostart.sh
+fd udiskie /
+b notify-toggle.sh
+ll
+..
+ll
+rm .zshrc.bak .bashrc.bak
+ll
+cd .bin
+l
+ll
+..
+ll
+cd sofirem-exports
+ll
+ll
+ll -a
+..
+ll
+rmdir sofirem-exports
+ll
+ll
+me udiskie.desktop
+ll
+me unclutter.desktop
+ll
+mod a+x udiskie.desktop unclutter.desktop
+ll
+..
+ll
+chmod a-x picom.conf
+ll
+chmod a-x dolphin dolphinrc
+ll
+rclone mount googledrive:/ ~/G\ Drive
+rclone mount googledrive:/ ~/G\ Drive & disown
+ll
+cd
+ll
+cd Documents
+ll
+cd
+mkdir GDrive
+ll
+rclone mount googledrive:/ ~/GDrive & disown
+cd GDrive
+ll
+cd
+cd Personal/
+ll
+cd
+cd GDrive
+ll
+cd Backup
+ll
+..
+cd Notes
+ll
+cd Notes
+ll
+ll
+ll
+cd autostart
+ll
+qtconf
+paru subprocess python
+RUST_BACKTRACE=full yazi
+RUST_BACKTRACE=full
+yazi
+RUST_BACKTRACE=1
+yazi
+paru vifm
+paru lf
+paru lf
+paru nnn
+S atool zip unzip
+nnn
+lf
+lf
+lf
+lf
+lf
+man lf
+yazi
+qg rus
+R rustup yazi-git
+cd .config
+ll
+lf
+qg yazi
+qg rust
+paru yazi
+fd .cargo/regist /
+fd .cargo /
+paru yazi
+cd .local/share/cargo/registry/src/index.crates.io-6f17d22bba15001f/tracing-appender-0.2.3
+ll
+cd src
+ll
+cd rolling
+ll
+..
+b rolling
+b rolling.rs
+b rolling.rs
+vifm
+paru vifm
+cd .config
+ll
+vifm
+ll
+fd vifm
+cd vifm
+ll
+v vifmrc
+v vifmrc
+fd devicon /
+cd /usr/share/vifm-devicons
+ll
+vifm
+vifm
+v vifmrc
+vifm
+vifm
+lf
+paru tui file manager
+paru terminal file manager
+joshuto
+f
+paru -Qs | grep file
+paru -Qs | grep file manager
+paru -Qi | grep file manager
+paru -Qi | grep "file manager"
+nnn
+nnn
+paruz
+paru file manager
+felix
+paclast
+expac --timefmt='%m/%d  -=|=-  %T' '%l\t%n' $(yay -Qq) | sort | bat
+superfile
+man superfile
+superfile
+fff
+pacui
+fd superfile /
+cd /usr/share/doc/superfile
+ll
+b README.md
+spf
+spf
+yazi
+groups
+qtconf
+qg vim
+qg neovim
+paru neovim
+paru vs code
+cd .config
+ll
+bat
+b dolphin
+cd .config/bat
+ll
+cd themes
+ll
+bat cache --build
+ll
+..
+..
+ll
+b dolphin
+b dolphin
+b picom.conf
+..
+b .zshrc
+qtconf
+paru vial
+R vial-appimage
+fd vial /
+cd bin
+ll
+chmod +x vial.AppImage
+vial.AppImage
+paru openvpn
+openvpn --help
+man openvpn
+cd Personal
+cd hackthebox
+ll
+openvpn --config "openvpn\ configuration.ovpn"
+openvpn --config "openvpn configuration.ovpn"
+qg emu
+paru virtual
+paru virt manager
+paru qemu
+paru qemu
+ranger
+superfile
+spf
+spf
+spf
+cd .local/share/cargo
+ll
+cd registry
+ll
+cd src
+ll
+cd index.crates.io-6f17d22bba15001f
+ll
+cd tracing-appender-0.2.3
+ll
+cd src
+ll
+v rolling.rs
+cd
+cd .config/
+ll
+R rust yazi-git
+paru -S yazi
+yazi
+R yazi
+paru
+paru -Sc
+qg yaz
+qg ya
+cd .local/share
+cd
+cd .local/share
+ll
+cd cargo
+ll
+cd registry
+ll
+cd cache
+ll
+..
+S ranger
+ranger
+..
+..
+ll
+mv cargo hidden.cargo
+ll
+paru yazi
+paru yazi
+paru java jdk
+cd /usr/bin
+g nvim
+ls | g nvim
+ranger
+ll
+cd bi
+cd bin
+ll
+mv \#autostart.sh\# autostart.sh
+ll
+b autostart.sh
+paru -Qq
+paru -Qq | bat
+R adapta-gtk-theme
+R adobe-source-han-sans-cn-fonts adobe-source-han-sans-jp-fonts adobe-source-han-sans-kr-fonts
+R adwaita-icon-theme adwaita-icon-theme-legacy
+paru -Qi aom
+R arc-darkest-theme-git arc-gtk-theme arc-icon-theme arc-x-icons-theme
+R arcolinux-alacritty-git arcolinux-arc-aqua-git arcolinux-arc-archlinux-blue-git arcolinux-arc-arcolinux-blue-git arcolinux-arc-azul-git arcolinux-arc-azure-dodger-blue-git arcolinux-arc-azure-git
+R arcolinux-arc-blood-git arcolinux-arc-blueberry-git arcolinux-arc-blue-sky-git arcolinux-arc-botticelli-git arcolinux-arc-bright-lilac-git arcolinux-arc-carnation-git
+R arcolinux-arc-carolina-blue-git arcolinux-arc-casablanca-git arcolinux-arc-cornflower-blue-git arcolinux-arc-crimson-git arcolinux-arc-darkish-git arcolinux-arc-dawn-git
+top
+htop
+cd bin
+ll
+v autostart.sh
+qtconf
+cd bin
+ll
+pwd
+b autostart.sh
+v autostart.sh
+htop
+S unclutter
+qtconf
+htop
+paruz
+v autostart.sh
+cd bin
+v autostart.sh
+b autostart.sh
+paru python3
+xset s off
+xset blank off
+xset s blank
+xset -dpms
+inxi
+df
+xrandr
+paru sddm theme
+gksu
+cd bin
+v autostart.sh
+ll
+cd bin
+ll
+b autostart.sh
+cd bin
+joshuto
+yazi
+cargo --help
+cargo update
+fd cargo /
+cd usr/lib
+paru ruby
+qg ruby
+pacui
+paru yazi
+R yazi-git
+paru -Sc
+paru yazi
+yazi
+S beef-xss metasploit
+paru rust
+env
+expac --timefmt='%m/%d  -=|=-  %T' '%l\t%n' $(yay -Qq) | sort | bat
+cd /etc
+v environment
+sv environment
+b environment
+sv profile
+spf
+cd
+cd .config/
+ll
+mv yazi.oldconfig yazi
+ll
+yaziu
+yazi
+sudo yazi
+cd /etc/
+fd yazi /
+cd /usr/share/doc/yazi
+ll
+b README.md
+ll
+..
+..
+ll
+cd X11
+ll
+yazi
+paru file
+S file
+S --needed jq poppler fd rg fzf zoxide imagemagick xclip xsel
+paru fzf
+paru zoxide
+paru
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh rustup update
+paru rust
+R rust
+paru make
+paru gcc
+paru yazi
+R yazi
+sudo pacman -S yazi
+yazi
+yazi --help
+yazi
+RUST_BACKTRACE=1
+yazi
+RUST_BACKTRACE=full
+yazi
+cd .local
+ll
+cd share
+ll
+cd hidden.cargo
+ll
+cd registry
+ll
+cd cache
+ll
+..
+..
+..
+rmrf hidden.cargo
+ll
+cd cargo
+ll
+cd registry
+ll
+cd index
+ll
+..
+ll
+cd src
+ll
+cd index.crates.io-6f17d22bba15001f
+ll
+cd tracing-appender-0.2.3
+ll
+b Cargo.toml
+b Cargo.toml.orig
+ll
+b README.md
+yazi
+cd benches
+ll
+..
+cd src
+ll
+cd rolling/o
+cd rolling
+ll
+..
+ll
+v rolling
+v rolling.rs
+cd /var/log
+ll
+cd old
+ll
+..
+cd private
+sudo ranger
+sudo ranger
+cd .config/zsh
+ll
+v aliases.zsh
+yazi
+cd /var/
+ll
+cd log
+ll
+b btmp
+sudo bat btmp
+sudo bat lastlog
+sudo bat wtmp
+sudo bat pacman.log
+downgrade
+sudo downgrade
+cd
+cd .config
+cd zsh
+ll
+v .zshrc
+paru autocontrol
+paru auto control
+paru browser control
+paru wine
+cd Downloads
+wine --help
+ll
+wine Native-Component.exe
+ll
+ll
+ll
+paru wine
+wine Native-Component.exe
+fd native component /
+cd /usr/share/wine
+ll
+cd mono
+ll
+cd wine-mono-9.2.0
+ll
+ya
+ranger
+cd Personal/virtmachines
+..
+cd virtmachines
+ll
+..
+ll
+ranger
+ranger
+ranger
+cd
+cd .config
+ll
+cd ranger
+ll
+ll
+ll -a
+cd GDrive
+ll
+htop
+pacui
+qg pa
+qg pac
+pac-util
+paru -Qf pac-util
+paru --help
+paru -F pac-util
+paru -Fy
+paru -F pac-util
+man paru
+paru -Fp pac-util
+paru -Fi pac-util
+man pacman
+paru -Syu
+paru -Q | grep cargo
+paru -Q | grep ruby
+paru ruby
+pacui
+paru ruby
+qg yazi
+yazi
+paru yazi-bion
+paru yazi-bin
+paru yazi
+qg rust
+qg rust
+yazi
+fd tracing-appender
+fd tracing-appender /
+cd .local
+cd share
+ll
+cd cargo/o
+ll
+cd cargo
+ll
+b .global-cache
+b -A .global-cache
+cd registry
+l
+ll
+sudo yazi
+su
+man paru
+paru -Fp pac-util
+paru -Fi pac-util
+man pacman
+paru -Syu
+paru -Q | grep cargo
+paru -Q | grep ruby
+paru ruby
+pacui
+paru ruby
+qg yazi
+yazi
+paru yazi-bion
+paru yazi-bin
+paru yazi
+qg rust
+qg rust
+yazi
+fd tracing-appender
+fd tracing-appender /
+cd .local
+cd share
+ll
+cd cargo/o
+ll
+cd cargo
+ll
+b .global-cache
+b -A .global-cache
+cd registry
+l
+ll
+sudo yazi
+su
+cd /
+cd .bundle/
+cd cache/
+cd compact_index/
+cd rubygems.org.443.29b0360b937aa4d161703e6160654e47/
+cd info
+cd .local/
+cd share/
+cd .bin
+cd .c
+cd root/
+cd .cache
+cd .config
+cd .ssh
+ll
+b .screenrc 
+bat .screenrc 
+..
+exit
+sudo cp -r /root/.bundle /home/corey/.bundle
+yazi
+paru rust
+cargo --help
+cargo clean
+cd .local/share/cargo
+cargo clean
+ll
+cd registry
+l
+ll
+cd src
+ll
+cd index.crates.io-6f17d22bba15001f
+ll
+cargo clean
+cd tracing-appender-0.2.3
+ll
+cd src
+ll
+cd rolling
+ll
+cargo clean
+cargo --help
+cargo update
+cargo check
+yazi
+cargo install tracing-appender
+cargo --help
+cargo build
+cargo --list
+cargo fix
+cargo fix --allow-no-vcs
+cd
+cd
+cd .config
+ll
+..
+ll
+cd .bundle
+ll
+cd cache
+ll
+cd compact_index
+ll
+cd rubygems.org.443.29b0360b937aa4d161703e6160654e47
+ll
+cd info
+ll
+..
+yazi
+cd
+ll
+rmrf .bundle
+ll
+sudo rmrf .bundle
+ll
+sudo rm -rf .bundle
+ll
+rmrf sofirem-exports
+rm .bashrc.bak .zshrc.bak
+ll
+b gksu.lock
+b .gksu.lock
+RUST_BACKTRACE=1 yazi
+RUST_BACKTRACE=full yazi
+RUST_BACKTRACE=full & yazi
+RUST_BACKTRACE=full && yazi
+RUST_BACKTRACE=1 && yazi
+paru rust
+cargo run
+fd yazi /
+cd /tmp
+ll
+cd yazi-0
+ll
+..
+yazi
+cd /build
+cd
+cd .local/share/cargo
+cd registry/src/index.crates.io-6f17d22bba15001f
+cd tracing-appender-0.2.3
+cd src
+cd rolling
+ll
+cargo run
+cargo --help
+cargo build
+cargo install
+cargo run
+cargo run yazi
+cargo run builder.rs
+..
+l
+ll
+cargo build
+cargo uninstall tracing-appender
+..
+ll
+b Cargo.
+b Cargo.toml
+cd target
+l
+ll
+cd debug
+ll
+cargo build
+cargo update
+cargo run
+..
+..
+cargo run
+ll
+b .cargo-ok
+sudo yazi
+..
+..
+..
+..
+ll
+b .crates.toml
+b .crates.toml
+b .crates2.json
+..
+ll
+rmrf cargo
+cd rustup
+ll
+ya
+yazi
+paru -Rns yazi
+fd crate /
+fd cargo /
+paru -Sc
+fd cargo /
+R rust
+ll
+cd .cache
+ll
+..
+ll
+cd .config
+ll
+cd yazi
+ll
+..
+mv yazi yazi.oldest
+ll
+mv yazi.last yazi
+ll
+..
+ll
+cd .pki
+ll
+cd nssdb
+ll
+...
+ll
+cd .local
+ll
+cd state
+ll
+sudo chown corey:corey yazi
+sudo chown -R corey:corey yazi
+ll
+cd yazi
+ll
+ya
+yazi
+yazi
+paru yazi
+ll
+cd .local
+ll
+cd share
+ll
+..
+ll
+..
+ll
+cd .cache
+ll
+cd fontconfig
+cd
+cd .config
+ll
+cd yazi
+ll
+v yazi.toml
+yazi
+cd
+cd .config
+ll
+mv yazi.oldest
+ll
+mv yazi yazi.old
+ll
+mv yazi.oldest yazi
+ll
+yazi
+yazi
+yazi
+yazi
+j zsh
+v .zshrc
+y
+cd
+j zsh
+v aliases.zsh
+sya
+sudo y
+v aliases.zsh
+ealiases
+yazi
+ya
+j yazi
+v yazi.toml
+v keymap.toml
+ya
+j yazi
+v yazi.toml
+ya
+ya
+ya
+ya
+ya
+dex --help
+dex -dv
+dex -adv
+cd /etc/xdg/autostart
+ll
+sv xfce-polkit-gnome-authentication-agent-1.desktop
+sv xfce4-notifyd.desktop
+sv xfce4-power-manager.desktop
+j autostart
+ll
+rm udiskie.desktop unclutter.desktop
+bash
+exit
+/usr/bin/bash
+exti
+exit
+/bin/bash
+cd .config/autostart
+ll
+..
+..
+cd bin
+ll
+sh autostart.sh
+help test
+man test
+cd /bin
+ll
+fzf
+ya
+fd kwallet 
+fd kwallet /
+ss
+ss
+man ss
+paru wezterm
+paru wezterm
+paru wezterm
+paru
+qg vim
+qg vim
+paru
+yay
+paru
+ll
+ll
+htop
+ll
+cd .config
+ll
+qg vim
+R neovim-nightly-bin
+paru neovim
+paru neovim bin
+paru neovim
+cd .config
+ll
+ls | grep vim
+cd .local/share
+ll
+mv nvim nvim.bak
+ll
+..
+cd state
+ll
+mv nvim nvim.bak
+...
+ll
+cd .cache/
+ll
+git clone --depth 1 https://github.com/AstroNvim/template ~/.config
+git clone --depth 1 https://github.com/AstroNvim/template ~/.config/nvim
+rm -rf ~/.config/nvim/.git
+ll
+cd .config/nvim
+..
+cd .config
+ll
+cd nvim
+ll
+paru -S tree-sitter-bash tree-sitter-python xsel python-pynvim
+nvim
+nvim
+fg
+fg
+fg
+fg
+paru pyright
+qg scu
+qg lur
+qg lar
+xfce4-clipman
+xfce4-clipman --help
+xfce4-clipman-history
+xfce4-clipman & disown
+xfce4-clipman-history
+paru orca
+qg xfce
+xfce4-screenshooter --help
+xfce4-popup-applicationsmenu
+xfce4-popup-applicationsmenu --help
+xfce4-popup-directorymenu
+man xfce4-popup-whiskermenu
+xfce4-popup-whiskermenu
+R xfce4-whiskermenu-plugin xfce4-whiskermenu-plugin
+xfdesktop
+xfdesktop --help
+man xfdesktop
+cd .config
+ll
+cd rofi
+ll
+mkdir installing
+cd installing
+git clone --depth 1 https://github.com/dctxmei/rofi-themes
+ll
+cd rofi-themes
+ll
+b setup.sh
+ll
+cd fonts
+ll
+ya
+ll
+cd 1080p
+ll
+b config.rasi
+cd bin
+ll
+..
+ll
+cd launchers
+ll
+cd colorful
+ll
+b launcher.sh
+ll
+b style_10.rasi
+..
+..
+..
+ll
+b README.md
+cd 1080p
+ya
+ya
+ll
+./launcher.sh
+ya
+j rofi
+ll
+cd launchers
+ll
+cd robbin
+cd ribbin
+ll
+..
+cd robbin
+cd ribbin
+ll
+cd launchers/ribbon
+ll
+v launcher.sh
+ll
+./launcher.sh
+..
+..
+ll
+ya
+ll
+cd powermenu
+ll
+./powermenu.sh
+..
+ll
+rmrf powermenu
+ll
+rm config.rasi
+mv config.bak.rasi config.rasi
+rofi --run-command
+man rofi
+rofi --help
+arcolinux-powermenu
+cd /usr/local/bin
+ll
+b arcolinux-powermenu
+sudo mv arcolinux-powermenu powermenu
+ll
+..
+..
+cd
+ll
+cd bin
+ll
+v testing
+man read
+man if
+man puts
+man if
+tldr if
+man if
+man read
+tldr read
+ll
+chmod +x testing
+ll
+./testing
+v testing
+man then
+man then
+man if
+./testing
+v testing
+./testing
+v testing
+./testing
+v testing
+paru nvim language
+paru nvim tree sitter
+paru npm
+v
+fg
+cd /usr/local/bin
+ll
+sudo mv powermenu arcolinux-powermenu
+..
+..
+cd bin
+ll
+sudo ln -s /usr/local/bin/arcolinux-powermenu
+ll
+uya
+sya
+sya
+sudo ya
+sudo yazi
+powermenu
+sudo shutdown now
+cd Personal
+ll
+mkdir vuln-web-apps
+ll
+cd vuln-web-apps
+ll
+git clone https://github.com/digininja/DVWA
+cd DVWA
+ll
+..
+mv DVWA dvwa
+cd dvwa
+v setup.php
+ll
+v security.
+v security.txt
+v
+fg
+v
+qq vim
+qq | vim
+qq | grep vim
+paru -Qe | grep vim
+paru tree-sitter
+paru python-pip
+v
+R neovim-
+R neovim-git
+R neovim-git neovim-nvim-treesitter
+paru neovim
+paru neovim tree sitter
+v
+v
+cd Personal/vuln-web-apps/dvwa
+ll
+cd config
+ll
+v config.inc.php.dist
+ll
+..
+ll
+ya
+paru apache
+systemctl start apache
+_apachectl
+apack --help
+apachectl --help
+apachectl start
+apachectl status
+apachectl start
+apachectl stop
+cd Personal/vuln-web-apps/dvwa
+ll
+./setup.php
+setup.php
+fd Servername /
+cd /etc
+rg servername
+fd apache /
+cd Personal/vuln-web-apps/dvwa
+ll
+apachectl start
+..
+ll
+chmod -R 777 dvwa
+ll
+cd dvwa
+ll
+cd config
+cp config.inc.php.dist config.inc.php
+ll
+v config.inc.php.dist
+v config.inc.php
+S mysql
+sudo systemctl mysql start
+systemctl start mysql
+sudo systemctl start mysql
+mysql --help
+man mysql
+mysql start
+service mysql start
+systemctl start MySQL
+sudo systemctl start mysqld
+systemctl status mysqld.service
+systemctl start mysqld
+journalctl -xeu mysqld.service
+mysql -u root -p
+mysql -u root -p
+paru mysql
+qg mysql
+paru -Qii mysql
+R mysql-clients mysql 
+paruz
+paruz
+paru mysql
+ya
+qg mari
+qg mariad
+paru -Qqe mysql
+paru -Qqe mari
+paru -Qqe | grep mari
+paru -Qqe | grep mysq
+paru mysql
+R libmysqlclient
+paru -Sc
+paru mariadb
+systemctl start mariadb
+mariadb-install-db --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+mariadb-install-db --help
+mariadb-install-db --user=corey --basedir=/usr --datadir=/var/lib/mysql
+sudo mariadb-install-db --user=corey --basedir=/usr --datadir=/var/lib/mysql
+fd juice /
+cd Personal/Image\ Files\ for\ OSs/Vuln
+ll
+cd /etc/
+paru apache
+paru docker
+paru
+fd docker
+fd docker /
+docker-compose --help
+docker-compose up --help
+docker --help
+man docker
+docker-compose up --help
+man docker-compuse
+man docker-compose
+cd
+cd Personal/Image\ Files\ for\ OSs/Vuln
+ll
+cd juice-shop-master
+ll
+./Dockerfile
+ya
+docker-compose up Dockerfile
+tldr docker-compose
+docker compose ps
+docker
+ll
+docker build Dockerfile
+docker build
+docker build --help
+docker build -f "./Dockerfile"
+man docker-compose
+docker-compose
+paru docker
+ll
+docker buildx Dockerfile
+docker buildx build Dockerfile
+docker run
+docker start
+docker ls
+docker list
+docker
+docker ps
+sudo systemctl start docker
+sudo systemctl start docker-compose
+docker ps
+docker start
+docker ps
+sudo docker ps
+docker run
+docker images
+docker images
+sudo docker images
+docker create
+docker create --help
+paru alacritty
+cd .config
+cd alacritty
+ll
+b alacritty.toml
+b alacritty.toml.bak
+b default-arcolinux.toml
+ll
+rm alacritty.toml.bak default-arcolinux.toml
+ll
+touch keybinds.toml
+v alacritty.toml
+dfadsfadsfasdsdf
+iifiifasdlfj
+j kitty
+cd .config
+cd kitty
+..
+cd bat
+..
+ll
+cd autostart/
+..
+cd nvim
+..
+cd qtile
+..
+cd obsidian
+..
+cd paru
+..
+cd powermenu
+..
+cd ranger
+..
+cd rclone
+..
+ll
+cd rofi
+..
+cd sublime-text
+..
+cd Thunar
+..
+cd yay
+..
+cd yazi
+..
+cd zsh
+..
+ll
+cd kitty
+ll
+b kitty.conf
+j alacritty
+b wombat.toml
+fjsd
+asdkfjas;jf
+qtconf
+qtconf
+j alacritty
+ll
+v alacritty.toml
+f;skdsk
+iijkjfa
+v alacritty.toml
+v alacritty.toml
+ll
+rm .bashrc.bak .zshrc.bak
+ll
+j zsh
+ll
+b env.zsh
+b aliases.zsh
+j alacritty
+ll
+v keybinds.toml
+kjfkdjfsklsdjf
+fs
+d
+fs
+vbb
+weefgt
+b .bashrc
+kjf;lsjaf
+b .bashrc
+j kitty
+v kitty.conf
+j nvim
+ll
+b .stylua.toml
+v .stylua.toml
+ll
+b .neoconf.json
+b init.lua
+b neovim.yml
+b selene.toml
+ll
+cd lua
+ll
+b lazy_setup.lua
+b polish.lua
+b community.lua
+..
+ll
+b init.lua
+cd lua
+ll
+cd plugins
+ll
+b user.lua
+b mason.lua
+ll
+b none-ls.lua
+b astrocore.lua
+b astroui.lua
+ll
+ya
+paru docker desktop
+docker run --rm -p 127.0.0.1:3000:3000 bkimminich/juice-shop
+ping 127.0.0.1:3000
+ping 127.0.0.1
+nmap 127.0.0.1
+docker ps
+docker --help
+docker rename
+docker rename bkimminich/juice-shop juiceshop
+docker ps
+docker --help
+docker images
+docker rename juice-shop
+docker rename juice-shop juiceshop
+docker top
+docker top juiceshop
+docker ps -a
+docker ps -a
+docker rename 978ea4b28f7f juiceshop
+groups
+groups --help
+man groups
+getgroups
+S getgroups initgroups
+groupmems --help
+sya
+sya
+ealias
+sya
+cd /etc/xdg/autostart
+ll
+picom --help
+dex -c /usr/bin/picom
+sudo dex -c /usr/bin/picom
+ll
+v picom.desktop
+zaproxy & disown
+paru zaproxy
+R zaproxy
+zaproxy --help
+sudo zaproxy & disown
+sudo zaproxy & disown
+pkill zaproxy
+sudo zaproxy & disown
+gksu zaproxy & disown
+ll
+rmrf .ZAP .ZAP_D
+ll
+paru java
+paru pytile
+paru qtile
+ealacritty
+ll
+cd GDrive
+ll
+ll
+ll
+cd Notes
+ll
+cd Notes
+ll
+..
+ll
+..
+ll
+cd PC\ \&\ Tech
+ll
+S python-iwlib python-dbus-next
+paru plugin
+j alacritty
+ll
+v alacritty.toml
+v alacritty.toml
+cd
+cd .config/alacritty
+cd themes
+git clone https://github.com/alacritty/alacritty-theme.git
+cd alacritty-theme
+ya
+paru terminal images
+showkey --scancodes
+showkey --help
+showkey -as
+j alacritty
+lll
+ll
+v alacritty.toml
+fdsf
+sdfjfj
+sdgfaafgbnao
+b .screenrc
+cat .zshrc
+ya
+ll
+cd
+cd .config
+ll
+b ealacritty
+cd alacritty
+b alacritty.toml
+v alacritty.toml
+;fj
+fs
+paru -Qqe
+j alacritty
+v alacritty.toml
+cd /usr/share/fonts
+ll
+ll
+locate Hack Nerd Font
+paru python doc
+paru python documentation
+paru kde-connect
+paru kde connect
+cd 
+cd nivm
+cd nvim
+ll
+locate nvim
+ealias
+fg
+fg
+v alacritty.toml
+cd
+j yazi
+ll
+j nvim
+ll
+cd lua
+ll
+cd plugins
+ll
+b mason.lua
+v mason.lua
+v yazi.lua
+ tf
+v
+v
+ya
+locate comment.nvim
+cd /
+locate comment.nvim
+locate Comment.nvim
+locate .nvim
+cd /usr/share
+ll
+cd nvim
+ll
+ya
+ya
+fg
+ll
+j nvim
+ll
+cd lua
+ll
+cd plugins
+ll
+b mason.lua
+..
+ll
+b lazy_setup.lua
+v
+fg
+fg
+fg
+ya
+v
+ya
+fjslfasd
+ffsdafj;aklvnanoboruig
+greoighwgiwerhg
+ya
+y
+ya
+y
+j nvim
+ll
+ya
+v
+v
+ya
+v
+ya
+v
+ya
+v
+ ya
+ya
+ll
+v yazi.lua
+v
+ya
+v
+v
+users
+netstat
+uname
+groups
+tcpdump
+sudo tcpdump
+insmod --help
+man insmod
+man modprobe
+tldr modprobe
+man crontab
+ealias
+eenv
+ebat
+man bat
+ealias
+eenv
+man bat
+man bat
+eenv
+man bat
+xprop
+paru wmctrl
+wmctrl --help
+wmctrl -lG
+tldr
+tldr wmctrl
+wmctrl -l
+wmctrl --help
+wmctrl -ld
+wmctrl -lG
+lscpu
+paru prctl
+pactl --help
+cd /usr/bin
+fzf
+paruz
+route
+traceroute
+paru traceroute
+paru networking util
+nslookup
+nslookup
+tracepath
+w
+netstat
+fg
+paru polybar
+cd .config
+ll
+rmrf aqemu
+rmrf superfile
+cd ranger
+ll
+..
+rmrf ranger
+ll
+..
+ll
+rmrf .emacs.d
+rmrf .vscode ./.config/code
+ll
+cd .config
+ll
+rmrf Code
+ll
+..
+ll
+ls .ZAP_D
+ll
+rmrf .
+rmrf .ZAP_D
+ls Desktop
+ls Documents
+cd GDrive
+ll
+cd Documents
+ll
+cp Corey-Scharnhorst-Resume.pdf ~/GDrive
+cd GD
+cd
+cd GDrive
+fg
+l
+l
+ll
+rm Estimate_copy_copy.PDF.pdf
+rm Statement_20240801.PDF.pdf
+ll
+..
+ll
+ls .bn
+ls .bin
+systemctl --all
+docker pull localai
+systemctl start docker
+docker pull localai
+sudo docker pull localai
+curl -sSL https://raw.githubusercontent.com/lunamidori5/Midori-AI-Subsystem-Manager/master/model_installer/shell_files/model_installer.sh > model_installer.sh && bash ./model_installer.sh
+cd bin
+ll
+curl -sSL https://raw.githubusercontent.com/lunamidori5/Midori-AI-Subsystem-Manager/master/model_installer/shell_files/model_installer.sh > model_installer.sh && bash ./model_installer.sh
+ll
+subsystem_manager
+cd files
+ll
+..
+ll
+model_installer.sh
+sudo ./model_installer.sh
+ll
+docker ps
+systemctl
+docker ps -a
+sudo docker ps -a
+docker run midori_ai_subsystem
+sudo docker run lunamidori5/midori_ai_subsystem
+locate midori /
+docker start lunamidori5/midori_ai_subsystem
+sudo systemctl start docker
+docker start lunamidori5/midori_ai_subsystem
+docker
+docker --host list
+docker ps -a
+docker attach
+docker attach midori_ai_subsystem
+ll
+b 127.0.1.1_log_09282024.txt
+docker compose --help
+docker compose ps
+docker ps
+systemctl start docker
+docker ps
+sudo docker ps
+sudo docker run 4911a8c2170a
+sudo docker compose up 4911a8c2170a
+tldr docker compose
+cd bin
+ll
+sudo docker compose up
+./subsystem_manager
+sudo ./subsystem_manager
+docker images
+sudo systemctl start docker
+systemctl
+docker images
+sudo docker images
+ip
+ifconfig
+ll
+sudo docker compose up ./midori-docker-compose.yaml
+cd .config
+ll
+cd docker
+cd bin
+ll
+ya
+fzf
+fd midori
+fd localai
+fd anythingllm
+cd
+ll
+ya
+paru juice shop
+paru juiceshop
+paru owasp
+ll
+rmrf .cache
+sudo rmrf .cache
+ll
+sudo rm -rf .cache
+ll
+rm open_with_linux.py
+ll
+rm notify-toggle.sh
+ll
+..
+ll
+paru node.js
+paru node
+paru nodejs
+man docker
+ll
+cd .docker
+ll
+b daemon.json
+b config.json
+..
+ll
+cd .config
+ll
+cd Docker\ Desktop
+ll
+systemctl
+docker images
+docker run e320fe34abfc
+docker ps
+docker attach midori_ai_subsystem
+ifconfig
+docker
+docker port
+docker port e320fe34abfc
+docker ps
+docker port 025a8d8f07be
+docker top
+docker top 025a8d8f07be
+docker attach 025a8d8f07be
+htop
+sudo htop
+xset s off & disown
+xset s blank & disown
+xset s off & disown
+xset -dpms & disown
+j alacritty
+ll
+v alacritty.toml
+man alacritty
+alacritty --help
+cd /etc/alacritty
+cd /etc
+ll
+locate alacritty
+cd /usr/share
+fd alacritty
+cd archlinux-tweak-tool
+ll
+cd data
+ll
+fd alacritty
+cd arco
+ll
+cd alacritty
+ll
+b alacritty.toml
+paru vagrant
+cd Personal
+ll
+mkdir metasploitable3
+cd metasploitable3
+paru packer
+paru packer
+paru vangrant reload
+paru vagrant reload
+vagrant --help
+vagrant plugin reload
+vagrant plugin list
+vagrant plugin install reload
+\
+curl -O https://raw.githubusercontent.com/rapid7/metasploitable3/master/Vagrantfile && vagrant up
+paru virtualbox
+paru virtualbox
+paru
+lsblk
+..
+ll
+ls -a
+..
+ls -a
+df
+fdisk
+fdisk /dev/nvme0n1
+sudo fdisk /dev/nvme0n1
+cfdisk /dev/nvme0n1
+sudo cfdisk /dev/nvme0n1
+man dd
+man df
+ll
+..
+ll
+rmrf metasploitable3
+mkdir metasploitable3
+rmdir metasploitable3
+ll
+git clone https://github.com/rapid7/metasploitable3
+ll
+cd metasploitable3
+ll
+./build.sh windows2008
+qg virtual
+paru metasploit
+virtualboxvm --help
+pamac-manager
+pamac-daemon
+htop
+qg pamac
+paru libalpm
+R libpamac-full pamac-all-git
+paru pamac
+man openvpn
+cd Desktop
+ll
+mv starting_point_Coreyizfate.ovpn htb.ovpn
+sudo openvpn htb.ovpn
+openvpn
+cd /
+ll
+cd tmp
+ll
+..
+ll
+ll
+ifconfig
+nmap 10.129.32.16
+telnet 10.129.32.16
+nmap 10.129.166.0
+man nmap
+nmap -sV -p 21 10.129.166.0
+ftp -h
+ftp --help
+man ftp
+tldr ftp
+ftp 10.129.32.16
+ftp --help
+man ftp
+ftp -4 10.129.32.16
+ping 10.129.32.16
+nmap 10.129.32.16
+ftp 10.129.166.0
+ftp 10.129.166.0
+cd Desktop
+ll
+b flag.txt
+nmap 10.129.111.141
+nmap -sV 10.129.111.141
+nmap -h
+nmap -sV -VV 10.129.111.141
+nmap -sV -vv 10.129.111.141
+sftp --help
+man sftp
+smbclient --help
+smbclient -L 10.129.111.141
+smbclient -L Dancing 10.129.111.141
+smbclient -L=Dancing 10.129.111.141
+smbclient -L Dancing -I 10.129.111.141
+man smbclient
+smbclient -L Dancing -I 10.129.111.141
+smbclient -L Dancing -I 10.129.111.141
+smbclient -I 10.129.111.141
+tldr smbclient
+tldr smbclient --help
+smbclient --help
+smbclient -I 10.129.111.141 WorkShares
+smbclient -I 10.129.111.141 WorkShares -N
+smbclient -I 10.129.111.141 IPC$ -N
+smbclient -I 10.129.111.141 C$ -N
+smbclient -I 10.129.111.141 ADMIN$ -N
+smbclient -I 10.129.111.141 ADMIN -N
+smbclient -I 10.129.111.141 C -N
+smbclient -I 10.129.111.141 IPC -N
+smbclient -I 10.129.111.141 WorkShares
+smbclient -I 10.129.111.141 WorkShares
+smbclient -I 10.129.111.141 IPC -N
+smbclient -I 10.129.111.141 C -N
+smbclient -I 10.129.111.141 C$ -N
+smbclient -I 10.129.111.141 ADMIN$ -N
+smbclient -I 10.129.111.141 IPC$ -N
+smbclient -I 10.129.111.141 WorkShares
+smbclient -I 10.129.111.141 WorkShares -N
+smbclient -I 10.129.111.141 WorkShares -N -B
+smbclient -I 10.129.111.141 Dancing
+smbclient -I 10.129.111.141 //Dancing/WorkShares
+cd Desktop
+b flag.txt
+nmap -sV 10.129.90.224
+nmap --help
+nmap -sS -sV 10.129.90.224
+sudo nmap -sS -sV 10.129.90.224
+sudo nmap -p1000-4000 10.129.90.224
+sudo nmap -p2000-9999 10.129.90.224
+ping 10.129.90.224
+tldr nmap
+nmap -pN 10.129.90.224
+nmap -Pn 10.129.90.224
+nmap -p- -sV 10.129.90.224
+fg
+fg
+fg
+fg
+fg
+fg -h
+fg --help
+man fg
+ll
+cd Documents
+ll
+..
+cd Desktop
+ll
+sudo openvpn htb.ovpn
+cd Desktop
+rm flag.txt
+man wezterm
+wezterm --help
+wezterm ls-fonts
+ll
+ll
+ll
+cd .config
+ll
+mkdir wezterm
+cd wezterm
+touch wezterm.lua
+v wezterm.lua
+paru fonts
+paru glyphs
+paru fonts
+pkghist
+paru meta fonts
+paru fonts
+paru fonts
+wezterm ls-fonts
+\
+sudo pacman -S dconf util-linux-libs
+\
+bash -c "$(wget -qO- https://git.io/vQgMr)"
+\
+bash -c "$(wget -qO- https://git.io/vQgMr)"
+ffjkjf;j
+wezterm show-keys --lua
+ll
+locate src /
+locate src / | grep .yml
+cd /
+ll
+cd src
+cd
+ll
+cd .config
+ll
+..
+cd .local
+ll
+cd share
+ll
+pkghist
+ll
+..
+..
+cd .cache
+ll
+..
+\
+bash -c "$(wget -qO- https://git.io/vQgMr)"
+fd base4tone /
+locate foxnightly
+locate foxnightly /
+\
+bash -c "$(wget -qO- https://git.io/vQgMr)"
+paru tomli
+\
+bash -c "$(wget -qO- https://git.io/vQgMr)"
+paru ruamel
+\
+bash -c "$(wget -qO- https://git.io/vQgMr)"
+\
+bash -c "$(wget -qO- https://git.io/vQgMr)"
+fd base4tone /
+ll
+cd .lolca
+cd .local
+ll
+cd state
+ll
+..
+cd share
+ll
+cd felix
+ll
+cd Trash
+ll
+..
+..
+rmrf felix
+rmrf fff
+rmrf lf nvim.bak vifm
+..
+..
+cd .cache
+ll
+rmrf fff
+..
+..
+ll
+cd corey
+ll
+cd /usr/share
+ll
+cd themes
+ll
+..
+ll
+srmrf vifm vifm-devicons
+cd color-schemes
+ll
+..
+cd X11
+ll
+..
+..
+cd local
+ll
+cd src
+ll
+ls -a
+..
+cd share
+ll
+..
+cd include
+ll
+..
+ya
+man wezterm
+wezterm --help
+cd
+fd wezterm /
+locate wezterm /
+cd /usr/share
+ll
+cd wezterm
+cd doc
+ll
+cd wezterm
+ll
+b README.md
+..
+..
+fd wezterm /
+wezterm ls-fonts
+cd .config/wezterm
+ll
+v wezterm.lua
+v
+v
+v
+v
+v
+fg
+fg
+ 1
+f
+fds
+f
+sdf
+sd
+fsd
+f
+sdf
+sd
+fsd
+f
+adf
+asd
+gvfc
+vbz
+v
+f
+ll
+ll
+asd
+
+
+wezterm show-keys --lua
+wezterm show-keys
+cd Desktop
+sudo openvpn htb.ovpn & disown
+eze
+sudo openvpn htb.ovpn
+nmap -sV 10.129.150.15
+nmap -p- -sV 10.129.150.15
+paru redis
+redis-cli
+redis-cli --help
+tldr redis-cli
+redis-cli -h 10.129.150.15
+man redis-cli
+man redis
+man update
+man --update
+man man
+redis-cli --help
+cd Desktop
+sudo openvpn htb.ovpn
+sudo openvpn htb.ovpn
+sudo openvpn htb.ovpn
+sudo  
+cd Desktop
+sudo openvpn htb.ovpn
+cd .config/alacritty
+ll
+j alacritty
+ll
+v keybinds.toml
+man alacritty-bindings
+man kitty-bindings
+man kitty
+man kitty.conf
+j qtile
+ll
+v config.py
+j desktop
+sudo openvpn htb.ovpn
+qtconf
+python3
+paru kde connect
+pkghist
+paru kde connect
+paru
+snapper list --all-configs
+sudo snapper list --all-configs
+cd /etc
+cd snapper
+ll
+cd configs
+ll
+snapper help
+man snapper
+man snapper
+kitty --help
+paru
+cd .config/zsh
+ll
+v .zshrc
+cd Pictures
+ll
+ya
+fg
+R emacs
+paru emacs
+xprop
+xprop
+qtconf
+cd .config
+ll
+rmrf nvim
+ll
+..
+cd .cache
+ll
+rmrf nvim
+..
+cd .local/share
+ll
+rmrf nvim
+..
+cd state
+ll
+rmrf nvim
+...
+cd .config
+v
+ll
+cd nvim
+mkdir nvim
+cd nvim
+ll
+mkdir lua
+cd lua
+ll
+S npm go
+paru gcc
+j nvim
+ll
+cd lua
+ll
+mkdir plugins
+cd plugins
+ll
+cp ~/Documents/nvimfiles/yazi.lua
+cp ~/Documents/nvimfiles/yazi.lua ./
+ll
+cp ~/Documents/nvimfiles/onedark.lua ./
+ll
+b onedark.lua
+ll
+b yazi.lua
+ll
+v debug.lua
+paru nvim-dap
+paru debugpy
+paru nvim-treesitter
+paru tree-sitter-python
+S hadolint
+S inko janet jsonlint vale ruby tflint
+S inko janet vale ruby tflint
+paru -S --needed inko janet vale ruby tflint
+ll
+v neo-tree.lua
+...
+..
+mv nvim nvim.old
+..
+cd .local
+cd share
+ll
+cd Trash
+ll
+cd nvim
+ll
+cd files
+ll
+ya
+qg fire
+fg
+fg
+fg
+fg
+fg
+fg
+qtconf
+paru polybar
+man polybar
+man polybar 5
+man polybar(5)
+man man
+paru ticktick
+paru microsoft todo
+microsoft to do
+paru todo
+paru microsoft todo
+paru microsoft todo
+man chsh
+man user
+man password
+man passwd
+cd /etc/
+ll
+b passwd
+b passwd-
+ya
+paru onedrive
+onedrive
+cd Desktop
+ll
+touch postofficejob
+v postofficejob
+ll
+cd OneDrive
+ll
+..
+ll
+cd Desktop
+ll
+mv jobsearch
+mv postofficejob jobsearch
+v jobsearch
+cd
+qtconf
+qtconf
+qtconf
+paru -Qqe
+paru chrome
+picom & disown
+htop
+upower
+upower --help
+upower -i
+upower
+man upowerd
+ya
+xset s off
+xset blank off
+xset s blank
+xset s off
+xset -dpms & disown
+cd Desktop
+sudo openvpn htb.ovpn
+cd Desktop
+sudo openvpn htb.ovpn
+paru multiplexer
+tmux
+man tmux
+cd /etc/
+grep tmx
+grep tm
+ls | grep tmux
+ll
+fd tux
+fd tmux
+locate tmux
+fd tmux /
+cd .config
+ll
+..
+ll
+paru tpm
+ll
+v tmux.conf
+man tmuix
+man tmux
+tmux
+tmux
+tmux --help
+wwtmux
+tmux
+tmux
+tmux
+exit
+tmux
+exit
+tmux
+exit
+tmux --attach
+tmux -attach
+tmux --attach last
+tmux
+ll
+mv -p tmux.conf ~/tmux/tmux.conf
+mv --help
+ll
+mkdir .tmux
+cd .tmux
+tmux
+tpm
+man tmux
+ll
+mv ~/tmux.conf ./tmux.conf
+ll
+ll
+..
+ll
+ya
+tmux
+man tmux
+ya
+ll
+..
+ln -s ~/.tmux/.tmux.conf ~/.tmux.conf
+ll
+exit
+exit
+tmux
+j kitty
+v kitty.conf
+j zsh
+ll
+v .zshrc
+
+man zsh
+man bindkey
+man bind
+man bindkeys
+man bindkey
+bindkey --help
+bindkey -h
+bindkey -s
+bindkey -s '^A'
+bindkey -s --help
+bindkey -s C-a
+bindkey -p
+bindkey -p ^
+bindkey -p a
+bindkey -p C
+bindkey -p *
+bindkey -p '\
+
+bindkey -p
+bindkey -s
+bindkey -s
+bindkey -s
+exit
+exit
+tmux
+exit
+tmux attach
+cd .tmux
+ll
+v .tmux.conf
+exit
+htop
+tmux start-server
+tmux list-sessions
+tmux
+qexit
+exit
+tmux attach
+tmux
+d
+cd
+cd
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+cd .tmux
+v .tmux.conf
+tmux
+cd .tmux
+v .tmux.conf
+tmux
+# type this in terminal if tmux is already running\
+tmux source ~/.tmux.conf
+tmux source ~/.tmux.conf
+fg
+exit
+exit
+htop
+tmux
+cd .tmux
+v .tmux.conf
+exit
+htop
+tmux
+v .tmux.conf
+exit
+tmux
+v .tmux.conf
+cd .tmux/plugins/tpm
+ll
+./tpm
+run ./tpm
+tmux run ./tpm
+tmux source ~/.tmux.conf
+exit
+tmux source ~/.tmux.conf
+v .tmux.conf
+cd .tmux/plugins
+ll
+cd tpm
+ll
+./tpm
+b tpm
+tmux source ~/.tmux.conf
+cd .tmux
+ll
+rm -rf plugins
+ll
+..
+ll
+rm .tmux.conf
+ll
+cd bin
+ll
+$ git clone https://github.com/samoshkin/tmux-config.git\
+$ ./tmux-config/install.sh
+$ git clone https://github.com/samoshkin/tmux-config.git\
+$ ./tmux-config/install.sh
+git clone https://github.com/samoshkin/tmux-config.git & ./tmux-config/install.sh
+git clone https://github.com/samoshkin/tmux-config.git
+ll
+cd tmux-config
+ll
+./install.sh
+cd
+ll
+cd .tmux
+ll
+cd plugins
+ll
+..
+tmux
+htop
+tmux
+v .tmux.conf
+exit
+exit
+htop
+pkill tmux
+tmux
+tmux start
+ll
+v .tmux.conf
+tmux
+v .tmux.conf
+tmux
+v .tmux.conf
+exit
+tmux
+v .tmux.conf
+exit
+tmux
+v .tmux.conf
+exit
+tmux
+v .tmux.conf
+$
+exit
+tmux
+pkil tmux
+pkill tmux
+tmux
+v .tmux.conf
+exit
+pkill tmux
+tmux
+v  l
+v .tmux.conf
+exit
+pkill tmux
+tmux
+v .tmux.conf
+exit
+pkill tmux
+tmux
+v .tmux.conf
+v .tmux.conf
+exit
+polybar
+man polybar
+man polybar(5)
+man polybar (5)
+man polybar 5
+man man
+man polybar.5
+man polybar.3
+man polybar.4
+man polybar.2
+man polybar.6
+j polybar
+cd .config
+ll
+cd polybar
+ll
+b config.ini
+v config.ini
+cd /usr/share/fonts/adobe-source-code-pro
+cd ..
+ll
+cd OTF
+ll
+cd ..
+cd TTF
+ll
+polybar --reload
+pkill polybar
+polybar
+pkill polybar ; polybar
+pkill polybar ; polybar
+qtconf
+tmux
+|||'
+tmux attach
+tmux attach
+cd
+cd .tmux
+ll
+cd
+ll
+rmrf .tmux
+ll
+mkdir .tmux
+cd .tmux
+ll
+v .tmux.conf
+cd
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+tmux source ~/.tmux.conf
+cd
+ln -s ~/.tmux/.tmux.conf ~/.tmux.conf
+ll
+rm .tmux.conf
+ll
+ln -s ~/.tmux/.tmux.conf ~/.tmux.conf
+ll
+clr
+tmux source ~/.tmux.conf
+ll
+tmux source ~/.tmux.conf
+ll
+clr
+cd .tmux/plugins
+ll
+cd tmux-powerline
+ll
+cd themes
+ll
+..
+./generate_config.sh
+ll
+..
+ll
+..
+ll
+cd plugins
+ll
+cd tpm
+ll
+..
+ll
+cd tmux-powerline
+ll
+b main.tmux
+ll
+b powerline.sh
+b README.md
+cd themes
+ll
+v bubble.sh
+j nvim
+ll
+b .stylua.toml
+cd lua/plugins
+ll
+b user.lua
+..
+ll
+v options.lua
+v
+ll
+..
+ll
+cd lua
+ll
+b community.lua
+b lazy_setup.lua
+b polish.lua
+lll
+ll
+cd plugins
+ll
+ya
+tmux show-option -g status-format
+tmux attach
+qtconf
+qtconf
+qtconf
+
+
+tmux attach
+tmux
+exit
+tmux new-session
+fjslj
+cd /etcsystemd
+cd /etc/systemd
+tmux attach
+tmux list-sessions
+tmux attach
+yazi
+fl
+lskdjf
+fs
+ddd
+j tmux
+ll
+v .tmux.conf
+paru pdf
+v
+fg
+cd plugins/tmux-powerline
+ll
+./generate_config.sh
+ll
+..
+ll
+cd tmux-powerline
+ll
+cd config
+ll
+..
+ll
+./generate_config.sh
+...
+..
+cd .config
+ll
+cd tmux
+ll
+..
+rm tmux
+rmdir tmux
+ll
+..
+cd .config
+ll
+cd tmux-powerline
+ll
+mv config.sh.default ~/
+ll
+..
+rmdir tmux-powerline
+ll
+..
+ll
+ll
+v config.sh.default
+cd Desktop
+sudo openvpn htb.ovpn
+redis-cli
+redis-cli --help
+redis-cli -h 10.129.79.189 -p 6379
+redis-cli -h 10.129.79.189 -p 6379
+redis-cli -h 10.129.79.189 -p 6379
+redis-cli -h 10.129.79.189 -p 6379 -db 0
+redis-cli -h 10.129.79.189 -p 6379 -n 0
+htop
+tmux
+cd .tmux
+ll
+v .tmux.conf
+cd .config
+mkdir tmux
+..
+..
+cd
+ll
+cd .tmux
+ll
+ya
+ya
+exit
+exit
+tmux
+man tmux
+cd .config
+cd tmux
+ll
+mv .tmux.conf tmux.conf
+ll
+exit
+tmux
+j tmux
+ll
+v tmux.conf
+exit
+tmux
+j tmux
+ll
+v tmux.conf
+exit
+tmux
+j tmux
+ll
+cd plugins
+ll
+cd tmux-
+ll
+cd tmux-powerline
+ll
+cd themes
+ll
+cd Desktop
+sudo openvpn htb.ovpn
+j tmux
+ll
+cd plugins
+ll
+cd tmux-themepack
+ll
+ya
+cd .config
+cd tmux
+ll
+cd plugins/tmux-powerline
+ll
+./generate_config.sh
+..
+..
+..
+ll
+cd tmux-powerline
+ll
+tmux list-sessions
+tmux start-server
+tmux list-sessions
+cd
+ll
+cd .config/tmux
+ll
+ln -s ./tmux.conf ~/.tmux.conf
+cd
+ll
+tmux
+cd .config/tmux/plugins/tmux-themepack/powerline/double
+ll
+v cyan.tmuxtheme
+exit
+tmux
+cd Desktop
+sudo openvpn htb.ovpn
+cd .config/tmux
+v tmux.conf
+j kity
+j kitty
+v kitty.conf
+v kitty.conf
+tmux
+tmux
+exit
+tmux
+exit
+tmux attach
+tmux
+cd .config/tmux
+v tmux.conf
+v tmux.conf
+v tmux.conf
+v tmux.conf
+j kitty
+v kitty.conf
+j nvim
+ll
+ya
+fg
+fg
+cd Desktop
+sudo openvpn htb.ovpn
+sudo openvpn htb.ovpn
+paru kde connect
+paru -Sy
+paru -Syu
+lsblk
+cd /etc/snapper
+ll
+cd configs
+ll
+ll -a
+...
+fd snapper
+cd conf.d
+ll
+b snapper
+snapper --help
+cd /usr/share/snapper
+ll
+cd filters
+ll
+b base.txt
+b lvm.txt
+b x11.txt
+..
+ll
+cd config-templates
+ll
+b default
+cd /etc/conf.d
+ll
+b snapper
+..
+cd snapper
+ll
+cd configs
+ll
+sudo snapper create-config -c home /home
+man snapper
+sudo snapper list-configs
+sudo snapper create-config --config 'home' home
+sudo snapper create-config home
+sudo snapper create-config /home
+ll
+b root
+sudo bat root
+ll
+sudo snapper -c root delete-config
+ll
+sudo snapper -c home create-config /home
+ll
+sudo snapper -c root create-config /
+lsblk
+cd /
+ll
+sudo snapper -c cache create-config /var/cache
+sudo snapper -c log create-config /var/log
+ll
+v cache
+sudo nvim cache
+sv home
+sv log
+sv root
+cd
+cd bin
+ll
+v snapall.sh
+mv snapall.sh snapall
+ll
+snapall
+./snapall
+v snapall
+./snapall
+sudo snapper list --all
+sudo snapper -c cache delete-config
+cd /etc/snapper
+ll
+cd configs
+ll
+snapper -c cache create-config /var/cache
+sudo snapper -c cache create-config /var/cache
+v cache
+ll
+sv cache
+ll
+sudo snapper list --all
+ealias
+howold
+j kitty
+v kitty.conf
+cd /etc/snapper
+cd configs
+ll
+snapall
+cd 
+cd bin
+ll
+v snapall
+ealias
+snapall
+sudo snapper list --all
+inko --help
+cd
+ll
+rm install.txt
+R tmux
+ll
+rm .tmux.conf
+cd .config
+ll
+cd tmux
+ll
+ya
+paru
+snapall
+ll
+cd .config
+ll
+v picom.conf
+pacui
+xprop
+pkill picom
+picom & disown
+picom & disown
+ya
+j qtile
+v config.py
+cd media
+cd wallpapers
+ll
+ya
+ya
+xprop
+pkill picom
+picom & disown
+pkill picom
+picom & disown
+xprop
+pkill picom
+picom & disown
+picom & disown
+pkill picom
+picom & disown
+pkill picom
+picom & disown
+pkill picom
+picom & disown
+pkill picom
+picom & disown
+pkill picom
+picom & disown
+paru -Slq neovim
+xargs --help
+man pacman
+pacman -Slq
+pacman -Qtdq
+man pacman
+v .zshrc
+b .zshrc
+cd .local/share
+ll
+cd zinit
+ll
+cd plugins
+ll
+cd fourdim---zsh-archlinux
+ll
+v zsh-archlinux.plugin.zsh
+pac list
+pac prune
+pac clean
+pac tree
+pac
+pac upg
+paru
+cd /etc/xdg/autostart
+ll
+sya
+ll
+cd .local/share
+ll
+cd zinit
+ll
+cd plugins
+ll
+cd fourdim---zsh-archlinux
+ll
+b zsh-archlinux.plugin.zsh
+cd .config/zsh
+ll
+v fuctions.zsh
+cd .config
+ll
+yazi --help
+yazi ~/.config/zsh
+..
+ll
+b .kuro.json
+cd bin
+ll
+v .zshrc
+cd .config/zsh
+ll
+chmod +x fuctions.zsh
+ll
+j zsh
+v fuctions.zsh
+source functions.zsh
+ll
+mv fuctions.zsh functions.zsh
+ll
+v .zshrc
+source functions.zsh
+v functions.zsh
+echo $ZSH_CACHE_DIR
+echo ${ZINIT[COMPLETIONS_DIR]
+echo ${ZINIT[COMPLETIONS_DIR]:-$ZSH_CACHE_DIR/completions}
+cd .local/share/zinit/completions
+ll
+v _pac
+j zsh
+v functions.zsh
+source functions.zsh
+edit qtile
+edit qtile
+v functions.zsh
+source functions.zsh
+edit qtile
+v functions.zsh
+source functions.zsh
+j zsh
+v functions.zsh
+source .zshrc
+v .zshrc
+j zsh
+v functions.zsh
+j zsh
+v functions.zsh
+v .zshrc
+cd .cache
+ll
+cd zinit
+ll
+ll
+..
+ll
+ls zinit
+..
+cd .local/share/zinit
+ll
+cd completions
+ll
+b _zinit
+j completions
+ll
+v _edit
+zinit describe
+zinit describe load
+bash --help
+man bash
+j zsh
+v functions.zsh
+zinit commands
+ll
+j zsh
+v functions.zsh
+j zsh
+v functions.zsh
+v .zshrc
+j zinit
+cd completions
+ll
+v _edit
+j completions
+v _edit
+j zsh
+ll
+v functions.zsh
+source .zshrc
+v .zshrc
+rm functions.zsh
+j zsh
+v .zshrc
+man zsh
+man zshcompctl
+man zshscript
+j .ssh
+j zsh
+v .zshrc
+compinit
+cdlist
+v .zshrc
+url-quote-magic --help
+man url-quote-magic
+eval edit
+v .zshrc
+source .zshrc
+v .zshrc
+source .zshrc
+v .zshrc
+echo ^^
+echo (($@)^^${SHELL[@]})
+edit qtile
+edit qtile
+cd bin
+ll
+chmod +x edit
+ll
+cd
+edit picom
+edit qtile
+v .zshrc
+cd bin
+v edit
+cd
+edit
+edit qtile
+cd bin
+v edit
+./edit
+./edit alacritty
+v edit
+./edit alacritty
+cd
+edit qtile
+edit picom
+polybar
+j polybar
+ll
+v config.ini
+polybar
+j polybar
+v config.ini
+polybar top
+v config.ini
+ll
+ya
+git clone --depth=1 https://github.com/adi1090x/polybar-themes.git
+cd polybar-themes
+ll
+./setup.sh
+ll
+cs simple
+ll
+./setup.sh
+..
+ll
+cd polybar
+ll
+ll
+..
+cd polybar
+..
+polybar-themes
+ll
+cd simple
+ll
+ya
+..
+cd polybar
+ll
+./launch.sh
+launch.sh --cuts
+./launch.sh --cuts
+pkill polybar
+ll
+./launch.sh --hack
+pkill polybar
+ll
+cd hack
+ll
+v modules.ini
+paru mpd
+cd .config/polybar
+ll
+./launch.sh --hack
+fg
+pkill polybar
+ll
+cd hack
+ll
+v config.ini
+..
+./launch.sh --hack
+pkill polybar
+ll
+./launch.sh
+pkill polybar
+v modules.ini
+./launch.sh --hack
+pkill polybar
+j qtile
+v config.py
+qtconf
+j polybar
+./launch.sh --hack
+cd hack
+v modules.ini
+pkill polybar
+j polybar
+./launch.sh --hack
+pkill polybar
+./launch.sh --hack
+pkill polybar
+./launch.sh --hack
+pkill polybar
+./launch.sh --hack
+amixer
+amixer --help
+amixer scontrols
+pkill polybar
+./launch.sh --hack
+pkill polybar
+./launch.sh --hack
+lsblk
+ll
+v ./.zshrc
+exit
+: 1731988239:0;paru polybar pulse
+: 1731988248:0;paru pavolume
+: 1731988495:0;paru pulseaudio
+: 1731990049:0;amixer
+: 1731990055:0;amixer --help
+: 1731990204:0;amixer -i
+: 1731990300:0;cd /dev/
+: 1731990301:0;ll
+: 1731990412:0;amixer -c controlC0
+: 1731990418:0;amixer -c 0
+: 1731990472:0;amixer -D 
+: 1731990479:0;amixer -D control
+: 1731993925:0;amixer
+: 1731993953:0;amixer -c 0 controls
+: 1731993979:0;amixer -c 0 contents
+: 1731994016:0;amixer -c 0 events
+: 1731994039:0;amixer -c 0 sevents
+: 1731994062:0;amixer -c 0 -R
+: 1731994124:0;j polybar
+: 1731994125:0;ll
+: 1731994127:0;cd cuts
+: 1731994128:0;ll
+: 1731994135:0;v modules.ini
+: 1731994320:0;j polybar
+: 1731994326:0;./launch.sh --hack
+: 1731994372:0;pkill polybar
+: 1731994393:0;ll
+: 1731994401:0;v config.ini
+: 1731994461:0;..
+: 1731994462:0;cd hack
+: 1731994463:0;ll
+: 1731994466:0;v modules.ini
+: 1731994564:0;v config.ini
+: 1731994607:0;./launch.sh --hack
+: 1731994638:0;v modules.ini
+: 1731994752:0;v config.ini
+: 1731994953:0;..
+: 1731994955:0;./launch.sh --hack
+: 1731995725:0;paru authentication provider
+: 1731996003:0;printenv > "/tmp/tmp-86864a0o8LxvP6Bve.txt"
+: 1731996797:0;fg
+: 1731998655:0;paru
+: 1731999427:0;alacritty config
+: 1731999438:0;alacritty migrate
+: 1731999471:0;j alacritty
+: 1731999476:0;v keybinds.toml
+: 1732005232:0;pkill polybar
+: 1732005240:0;pkill polybar
+: 1732005247:0;htop
+: 1732005291:0;j polybar
+: 1732005295:0;./launch.sh --hack
+: 1732005333:0;ll
+: 1732005336:0;b launch.sh
+: 1732005368:0;ll
+: 1732005370:0;cd hack
+: 1732005371:0;ll
+: 1732005376:0;./launch.sh --hack
+: 1732005380:0;./launch.sh
+: 1732005422:0;cd .config/polybar
+: 1732005426:0;./launch.sh --hack
+: 1732005454:0;qtconf
+: 1732005529:0;cd ../qtile
+: 1732005529:0;ll
+: 1732005531:0;v config.py
+: 1732005669:0;qtconf
+: 1732010768:0;ssh --help
+: 1732010794:0;tldr ssh
+: 1732010849:0;ssh bandit.labs.overthewire.org -p 2220 -l bandit0 
+: 1732010948:0;ssh bandit.labs.overthewire.org -p 2220 -l bandit0 
+: 1732011124:0;cd Personal
+: 1732011125:0;ll
+: 1732011139:0;mkdir bandit
+: 1732011141:0;cd bandit
+: 1732011142:0;ll
+: 1732011159:0;v overthewire-bandit-lvl-passwords
+: 1732011264:0;ssh bandit.labs.overthewire.org -p 2220 -l bandit1
+: 1732011835:0;ssh bandit.labs.overthewire.org -p 2220 -l bandit2
+: 1732011927:0;ssh bandit.labs.overthewire.org -p 2220 -l bandit3
+: 1732023342:0;cd bin
+: 1732023343:0;ll
+: 1732023355:0;chmod +x edit_config.py
+: 1732023356:0;ll
+: 1732023363:0;./edit_config.py
+: 1732023391:0;./edit_config.py
+: 1732023507:0;cd
+: 1732023508:0;cd bin
+: 1732023509:0;ll
+: 1732023515:0;./edit_config.py
+: 1732023780:0;./edit_config.py
+: 1732023794:0;./edit_config.py
+: 1732023928:0;./edit_config.py
+: 1732024978:0;./edit_config.py
+: 1732025316:0;cd bin
+: 1732025317:0;ll
+: 1732025326:0;python edit_config.py
+: 1732025554:0;python edit_config.py
+: 1732025678:0;nvim ~/.config/qtile/config.py
+: 1732025874:0;nvim /home/corey/.config/qtile/config.py
+: 1732025887:0;python edit_config.py
+: 1732025938:0;python edit_config.py
+: 1732025944:0;python edit_config.py
+: 1732026318:0;python edit_config.py
+: 1732026332:0;python edit_config.py
+: 1732026343:0;python edit_config.py
+: 1732171888:0;ssh --help
+: 1732171896:0;ll
+: 1732171899:0;cd .ssh
+: 1732171901:0;ll
+: 1732171905:0;b known_hosts
+: 1732171934:0;..
+: 1732171937:0;cd .gnupg
+: 1732171937:0;ll
+: 1732171941:0;cd private-keys-v1.d
+: 1732171942:0;ll
+: 1732171944:0;..
+: 1732171945:0;cd crls.d
+: 1732171946:0;ll
+: 1732171951:0;b DIR.txt
+: 1732171955:0;ll
+: 1732171955:0;..
+: 1732171956:0;oll
+: 1732171957:0;ll
+: 1732171962:0;b pubring.kbx
+: 1732171965:0;b trustdb.gpg
+: 1732171968:0;..
+: 1732171968:0;ll
+: 1732171982:0;cd /run/media/corey
+: 1732171983:0;ll
+: 1732171987:0;cd Ventoy
+: 1732171988:0;ll
+: 1732171991:0;ya
+: 1732172383:0;ll
+: 1732172451:0;ya
+: 1732172491:0;ssh-keygen -t ed25519 -C "131212701+Coreyizfate@users.noreply.github.com"
+: 1732172628:0;eval "$(ssh-agent -s)"
+: 1732172689:0;ssh-add ~/.ssh/id_ed25519
+: 1732172741:0;ll
+: 1732172757:0;cat ./id_ed25519.pub
+: 1732172877:0;ssh -T git@github.com
+: 1732172946:0;cd
+: 1732172946:0;ll
+: 1732172956:0;cd .config
+: 1732172957:0;ll
+: 1732172969:0;add alacritty
+: 1732173050:0;config log
+: 1732173060:0;ll
+: 1732173067:0;cd autostart
+: 1732173068:0;ll
+: 1732173070:0;..
+: 1732173071:0;ll
+: 1732173076:0;add bat
+: 1732173082:0;add copyq
+: 1732173087:0;add doom
+: 1732173091:0;add flameshot
+: 1732173102:0;add htop
+: 1732173110:0;add kitty
+: 1732173115:0;add nvim
+: 1732173123:0;add pamac
+: 1732173125:0;add paru
+: 1732173128:0;add polybar
+: 1732173133:0;add polybar.old
+: 1732173153:0;add qtile
+: 1732173160:0;add rofi
+: 1732173165:0;add sublime-text
+: 1732173169:0;add Thunar
+: 1732173177:0;add tmux
+: 1732173182:0;ll
+: 1732173190:0;add yay
+: 1732173192:0;add yazi
+: 1732173195:0;add zsh

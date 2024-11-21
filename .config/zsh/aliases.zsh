@@ -39,7 +39,7 @@ alias g='grep'
 alias v='nvim'
 alias vi='nvim'
 alias j='z'               # type j for jump isnteead of z to use zsh-z plugin
-alias ya='yazi'
+alias ya='y'
 
 # Excluding certain directories form the 'fd' command
 alias fd='fd --exclude /usr/share/icons --exclude /run/media --exclude /usr/lib/python3.11 --exclude /opt/metasploit --exclude /opt/anaconda'
@@ -47,21 +47,12 @@ alias fd='fd --exclude /usr/share/icons --exclude /run/media --exclude /usr/lib/
 # Fuzzy search for files with a preview window of file contents on right 50%(can be hidden also)
 alias fzf='fzf --preview "bat {}" --preview-window "right,50%,border-left" --bind "ctrl-/:change-preview-window(hidden|)"'
 
-# chown & chmod aliases
-alias own="sudo chown"
-alias me="sudo chown corey:corey"
-alias meR="sudo chown -R corey:corey"
-alias mod="sudo chmod"
-alias modR="sudo chmod -R"
-
 # Aliases to add flags to rm command that are frequently used
 alias del='trash'
 alias rmrf='trash -rf'
 alias sdel='sudo trash'
 alias srmrf='sudo trash -rf'
 alias sv='sudo -E nvim'
-
-# Shortened command to run ranger with sudo
 alias sya='sudo -E yazi'
 
 # Edit Qtile Configuration File
@@ -177,10 +168,11 @@ alias Qi='paru -Qi | $PAGER'
 alias qi='paru -Qi | $PAGER'
 
 # Uses custom script to snapshot all subvolumes with specified description
-alias snapall='sh ~/bin/snapall.sh'
+# alias snapall='sh ~/bin/snapall.sh'
 alias snaproot='sudo snapper -c root create'
 alias snaphome='sudo snapper -c home create'
-alias snapvar='sudo snapper -c var create'
+alias snaplog='sudo snapper -c log create'
+alias snapcache='sudo snapper -c cache create'
 
 
 
@@ -348,14 +340,13 @@ alias ehosts="sudo $EDITOR /etc/hosts"
 alias ehostname="sudo $EDITOR /etc/hostname"
 alias eresolv="sudo $EDITOR /etc/resolv.conf"
 alias eb="$EDITOR ~/.bashrc"
-alias ez="$EDITOR ~/.zshrc"
+alias ez="$EDITOR ~/.config/zsh/.zshrc"
 alias ef="$EDITOR ~/.config/fish/config.fish"
 alias eplymouth="sudo $EDITOR /etc/plymouth/plymouthd.conf"
 alias evconsole="sudo $EDITOR /etc/vconsole.conf"
 alias eenvironment="sudo $EDITOR /etc/environment"
 alias eloader="sudo $EDITOR /boot/efi/loader/loader.conf"
 alias erefind="sudo $EDITOR /boot/refind_linux.conf"
-alias ealacritty="nvim $HOME/.config/alacritty/alacritty.toml"
 
 #removing packages
 alias rkmix="arcolinux-remove-kmix"

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+read -p "Set description for snapshots: " user_desc
+
+sudo snapper -c root create -d "${user_desc}@root"
+
+sudo snapper -c home create -d "${user_desc}@home"
+
+sudo snapper -c log create -d "${user_desc}@log"
+
+sudo snapper -c cache create -d "${user_desc}@cache"

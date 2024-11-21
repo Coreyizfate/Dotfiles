@@ -1,0 +1,59 @@
+#! /bin/bash
+
+case "$1" in
+  alacritty)
+    nvim ~/.config/alacritty/alacritty.toml
+    ;;
+  alacritty-bindings)
+    nvim ~/.config/alacritty/keybinds.toml
+    ;;
+  autostart)
+    nvim ~/bin/autostart.sh
+    ;;
+  bat)
+  nvim ~/.config/bat/config
+  ;;
+  kitty)
+    nvim ~/.config/kitty/kitty.conf
+    ;;
+  nvim)
+    yazi ~/.config/nvim
+    ;;
+  paru)
+    nvim ~/.config/paru/paru.conf
+    ;;
+  polybar)
+    nvim ~/.config/polybar/config.ini
+    ;;
+  qtile)
+    nvim ~/.config/qtile/config.py
+    ;;
+  tmux)
+    nvim ~/.config/tmux/tmux.conf
+    ;;
+  yay)
+    nvim ~/.config/yay/config.json
+    ;;
+  yazi)
+    nvim ~/.config/yazi/yazi.toml
+    ;;
+  yazi-theme)
+    nvim ~/.config/yazi/theme.toml
+    ;;
+  yazi-bindings)
+    nvim ~/.config/yazi/keymap.toml
+    ;;
+  zshrc)
+    nvim ~/.config/zsh/.zshrc
+    ;;
+  aliases)
+    nvim ~/.config/zsh/aliases.zsh
+    ;;
+  env)
+    nvim ~/.config/zsh/env.zsh
+    ;;
+  picom)
+    nvim ~/.config/picom.conf
+    ;;
+esac
+

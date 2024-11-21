@@ -22,7 +22,10 @@ zinit light kutsan/zsh-system-clipboard
 zinit light hsienjan/colorize
 zinit light Freed-Wu/zsh-help
 zinit light mdumitru/fancy-ctrl-z
+zinit light fourdim/zsh-archlinux
+zinit light hchbaw/auto-fu.zsh
 zinit ice depth=1; zinit light romkatv/powerlevel10k
+
 
 autoload -Uz _zinit
 (( ${+_comps} )) && _comps[zinit]=_zinit
@@ -35,6 +38,9 @@ zstyle ':completion:*' menu select
 zstyle ':completion:*' select-prompt %SScrolling active: current selection at %p%s
 zstyle :compinstall filename '/home/corey/.zshrc'
 
+
+
+
 autoload -U compinit; compinit
 autoload -U url-quote-magic bracketed-paste-magic
 zle -N self-insert url-quote-magic
@@ -44,6 +50,7 @@ compinit -d "$XDG_CACHE_HOME"/zsh/zcompdump-"$ZSH_VERSION"
 zmodload zsh/complist
 _comp_options+=(globdots)   
 # [ ! -d "$XDG_CACHE_HOME/zsh" ] && mkdir "$XDG_CACHE_HOME/zsh"
+
 
 # Adding zoxide completion (z)
 eval "$(zoxide init zsh)"
@@ -102,19 +109,41 @@ function zle-keymap-select {
 }
 zle -N zle-keymap-select
 
+# ===============================
+# ===     Custom Bindings     ===
+# ===============================
+
 # Use beam shape cursor on startup.
 echo -ne '\e[5 q'
 
 precmd_functions+=(_fix_cursor)
 
+
+# Sourcing custom personal files [aliases, environment settings, etc.]
+
 if [[ -f $ZSH_CONFIG/aliases.zsh ]]; then
     source $ZSH_CONFIG/aliases.zsh
 fi
+
 if [[ -f $ZSH_CONFIG/env.zsh ]]; then
     source $ZSH_CONFIG/env.zsh
 fi
 
+
+# Allow changing cwd when exiting Yazi File Manager
+
+function y() {
+	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")"
+	yazi "$@" --cwd-file="$tmp"
+	if cwd="$(cat -- "$tmp")" && [ -n "$cwd" ] && [ "$cwd" != "$PWD" ]; then
+		builtin cd -- "$cwd"
+	fi
+	rm -f -- "$tmp"
+}
+
+
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+
 [[ ! -f ~/.config/zsh/.p10k.zsh ]] || source ~/.config/zsh/.p10k.zsh
 
 autoload -Uz compinit

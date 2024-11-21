@@ -1,0 +1,29 @@
+command:0
+command:nvim
+command:~/.tmux/history
+command:0
+command:01
+command:1
+command:0
+command:20000
+command:10000
+command:C-Space
+command:C-a
+command:#{?window_bigger,[#{window_offset_x}#,#{window_offset_y}] ,}"#{=21:pane_title}" %H:%M %d-%b-%y
+command:#{?window_bigger,[#{window_offset_x}#,#{window_offset_y}] ,}"#{=21:pane_title}" %H:%M %b/%d/%y
+command:bg=blue,fg=black
+command:bg=orange,fg=black
+command:bg=blue,fg=black
+command:bg=blue,fg=orange
+command:bg=blue,fg=purple
+command:bg=blue,fg=grey
+command:bg=blue,fg=charcoal
+command:bg=blue,fg=cherry
+command:bg=blue,fg=white
+command:bg=blue,fg=black
+command:orange
+command:list-keys
+command:list-buffers
+command:list-windows
+target:3
+target:1
